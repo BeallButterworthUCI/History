@@ -1,0 +1,29 @@
+name: Validate archive data
+
+on:
+  push:
+    paths:
+      - 'data/**'
+      - 'years/**'
+      - '.github/workflows/validate-data.yml'
+      - 'scripts/validate_data.py'
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'years/**'
+      - '.github/workflows/validate-data.yml'
+      - 'scripts/validate_data.py'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run validation
+        run: python scripts/validate_data.py

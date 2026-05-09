@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Read the contribution guide first
+    url: https://github.com/ImanM02/History/blob/main/CONTRIBUTING.md
+    about: Source-quality ranking, style conventions, and what to include in a correction.
+  - name: Official BBComp site (primary source)
+    url: https://bbcomp.tech.uci.edu/
+    about: The authoritative public record of competition results, judges, sponsors, and rules.
