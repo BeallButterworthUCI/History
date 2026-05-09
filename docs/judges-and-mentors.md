@@ -70,10 +70,46 @@ Source: [engineering.uci.edu, July 2014](https://engineering.uci.edu/news/2014/7
 | Prof. Zoran Nenadic | UCI Biomedical Engineering associate professor | Spero Diagnostics (Beall 1st) |
 | Ray Chan | K5 Venture Partners | HydroTrack (Beall 3rd) |
 
-## Pre-2014 Judges (Butterworth-only era)
+## 2013 Judges (Butterworth-only era)
 
-Verified from the 2012 cycle:
+Verified from the recovered 2013 ICS news article:
+
+- **Tony Crisp** — B.S. '92, School of Biological Sciences; CEO & Brand Strategist, Crisp Brand Agency.
+- **Kevin Kinsey** — CEO & Co-Founder, Netreo; Bren School Dean's Leadership Council member.
+- **Roger Lloyd** — President, PlayNTrade USA; EVP Global Marketing & Product Development.
+- **David Ochi** — B.S. '97, Multiple Schools; MBA '99, Merage; Co-Founder, Alpha Sprouts. (Now competition director.)
+- **Neil Sahota** — B.S. '97, Multiple Schools; B.S. '00, Bren School; MBA '03, Merage; Thought Leader Consultant, IBM Global Business Services.
+
+This panel was largely re-used as the 2014 inaugural Butterworth panel.
+
+## 2012 Judges (Butterworth-only era)
 
 - **Kevin Kinsey** — then CEO and co-founder of Netreo; quoted in 2012 saying the cohort was the most impressive "over the last nine years," implicitly establishing the Butterworth Product Development Competition's start at around 2003–2004.
+- Other 2012 judges: *No public record found beyond Kevin Kinsey.* Contributions welcome — see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-Other pre-2014 judges: *No public record found.* Contributions welcome — see [CONTRIBUTING.md](../CONTRIBUTING.md).
+## 2012 and 2013 Mentors
+
+The Butterworth-only era (2012–2013) used a much larger mentor pool than the post-2014 joint era — typically one mentor per finalist team rather than per winner. Notable mentors who recur:
+
+| Mentor | Affiliation | Years mentored | Teams |
+|--------|-------------|----------------|-------|
+| Tony Crisp | B.S. '92, School of Biological Sciences; CEO and Brand Strategist, CRISP Brand Agency | 2012, also a judge in 2013+ | Portfelo (2012 1st) |
+| Channa Samynathan | B.S. '96, Bren School of ICS; Solutions Architect | 2012, 2013, 2014 | M-Prescription (2012 3rd), Approve (2012 finalist), MobileCast (2013 finalist), Sparky/Blueberry (2014 1st) |
+| Ash Kumra | Co-founder of DesiYou and DreamItAlive.com | 2012, 2013 | Spawnd (2012 2nd), Licademia (2013 finalist) |
+| Brian Dao | B.S. '03, Bren School of ICS; Managing Partner, Alpha Sprouts | 2012 (mentor), 2024+ (judge) | Optinerary (2012 finalist) |
+| Don Patterson | Associate Professor, Informatics, Bren School of ICS | 2012 | Rims (2012 finalist), Whobot (2012 finalist) |
+| Ian Harris | Associate Professor, Computer Science, Bren School of ICS | 2012 | SmartHome (2012 finalist) |
+| Ramesh Jain | Bren Chair and Professor, Computer Science, UCI | 2012, 2013 | Pictorria (2012 finalist), Dentiverse (2013 finalist) |
+| Kojiro Umezaki | Assistant Professor of Music, Claire Trevor School of Arts | 2012 | Devue Music (2012 finalist) |
+| Arie Shen | B.S. '88, Bren School of ICS; later founder of Madas | 2013 (mentor), 2014 (mentor), current judge | B.A.T. (2013 1st), BeatPool (2014 2nd) |
+| Jim Doane | VP Marketing | 2013 | B.A.T. (2013 1st) |
+| Mayur Deshpande | Ph.D. '07, Bren School of ICS; Software Engineer at Google | 2013 | TasteBuds (2013 2nd) |
+| David Cheng | B.S. '90; IBM | 2013 | Life Buoy (2013 3rd) |
+| Art Hitomi | Ph.D. '96, Bren School of ICS; CTO and Founder of Numecent | 2013 | Dorbl (2013 finalist) |
+| Tom Taulli | Independent | 2013 | Linguin (2013 finalist) |
+| Amir Banifatemi | Entrepreneur, Product Strategist, Investor | 2013 | My Salon (2013 finalist) |
+| Ray Chan | Founder, K5 Venture Partners | 2013 (mentor), 2014 (mentor) | My Salon (2013 finalist), HydroTrack (2014 Beall 3rd) |
+
+## Pre-2012 Judges and Mentors
+
+*No public record found.* The competition was running 2003–2011 but no judges or mentors from that era have surfaced beyond Kevin Kinsey's nine-year tenure cited in 2012. Contributions welcome.

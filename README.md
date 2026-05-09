@@ -1,4 +1,4 @@
-# UCI Beall Butterworth Competition: Complete Historical Archive (2012–2026)
+# UCI Beall Butterworth Competition: Complete Historical Archive (2010–2026)
 
 A comprehensive, citation-backed record of the UCI Beall Butterworth Competition — the annual joint product-development showcase run by the Donald Bren School of Information and Computer Sciences (Butterworth track, since ~2003–2004) and the Henry Samueli School of Engineering (Beall track, since 2014).
 
@@ -24,7 +24,7 @@ This repository exists because the institutional memory for student competitions
 - [2016 Competition](#2016-competition)
 - [2015 Competition](#2015-competition)
 - [2014 Competition (Inaugural Joint Edition)](#2014-competition-inaugural-joint-edition)
-- [Pre-Joint Editions (2012–2013)](#pre-joint-editions-20122013)
+- [Pre-Joint Editions (2010–2013)](#pre-joint-editions-20102013)
 - [The Patrons: Beall and Butterworth Families](#the-patrons-beall-and-butterworth-families)
 - [Connected Programs](#connected-programs)
 - [Supplementary Documentation](#supplementary-documentation)
@@ -39,7 +39,7 @@ This repository exists because the institutional memory for student competitions
 - **Director:** David Ochi, adjunct professor in the Donald Bren School of ICS and the Paul Merage School of Business.
 - **Eligibility:** teams of at least two matriculated UCI students; the Butterworth side requires at least one ICS student and the Beall side requires at least one Engineering student. Teams cannot reuse a winning concept from a previous edition, and teams that have already taken venture-capital financing for the entry concept are excluded.
 - **Format:** a six-month cycle — fall kickoff, winter design workshops, a spring product specification, midpoint orals, coaching sessions, and a May Demo Day & Awards ceremony.
-- **Prize structure:** since 2018, $10,000 / $6,500 / $3,500 for 1st / 2nd / 3rd in each track. From 2014–2017 the placements paid $7,500 / $5,000 / $2,500. The 2022 cycle disclosed a total purse of "more than $40,000". Since 2023, an additional Brazilian (later renamed International) Collaboration Prize is awarded for joint UCI / PUCRS teams.
+- **Prize structure:** since 2018, $10,000 / $6,500 / $3,500 for 1st / 2nd / 3rd in each track. From 2014–2017 the placements paid $7,500 / $5,000 / $2,500. The Butterworth-only era (2012–2013) paid $5,000 / $3,500 / $1,500 with a single $10,000 total purse and no Beall hardware track. The 2022 cycle disclosed a total purse of "more than $40,000". Since 2023, an additional Brazilian (later renamed International) Collaboration Prize is awarded for joint UCI / PUCRS teams.
 - **Patrons:** Paul ('74, '81) and Jo ('75) Butterworth on the ICS side; Donald R. Beall and the Beall Family Foundation on the Engineering side.
 
 ## How to Read This Archive
@@ -68,10 +68,12 @@ This repository exists because the institutional memory for student competitions
 | 2018 | Complete | — |
 | 2017 | Complete | — |
 | 2016 | Complete | — |
-| 2015 | Complete (partial) | Official 2014 / 2015 results pages on bbcomp.tech.uci.edu appear to display duplicated content; see [2015 Competition](#2015-competition) for caveats |
+| 2015 | Complete | 12th annual Butterworth + 2nd annual Beall; bbcomp 2014/2015 pages render duplicate content (2014 page is incorrect — see [2015 Competition](#2015-competition)) |
 | 2014 | Complete | **Inaugural Beall Student Design Competition** + 11th annual Butterworth; first joint awards ceremony |
-| 2013 | Partial | Butterworth-only; only 1st place verified |
-| 2012 | Partial | Butterworth-only; only 1st place verified |
+| 2013 | Complete | 10th annual Butterworth-only; full placements and finalists recovered from legacy ICS archive |
+| 2012 | Complete | 9th annual Butterworth-only; full placements and finalists recovered (May 17, 2012 in Bren Hall) |
+| 2011 | Missing | 8th annual Butterworth-only; competition was held but no public placement record surfaced — see [years/2011.md](years/2011.md) |
+| 2010 | Missing | 7th annual Butterworth-only; competition was held but no public placement record surfaced — see [years/2010.md](years/2010.md) |
 
 ### Theme evolution
 
@@ -98,22 +100,47 @@ This repository exists because the institutional memory for student competitions
 | 2023 | $10,000 (Beall 1st) | other amounts Not Listed |
 | 2022 | $40,000+ (total purse) | individual placements: $10,000 / $6,500 / $3,500 per track |
 | 2021 | Not Listed | held virtually |
-| 2019 | $10,000 (each 1st place, implied) | 1st/2nd/3rd structure assumed at $10K/$6.5K/$3.5K |
-| 2018 | $10,000 (each 1st place) | first year at the higher prize tier |
-| 2017 | $7,500 (each 1st place) | last year at the original prize tier |
-| 2016 | $7,500 / $5,000 / $2,500 | per Samueli press release |
-| 2014 | $7,500 / $5,000 / $2,500 | per Samueli press release |
+| 2019 | $10,000 / $6,500 / $3,500 per track | post-2018 prize structure |
+| 2018 | $10,000 / $6,500 / $3,500 per track | first year at the higher prize tier |
+| 2017 | $7,500 / $5,000 / $2,500 per track | last year at the original joint-era tier |
+| 2016 | $7,500 / $5,000 / $2,500 per track | per Samueli press release |
+| 2014 | $30,000 (combined pool) | $7,500 / $5,000 / $2,500 per track per the Samueli release |
+| 2013 | $5,000 / $3,500 / $1,500 (Butterworth-only) | per recovered ICS news archive |
+| 2012 | $10,000 (total purse) | $5,000 / $3,500 / $1,500 (Butterworth-only) — May 17, 2012, Bren Hall |
 
 ### Repeat appearances across years
 
-| Person / Team | First appearance | Later appearance |
-|---------------|------------------|------------------|
-| Red Lion Robotics (Yasemin Sarigul-Klijn, Peter Wang) | 2016 (Beall 2nd) | 2017 (Beall 2nd) |
-| Michael Ross | 2022 (Beall 3rd, Thrust Aeronautics) | 2024 (Butterworth 1st, Sentinel) |
+| Person / Team | First appearance | Later appearance(s) |
+|---------------|------------------|---------------------|
+| Red Lion Robotics (Yasemin Sarigul-Klijn, Peter Wang) | 2016 (Beall 2nd) | 2017 (Beall 2nd) — only confirmed back-to-back placement by the same team |
+| Krobotech (Ethan Kirkley, Cameron Hunt, Zepyour Khechadoorian) | 2016 (Beall finalist) | 2017 (Beall 1st, w/ Kevin Wong added) — finalist → winner trajectory |
+| Memorlane (Evan Schein, Yocelyn Recinos) | 2016 (Butterworth finalist, w/ Akshat Patel) | 2017 (Butterworth 1st, w/ Michael Tran) — finalist → winner trajectory |
+| AllerChain → forMED Technologies (Lily McGrale, Aryan Agarwal, Ruben Shakya, Raphael Francis Aguas, Kamalesh Ananthakrishnan) | 2019 (combined-track finalist) | 2021 (Beall 1st) — same core team, new product, winning placement |
+| UnMail → Giv (Lucas Erb, Nisarg Shah, Haven King) | 2018 (Butterworth finalist) | 2019 (Butterworth 2nd, w/ Ryan Luu added) |
+| Ahmad Razavi & Nazanin Ghasemian | 2016 (Anti-Acne, Pick a Jacket or Not) | 2017 (Driving License, UCI Parking Lot) — most prolific multi-entry duo |
+| Michael Ross | 2022 (Beall 3rd, Thrust Aeronautics) | 2024 (Butterworth 1st, Sentinel) — track-crossing |
 | Dylan Riffle | 2022 (Butterworth 1st, Leprendo) | 2024 (Butterworth 2nd, Two Cube) |
 | Kanu Chandra | 2022 (Butterworth 1st, Leprendo) | 2025 (International Collaboration 1st, Oslo) |
 | Kimia Yazdani | 2023 (Butterworth 2nd, Nibble) | 2025 (Butterworth 2nd, AINGELX) |
 | Adrian Bahani | 2017 (Beall 3rd, Syntr Health) | 2019 (Beall 3rd, HemaDynamics) |
+| Naren Sathiya | 2012 (Butterworth 2nd, Spawnd) | 2015 (Butterworth 1st, Roco) — earliest two-time placer in the archive |
+| Candace Wu | 2013 (Butterworth 2nd, TasteBuds) | 2015 (Butterworth 3rd, FanFeed!) |
+| Neeraj Kumar | 2015 (Beall 2nd, Sixth Sense) | 2016 (Beall 1st, Tag Team) |
+| Ali Shahbaz | 2015 (Beall 2nd, Sixth Sense) | 2016 (Beall 1st, Tag Team — lead) |
+| Derek Omuro | 2014 (Butterworth 1st, Sparky) | 2015 (Beall finalist, ARIS) — track-crossing finalist |
+| Michael Bryant | 2014 (Beall 3rd, HydroTrack) | 2015 (Beall finalist, HelioTeq); 2016 (combined finalist, Munch) |
+| Kausthub Raj Jadhav | 2016 (Butterworth finalist, FASHENDS) | 2017 (Butterworth 3rd, Pippy); 2019 (combined finalist, Float Robotics) |
+| Ting-Wei Lin | 2017 (Butterworth finalist, Team Ultra) | 2018 (Butterworth 1st, ZOOT) — finalist → winner |
+| Tu Nguyen | 2015 (Butterworth 1st, Roco) | 2016 (combined finalist, Tack) |
+| Anuj Shah | 2016 (Butterworth 1st, Sonder VR) | 2017 (Butterworth finalist, KaamLo) |
+| Ameya Raje | 2016 (Butterworth 2nd, WeGroove) | 2017 (Butterworth finalist, Safewayz) |
+| Heran Patel | 2016 (combined finalist, PalmPaysa) | 2017 (Butterworth finalist, KaamLo) |
+| Cass Tao | 2017 (Butterworth finalist, STACK) | 2018 (Butterworth finalist, Sprankles) |
+| Nathan Cabezut | 2018 (Beall 1st, FWMAV) | 2019 (Beall finalist, Multi-Wing Rotary Propulsion Engine) |
+| Gautam Banuru & Swapnil Khodaskar | 2018 (CodeRight, RelaxTech finalists) | 2019 (ChangeNOW finalist) |
+| Naomi Thomson | 2015 (Beall finalist, HelioTeq) | 2016 (Beall finalist, Kneed Technologies) |
+| Vishal Patel | 2013 (Butterworth finalist, MobileCast) | 2013 (Butterworth finalist, My Salon) — two finalist teams in the same year |
+| Venu Madhav Gundeti | 2012 (Butterworth finalist, Approve) | 2013 (Butterworth finalist, MobileCast) |
 
 ### Patron-fund milestones
 
@@ -302,18 +329,29 @@ Other 2015 Butterworth finalists named on the bbcomp page: **Big Data Raiders** 
 
 **Mentors of note (2014):** Channa Samyanthan (Syniverse Technologies, B.S. '96 ICS) — Blueberry / Sparky; Arie Shen (B.S. '88 ICS) — BeatPool; John Herpy (Boeing, B.S. '85 ICS) — Ant-mApp; Profs. Michelle Khine and Zoran Nenadic (Biomedical Engineering) — Spero Diagnostics and A Hundred Tiny Hands; Ray Chan (K5 Venture Partners) — HydroTrack.
 
-## Pre-Joint Editions (2012–2013)
+## Pre-Joint Editions (2010–2013)
 
-The Butterworth Product Development Competition ran for roughly a decade in the Donald Bren School of ICS before the Beall Student Design Competition launched alongside it in 2014. Records from those early years are sparse — the original ICS news archive (`archive-www.ics.uci.edu/community/news/view_news?id=…`) returns HTTP 500 on most relevant article IDs, and bbcomp.tech.uci.edu only carries results from 2014 onward.
+The Butterworth Product Development Competition ran for roughly a decade in the Donald Bren School of ICS before the Beall Student Design Competition launched alongside it in 2014. The 2012 and 2013 cycles are now fully recovered (placements, finalists, mentors, judges) — see [years/2012.md](years/2012.md) and [years/2013.md](years/2013.md). The 2010 and 2011 cycles existed but no public record of placements has surfaced — see [years/2010.md](years/2010.md) and [years/2011.md](years/2011.md).
 
-| Year | Track | Place | Team | Prize | Project Details | Team Members |
-|------|-------|-------|------|-------|-----------------|--------------|
-| 2013 | Butterworth | 1st | B.A.T. (Bluetooth Assisted Tracking) | $5,000 (UNVERIFIED) | Indoor / outdoor visitor-pattern tracking for museums and galleries via Bluetooth beacons. | *No public record found* |
-| 2012 | Butterworth | 1st | Portfelo | $5,000 (UNVERIFIED) | A networking and portfolio platform for the modeling industry — a vertical social network that addresses pain points general tools (LinkedIn, ModelMayhem) did not solve. | Michael Cupino (lead), Ferdinand Lucero, Jordan Speer, Evan White, Danielle Yu |
+### 2013 (10th annual Butterworth)
 
-Judge **Kevin Kinsey** (then CEO of Netreo) on the 2012 cohort: *"This was, by far, the most impressive group of competitors we've seen over the last nine years."* Confirmation that the competition was already nine cycles old by 2012, consistent with a 2003–2004 founding.
+| Track | Place | Team | Prize | Project Details | Team Members |
+|-------|-------|------|-------|-----------------|--------------|
+| Butterworth | 1st | B.A.T. (Bluetooth Assisted Tracking) | $5,000 | Indoor and outdoor visitor-pattern tracking for museums and galleries via Bluetooth beacons. Later expanded as **Beacon-Assisted Technologies**, producing the **Kaleri** museum app piloted at the Huntington Beach Art Center. | Jaime Enrique Duarte, Joan Aguilar Mayans, Robert Regue Grino, Ana Papio Toda, Estel Carbó Vinaixa, Yue Yu |
+| Butterworth | 2nd | TasteBuds | $3,500 | Mobile app delivering personalized restaurant recommendations based on time of day and user mood, with gaming elements. | Nithin Jilla, Michael Thomas, Candace Wu, Derek Wong, Norman Tran, Bryan Cuevas |
+| Butterworth | 3rd | Life Buoy | $1,500 | iOS and web app wirelessly connecting patients to physicians for video consultations, secure health records, e-prescriptions, and emergency relief. | Matthew Chan, Jacob Heller, Bryan Lam, Lita Patel, Peggy Bui, Joe Hanson |
 
-**2010, 2011, and pre-2010 winners:** *No public record found.* The competition was held in those years (per the "11th annual" framing of the 2014 release and the chancellor's "since 2004" line), but results are not currently online. Contributions from alumni, past program booklets, or archived UCI publications would be welcome.
+### 2012 (9th annual Butterworth, May 17, Bren Hall, $10,000 total purse)
+
+| Track | Place | Team | Prize | Project Details | Team Members |
+|-------|-------|------|-------|-----------------|--------------|
+| Butterworth | 1st | Portfelo | $5,000 | A portfolio and networking platform for modeling industry professionals — a vertical social network addressing pain points general tools (LinkedIn, ModelMayhem) did not solve. | Michael Cupino (lead), Ferdinand Lucero, Jordan Speer, Evan White, Danielle Yu |
+| Butterworth | 2nd | Spawnd | $3,500 | A social networking site for online gamers featuring a rewards system and patent-pending universal "Spawnd Point" system enabling cross-platform stat comparisons. | Rohan Venapusala (lead), Ryan Reyes, Bellal Labanieh, Naren Sathiya, John Junyszek |
+| Butterworth | 3rd | M-Prescription | $1,500 | A mobile-phone-based prescription information storage system offering enhanced security, privacy, and convenience over paper or server-based alternatives. | Jianlin Shi (lead), Chandra Bhavanasi, Jeffrey Tse |
+
+Judge **Kevin Kinsey** (then CEO of Netreo) on the 2012 cohort: *"This was, by far, the most impressive group of competitors we've seen over the last nine years."* The "nine years" framing locks the inaugural Butterworth Product Development Competition to ~2003–2004.
+
+**2010 (7th annual) and 2011 (8th annual):** the competitions were held but **no public placement record has surfaced**. The 2014 "11th annual" framing and the 2012 "nine years" judge quote both confirm the competition ran continuously through this era. If you have a program booklet, photo, or alumni knowledge, please contribute via the [missing-year issue template](.github/ISSUE_TEMPLATE/02-missing-year.md).
 
 ## The Patrons: Beall and Butterworth Families
 

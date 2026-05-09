@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "last_updated": "2026-05-09",
   "competition": {
     "name": "UCI Beall Butterworth Competition",
@@ -17,6 +17,15 @@
     "first_held_butterworth": 2003,
     "first_held_beall": 2014,
     "first_joint_edition": 2014,
+    "edition_lookup": {
+      "2003": "1st annual Butterworth (approximate)",
+      "2010": "7th annual Butterworth",
+      "2011": "8th annual Butterworth",
+      "2012": "9th annual Butterworth",
+      "2013": "10th annual Butterworth",
+      "2014": "11th annual Butterworth + 1st annual Beall (inaugural joint edition)",
+      "2022": "8th annual joint edition (per ics.uci.edu, Beall + Butterworth jointly)"
+    },
     "naming_gifts": [
       {
         "donor": "Paul Butterworth and Jo Butterworth",
@@ -42,6 +51,11 @@
       }
     ]
   },
+  "prize_tiers": {
+    "2012_to_2013": {"first_usd": 5000, "second_usd": 3500, "third_usd": 1500, "total_purse_usd": 10000, "tracks": 1, "note": "Butterworth-only era"},
+    "2014_to_2017": {"first_usd": 7500, "second_usd": 5000, "third_usd": 2500, "tracks": 2, "note": "Inaugural joint era"},
+    "2018_to_present": {"first_usd": 10000, "second_usd": 6500, "third_usd": 3500, "tracks": 2, "note": "Current tier"}
+  },
   "years": [
     {
       "year": 2026,
@@ -49,16 +63,8 @@
       "edition": "22nd annual Butterworth, 13th annual Beall",
       "demo_day_planned": "2026-05",
       "venue": "TBA",
-      "tracks": [
-        "Butterworth Product Development",
-        "Beall Student Design",
-        "International Collaboration Prize (UCI / PUCRS)"
-      ],
-      "prize_structure": {
-        "first_place_usd": 10000,
-        "second_place_usd": 6500,
-        "third_place_usd": 3500
-      },
+      "tracks": ["Butterworth Product Development", "Beall Student Design", "International Collaboration Prize (UCI / PUCRS)"],
+      "prize_structure": {"first_place_usd": 10000, "second_place_usd": 6500, "third_place_usd": 3500},
       "awards": []
     },
     {
@@ -66,71 +72,13 @@
       "status": "complete",
       "theme": "AI-Native Healthcare and Specialized Medical Devices",
       "awards": [
-        {
-          "track": "Butterworth",
-          "place": "1st",
-          "team": "Florence",
-          "prize_text": "$10,000",
-          "prize_amount_usd": 10000,
-          "project": "Intelligent real-time patient monitoring and alert system built around a comprehensive camera dashboard and integrated data systems, designed to optimize the efficiency and responsiveness of hospital nursing staff.",
-          "members": ["Andrew Cai", "Audrey Lu", "Nathan Che", "Yurina Tamura"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "2nd",
-          "team": "AINGELX",
-          "prize_text": "$6,500",
-          "prize_amount_usd": 6500,
-          "project": "A personalized advisor that matches SaaS startups to investors based on due-diligence-level data, making the screening process more efficient.",
-          "members": ["Asal Askari", "Kimia Yazdani", "Mehrnaz Motamed"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "3rd",
-          "team": "Vision Board",
-          "prize_text": "$3,500",
-          "prize_amount_usd": 3500,
-          "project": "A technology that merges the worlds of board games and video games to create a new immersive sensory experience.",
-          "members": ["Derek Yazan", "Ethan Frias", "Lukas Hauge"]
-        },
-        {
-          "track": "Beall",
-          "place": "1st",
-          "team": "NasoCoustics",
-          "prize_text": "$10,000",
-          "prize_amount_usd": 10000,
-          "project": "A portable nasometry device for clinicians to measure hypernasality in children with cleft palate, post-surgery. Hypernasality affects 28.5-40.5% of children with cleft palate.",
-          "members": ["Dave Soliven", "Jordan Ulibarri", "Kenji Inducta", "Natalie Benneian", "Neha Muvvala", "Neharika Gopikrishnan"],
-          "project_url": "http://www.nasocoustics.uci.design/"
-        },
-        {
-          "track": "Beall",
-          "place": "2nd",
-          "team": "VeinGuard",
-          "prize_text": "$6,500",
-          "prize_amount_usd": 6500,
-          "project": "An emergency cervical collar that protects the cervical spine without compressing the jugular veins, addressing a known failure mode of standard collars.",
-          "members": ["Bora Keresteci", "Erfan Khoshnevis", "Rohan Kunduru", "Sujal Bobba", "Varu Vummidi"]
-        },
-        {
-          "track": "Beall",
-          "place": "3rd",
-          "team": "REACH",
-          "prize_text": "$3,500",
-          "prize_amount_usd": 3500,
-          "project": "An ML-powered electrotherapy device for stroke survivors that uses surface EMG to drive personalized rehabilitation.",
-          "members": ["Andrew Eck", "Edmund Totah", "HyungCheol Kim", "Michael Song", "Nathan Yang", "Tim Oh"]
-        },
-        {
-          "track": "International Collaboration",
-          "place": "1st",
-          "team": "Oslo (Birdhouse by Oslo)",
-          "prize_text": "Not Listed",
-          "prize_amount_usd": null,
-          "project": "Contact-free thermal and optical vital-sign monitoring for senior-care facilities.",
-          "members_uci": ["Alison Iversen", "Jose Callejas", "Joseph Marquez", "Kanu Chandra"],
-          "members_pucrs": ["Ana Carolina Palhares Poletto", "Bárbara da Silva Dapper", "Luiza Dal Mas Pasini"]
-        }
+        {"track": "Butterworth", "place": "1st", "team": "Florence", "prize_text": "$10,000", "prize_amount_usd": 10000, "project": "Intelligent real-time patient monitoring and alert system built around a comprehensive camera dashboard and integrated data systems, designed to optimize the efficiency and responsiveness of hospital nursing staff.", "members": ["Andrew Cai", "Audrey Lu", "Nathan Che", "Yurina Tamura"]},
+        {"track": "Butterworth", "place": "2nd", "team": "AINGELX", "prize_text": "$6,500", "prize_amount_usd": 6500, "project": "A personalized advisor that matches SaaS startups to investors based on due-diligence-level data, making the screening process more efficient.", "members": ["Asal Askari", "Kimia Yazdani", "Mehrnaz Motamed"]},
+        {"track": "Butterworth", "place": "3rd", "team": "Vision Board", "prize_text": "$3,500", "prize_amount_usd": 3500, "project": "A technology that merges the worlds of board games and video games to create a new immersive sensory experience.", "members": ["Derek Yazan", "Ethan Frias", "Lukas Hauge"]},
+        {"track": "Beall", "place": "1st", "team": "NasoCoustics", "prize_text": "$10,000", "prize_amount_usd": 10000, "project": "A portable nasometry device for clinicians to measure hypernasality in children with cleft palate, post-surgery.", "members": ["Dave Soliven", "Jordan Ulibarri", "Kenji Inducta", "Natalie Benneian", "Neha Muvvala", "Neharika Gopikrishnan"], "project_url": "http://www.nasocoustics.uci.design/"},
+        {"track": "Beall", "place": "2nd", "team": "VeinGuard", "prize_text": "$6,500", "prize_amount_usd": 6500, "project": "An emergency cervical collar that protects the cervical spine without compressing the jugular veins.", "members": ["Bora Keresteci", "Erfan Khoshnevis", "Rohan Kunduru", "Sujal Bobba", "Varu Vummidi"]},
+        {"track": "Beall", "place": "3rd", "team": "REACH", "prize_text": "$3,500", "prize_amount_usd": 3500, "project": "An ML-powered electrotherapy device for stroke survivors that uses surface EMG to drive personalized rehabilitation.", "members": ["Andrew Eck", "Edmund Totah", "HyungCheol Kim", "Michael Song", "Nathan Yang", "Tim Oh"]},
+        {"track": "International Collaboration", "place": "1st", "team": "Oslo (Birdhouse by Oslo)", "prize_text": "Not Listed", "prize_amount_usd": null, "project": "Contact-free thermal and optical vital-sign monitoring for senior-care facilities.", "members_uci": ["Alison Iversen", "Jose Callejas", "Joseph Marquez", "Kanu Chandra"], "members_pucrs": ["Ana Carolina Palhares Poletto", "Bárbara da Silva Dapper", "Luiza Dal Mas Pasini"]}
       ],
       "source_urls": ["https://bbcomp.tech.uci.edu/past/2025-winners/"]
     },
@@ -140,78 +88,15 @@
       "theme": "AI Safety, Additive Manufacturing, and B2B Marketplaces",
       "scale_note": "56 competition concepts narrowed to 33 Demo Day projects; participation grew >25% over the previous year",
       "awards": [
-        {
-          "track": "Butterworth",
-          "place": "1st",
-          "team": "Sentinel",
-          "prize_text": "$10,000",
-          "prize_amount_usd": 10000,
-          "project": "The first driver-conscious AI safety system to detect fatigue and distraction. Targets vehicle fleets with high operator liability (e.g., trucking) to help fleet managers and drivers improve road safety.",
-          "members": ["Cody He", "Kevin Wu", "Kyle Deck", "Michael Ross", "Nathan Ampudia", "Spike O'Carroll"],
-          "follow_on": "Won 2024 UCI Stella Zhang New Venture Competition Grand Finale ($20K + $10K track) and placed 2nd in C&C Innovative Solutions SoCal Super Pitch"
-        },
-        {
-          "track": "Butterworth",
-          "place": "2nd",
-          "team": "Two Cube",
-          "prize_text": "$6,500",
-          "prize_amount_usd": 6500,
-          "project": "An autonomous bioinformatics analysis platform that runs single-cell RNA pipelines without manual setup.",
-          "members": ["Dylan Riffle", "Shushrruth Sai Srinivasan"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "3rd",
-          "team": "Biru",
-          "prize_text": "$3,500",
-          "prize_amount_usd": 3500,
-          "project": "A maid- and household-help-matching platform tailored to the Indonesian market.",
-          "members": ["Jessica Hardisurjo", "Kevin Salim", "Nicholas Chairnando", "Pierre Theodorus", "William Hartono"]
-        },
-        {
-          "track": "Beall",
-          "place": "1st",
-          "team": "NeoMold",
-          "prize_text": "$10,000",
-          "prize_amount_usd": 10000,
-          "project": "A customizable, 3D-printable ear mold designed to correct newborn outer-ear deformities within 2-6 weeks of birth. Each mold is based on a 3D scan of the patient's unique anatomy, increasing efficacy while decreasing complications and patient readmittance.",
-          "members": ["Christine Ly", "Christine Nguyen", "Frida Sandoval", "Kathy Duong"],
-          "project_url": "http://neomold.uci.design/",
-          "publication_url": "https://escholarship.org/uc/item/5fs7b1cr"
-        },
-        {
-          "track": "Beall",
-          "place": "2nd",
-          "team": "Instinct",
-          "prize_text": "$6,500",
-          "prize_amount_usd": 6500,
-          "project": "A microfluidic chip that mimics brain function for neurological drug testing.",
-          "members": ["Edouard Aleman", "Jay Tong", "Milan Das", "Nathaniel Green", "Winston Doud"]
-        },
-        {
-          "track": "Beall",
-          "place": "3rd",
-          "team": "PetPointDx",
-          "prize_text": "$3,500",
-          "prize_amount_usd": 3500,
-          "project": "At-home pet fecal testing kits that ship to a partner lab for analysis.",
-          "members": ["Lawrence Kulinsky", "Luke Chavez", "Will Janlaor", "Zarya Rajestari"]
-        },
-        {
-          "track": "Brazilian Collaboration",
-          "place": "Winner",
-          "team": "Cartello",
-          "prize_text": "Not Listed",
-          "prize_amount_usd": null,
-          "project": "A B2B marketplace for corrugated cardboard pallets that streamlines the pallet procurement process.",
-          "members_uci": ["Ariel Tjandra", "Ariya Gowda", "Felix Toffaneto Werner"],
-          "members_pucrs": ["Pedro Vaz Lorea", "Thiago Borges de Souza"]
-        }
+        {"track": "Butterworth", "place": "1st", "team": "Sentinel", "prize_text": "$10,000", "prize_amount_usd": 10000, "project": "The first driver-conscious AI safety system to detect fatigue and distraction. Targets vehicle fleets with high operator liability (e.g., trucking).", "members": ["Cody He", "Kevin Wu", "Kyle Deck", "Michael Ross", "Nathan Ampudia", "Spike O'Carroll"], "follow_on": "Won 2024 UCI Stella Zhang New Venture Competition Grand Finale ($20K + $10K track) and placed 2nd in C&C Innovative Solutions SoCal Super Pitch"},
+        {"track": "Butterworth", "place": "2nd", "team": "Two Cube", "prize_text": "$6,500", "prize_amount_usd": 6500, "project": "An autonomous bioinformatics analysis platform that runs single-cell RNA pipelines without manual setup.", "members": ["Dylan Riffle", "Shushrruth Sai Srinivasan"]},
+        {"track": "Butterworth", "place": "3rd", "team": "Biru", "prize_text": "$3,500", "prize_amount_usd": 3500, "project": "A maid- and household-help-matching platform tailored to the Indonesian market.", "members": ["Jessica Hardisurjo", "Kevin Salim", "Nicholas Chairnando", "Pierre Theodorus", "William Hartono"]},
+        {"track": "Beall", "place": "1st", "team": "NeoMold", "prize_text": "$10,000", "prize_amount_usd": 10000, "project": "A customizable, 3D-printable ear mold designed to correct newborn outer-ear deformities within 2-6 weeks of birth.", "members": ["Christine Ly", "Christine Nguyen", "Frida Sandoval", "Kathy Duong"], "project_url": "http://neomold.uci.design/", "publication_url": "https://escholarship.org/uc/item/5fs7b1cr"},
+        {"track": "Beall", "place": "2nd", "team": "Instinct", "prize_text": "$6,500", "prize_amount_usd": 6500, "project": "A microfluidic chip that mimics brain function for neurological drug testing.", "members": ["Edouard Aleman", "Jay Tong", "Milan Das", "Nathaniel Green", "Winston Doud"]},
+        {"track": "Beall", "place": "3rd", "team": "PetPointDx", "prize_text": "$3,500", "prize_amount_usd": 3500, "project": "At-home pet fecal testing kits that ship to a partner lab for analysis.", "members": ["Lawrence Kulinsky", "Luke Chavez", "Will Janlaor", "Zarya Rajestari"]},
+        {"track": "Brazilian Collaboration", "place": "Winner", "team": "Cartello", "prize_text": "Not Listed", "prize_amount_usd": null, "project": "A B2B marketplace for corrugated cardboard pallets that streamlines the pallet procurement process.", "members_uci": ["Ariel Tjandra", "Ariya Gowda", "Felix Toffaneto Werner"], "members_pucrs": ["Pedro Vaz Lorea", "Thiago Borges de Souza"]}
       ],
-      "source_urls": [
-        "https://bbcomp.tech.uci.edu/past/past-2024/",
-        "https://engineering.uci.edu/news/2024/6/students-their-game-2024-beall-butterworth-competition"
-      ]
+      "source_urls": ["https://bbcomp.tech.uci.edu/past/past-2024/", "https://engineering.uci.edu/news/2024/6/students-their-game-2024-beall-butterworth-competition"]
     },
     {
       "year": 2023,
@@ -220,149 +105,33 @@
       "first_pucrs_year": true,
       "scale_note": "33 PUCRS students paired with 40+ UCI students across 17 international teams (inaugural UCI / PUCRS Brazil partnership year)",
       "awards": [
-        {
-          "track": "Butterworth",
-          "place": "1st",
-          "team": "Eupnea",
-          "prize_text": "Not Listed",
-          "prize_amount_usd": null,
-          "project": "An AI mobile app that diagnoses tuberculosis from cough recordings.",
-          "members": ["Chidroop Iyyhappan", "Lakshmi Vibhu Narke"],
-          "follow_on": "Won Microsoft Imagine Cup Epic Challenge 2023 ($5K + $100K grand prize finalist slot)"
-        },
-        {
-          "track": "Butterworth",
-          "place": "2nd",
-          "team": "Nibble",
-          "prize_text": "Not Listed",
-          "prize_amount_usd": null,
-          "project": "A group dining recommendation app for friends with conflicting tastes.",
-          "members": ["Kimia Yazdani", "Saghar Ansaripoor"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "3rd",
-          "team": "ChewRank",
-          "prize_text": "Not Listed",
-          "prize_amount_usd": null,
-          "project": "A restaurant ranking and marketing platform.",
-          "members": ["Chi Wei Chen", "Hsin-yi Lin", "Wei-Chia Hsu", "Xiaohan Li", "XinYao Xu"]
-        },
-        {
-          "track": "Beall",
-          "place": "1st",
-          "team": "Pulsera",
-          "prize_text": "$10,000",
-          "prize_amount_usd": 10000,
-          "project": "A pulse oximeter and continuous blood-pressure monitor integrated into a sleek slipper design, allowing at-home monitoring for pregnant patients to help doctors diagnose preeclampsia early.",
-          "members": ["Alex Garcia", "Claire Livengood", "Nicolette Fulcomer", "Ryan Hsu", "Zayd Bham"]
-        },
-        {
-          "track": "Beall",
-          "place": "2nd",
-          "team": "Encephalopod",
-          "prize_text": "Not Listed",
-          "prize_amount_usd": null,
-          "project": "A portable, rapid-response EEG aimed at non-convulsive seizures and stroke detection in pre-hospital settings.",
-          "members": ["Andres Torres", "Joshua Medina", "Omar Ibrahim", "Raine Hagerty", "Targol Moghaddam"]
-        },
-        {
-          "track": "Beall",
-          "place": "3rd",
-          "team": "WEngineers (Lengage Ware)",
-          "prize_text": "Not Listed",
-          "prize_amount_usd": null,
-          "project": "Glasses-mounted real-time audio translation and transcription for hearing-impaired and multilingual settings.",
-          "members": ["Cassandra Nguyen", "Jessica Lee", "Kaylee Quach", "Kristin Hagen", "Logan Lee", "Madeleine Marston"]
-        },
-        {
-          "track": "Brazilian Collaboration",
-          "place": "Winner",
-          "team": "N3.AI",
-          "prize_text": "Not Listed",
-          "prize_amount_usd": null,
-          "project": "An app for pregnant women and new mothers to manage mood — Nourish (track food/state), Nurture (share progress safely), Nudge (AI nudges to eat healthy).",
-          "members_uci": ["Kousha Asthiani", "Mahyar Abbasian", "Nitish Nagesh"],
-          "members_pucrs": ["Felipe Cardona", "Léo Falcão", "Thomas Mello"]
-        }
+        {"track": "Butterworth", "place": "1st", "team": "Eupnea", "prize_text": "Not Listed", "prize_amount_usd": null, "project": "An AI mobile app that diagnoses tuberculosis from cough recordings.", "members": ["Chidroop Iyyhappan", "Lakshmi Vibhu Narke"], "follow_on": "Won Microsoft Imagine Cup Epic Challenge 2023 ($5K + $100K grand prize finalist slot)"},
+        {"track": "Butterworth", "place": "2nd", "team": "Nibble", "prize_text": "Not Listed", "prize_amount_usd": null, "project": "Simplifies the process of finding a restaurant for a group with different tastes and dietary preferences.", "members": ["Kimia Yazdani", "Saghar Ansaripoor"]},
+        {"track": "Butterworth", "place": "3rd", "team": "ChewRank", "prize_text": "Not Listed", "prize_amount_usd": null, "project": "A restaurant ranking and marketing platform.", "members": ["Chi Wei Chen", "Hsin-yi Lin", "Wei-Chia Hsu", "Xiaohan Li", "XinYao Xu"]},
+        {"track": "Beall", "place": "1st", "team": "Pulsera", "prize_text": "$10,000", "prize_amount_usd": 10000, "project": "A pulse oximeter and continuous blood-pressure monitor integrated into a sleek slipper design for at-home monitoring of pregnant patients to help diagnose preeclampsia early.", "members": ["Alex Garcia", "Claire Livengood", "Nicolette Fulcomer", "Ryan Hsu", "Zayd Bham"]},
+        {"track": "Beall", "place": "2nd", "team": "Encephalopod", "prize_text": "Not Listed", "prize_amount_usd": null, "project": "A portable, rapid-response EEG aimed at non-convulsive seizures and stroke detection in pre-hospital settings.", "members": ["Andres Torres", "Joshua Medina", "Omar Ibrahim", "Raine Hagerty", "Targol Moghaddam"]},
+        {"track": "Beall", "place": "3rd", "team": "WEngineers (Lengage Ware)", "prize_text": "Not Listed", "prize_amount_usd": null, "project": "Glasses-mounted real-time audio translation and transcription for hearing-impaired and multilingual settings.", "members": ["Cassandra Nguyen", "Jessica Lee", "Kaylee Quach", "Kristin Hagen", "Logan Lee", "Madeleine Marston"]},
+        {"track": "Brazilian Collaboration", "place": "Winner", "team": "N3.AI", "prize_text": "Not Listed", "prize_amount_usd": null, "project": "An app for pregnant women and new mothers to manage mood — Nourish, Nurture, Nudge.", "members_uci": ["Kousha Asthiani", "Mahyar Abbasian", "Nitish Nagesh"], "members_pucrs": ["Felipe Cardona", "Léo Falcão", "Thomas Mello"]}
       ],
-      "source_urls": [
-        "https://bbcomp.tech.uci.edu/past/past-2023/",
-        "https://engineering.uci.edu/news/2023/6/beall-butterworth-competition-results-announced",
-        "https://engineering.uci.edu/news/2023/5/uci-partners-international-university-beall-butterworth-competition",
-        "https://ics.uci.edu/2023/04/19/back-to-back-wins-send-ics-grad-students-to-microsoft-imagine-cup-world-championship/"
-      ]
+      "source_urls": ["https://bbcomp.tech.uci.edu/past/past-2023/", "https://engineering.uci.edu/news/2023/6/beall-butterworth-competition-results-announced", "https://engineering.uci.edu/news/2023/5/uci-partners-international-university-beall-butterworth-competition"]
     },
     {
       "year": 2022,
       "status": "complete",
       "theme": "Marketplaces, Assistive Hardware, and the Return to In-Person",
       "total_purse_text": "more than $40,000",
-      "format_note": "First fully in-person ceremony post-pandemic",
+      "edition": "8th joint Beall + Butterworth (Beall side); 19th annual Butterworth",
+      "ceremony_date": "2022-05-25",
+      "scale_note": "Started with more than 100 students forming 24 teams; 18 teams advanced to final presentations after midpoint review",
       "awards": [
-        {
-          "track": "Butterworth",
-          "place": "1st",
-          "team": "Leprendo",
-          "prize_text": "$10,000",
-          "prize_amount_usd": 10000,
-          "project": "An online farmer's marketplace that connects specialty farmers directly to consumers, bypassing inefficient distribution networks.",
-          "members": ["Dylan Riffle", "Kanu Chandra", "Dan Ta", "Nina Nguyen"],
-          "follow_on": "Continues to operate at leprendo.com; reported $400K first-year sales; recipient of $250K USDA Farmers Market Promotion Program grant; also won 2022 UCI Stella Zhang New Venture Competition",
-          "project_url": "https://leprendo.com/about"
-        },
-        {
-          "track": "Butterworth",
-          "place": "2nd",
-          "team": "Foodpool",
-          "prize_text": "$6,500",
-          "prize_amount_usd": 6500,
-          "project": "A 'dining hall on wheels' food-delivery app for college students, helping the UCI community fuel their bodies without breaking the bank. Famously pivoted late and used a low-fidelity prototype 'Hail Mary' pitch.",
-          "members": ["Sanghyun Byun", "Arthur Lafrance", "Patrick Wang", "Kevin Xu"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "3rd",
-          "team": "Consense",
-          "prize_text": "$3,500",
-          "prize_amount_usd": 3500,
-          "project": "An Internet-of-Things system that leverages crowd-sourced sensor data to make cities safer for cyclists.",
-          "members": ["Richard DeAmicis", "Lily He", "Ado Ibori", "Melissa Yuenn"]
-        },
-        {
-          "track": "Beall",
-          "place": "1st",
-          "team": "Idene Medical",
-          "prize_text": "$10,000",
-          "prize_amount_usd": 10000,
-          "project": "A patent-pending wheelchair assist handle / floor-to-wheelchair transfer aid that extends the range of mobility for wheelchair users.",
-          "members": ["Raniel Calilung", "Sang Hee Kim", "Evelyn Novoa", "Sam Rostami"],
-          "publication_url": "https://escholarship.org/uc/item/7b9348x2"
-        },
-        {
-          "track": "Beall",
-          "place": "2nd",
-          "team": "VANTAMASK",
-          "prize_text": "$6,500",
-          "prize_amount_usd": 6500,
-          "project": "An electric reusable consumer-grade mask.",
-          "members": ["Nnaoma Agwu", "Daryl Chau"]
-        },
-        {
-          "track": "Beall",
-          "place": "3rd",
-          "team": "Thrust Aeronautics",
-          "prize_text": "$3,500",
-          "prize_amount_usd": 3500,
-          "project": "A toroidal aerospike for use in liquid-fueled rockets.",
-          "members": ["Isaac Larroque", "Michael Ross"]
-        }
+        {"track": "Butterworth", "place": "1st", "team": "Leprendo", "prize_text": "$10,000", "prize_amount_usd": 10000, "project": "An online farmer's marketplace bringing delicious specialty produce from farmers directly to consumers.", "members": ["Nina Nguyen", "Dylan Riffle", "Dan Ta"], "members_note": "Kanu Chandra also affiliated per some sources", "follow_on": "Continues to operate at leprendo.com; reported $400K first-year sales; recipient of $250K USDA Farmers Market Promotion Program grant; also won 2022 UCI Stella Zhang New Venture Competition", "project_url": "https://leprendo.com/about"},
+        {"track": "Butterworth", "place": "2nd", "team": "FoodPool", "prize_text": "$6,500", "prize_amount_usd": 6500, "project": "Affordable food delivery for students at lunch and dinner from a curated selection of restaurants — a dining hall on wheels for a transparent $2 delivery fee.", "members": ["Sanghyun Byun", "Arthur Lafrance", "Patrick Wang", "Kevin Xu"]},
+        {"track": "Butterworth", "place": "3rd", "team": "Consense", "prize_text": "$3,500", "prize_amount_usd": 3500, "project": "An IoT system that leverages crowd-sourced data to make cities safer for cyclists and micro-mobility users.", "members": ["Richard DeAmicis", "Lily He", "Ado Ibori", "Melissa Yuenn"]},
+        {"track": "Beall", "place": "1st", "team": "Idene Medical", "prize_text": "$10,000", "prize_amount_usd": 10000, "project": "Patent-pending grab bar that assists wheelchair users with various mobility tasks in a portable and independent manner.", "members": ["Raniel Calilung", "Sang Hee Kim", "Evelyn Novoa", "Sam Rostami"], "publication_url": "https://escholarship.org/uc/item/7b9348x2"},
+        {"track": "Beall", "place": "2nd", "team": "VANTAMASK", "prize_text": "$6,500", "prize_amount_usd": 6500, "project": "An electric reusable consumer-grade PPE for protection against airborne substances.", "members": ["Nnaoma Agwu", "Daryl Chau"]},
+        {"track": "Beall", "place": "3rd", "team": "Thrust Aeronautics", "prize_text": "$3,500", "prize_amount_usd": 3500, "project": "Toroidal aerospike for liquid-fueled rockets — exploits the aerospike's 90% better performance than a bell nozzle.", "members": ["Isaac Larroque", "Michael Ross"]}
       ],
-      "source_urls": [
-        "https://bbcomp.tech.uci.edu/past/past-2022/",
-        "https://engineering.uci.edu/news/2022/6/beall-and-butterworth-competitions-winners-announced",
-        "https://ics.uci.edu/2022/06/23/2022-butterworth-product-development-competition-back-in-full-swing/"
-      ]
+      "source_urls": ["https://bbcomp.tech.uci.edu/past/past-2022/", "https://engineering.uci.edu/news/2022/6/beall-and-butterworth-competitions-winners-announced", "https://ics.uci.edu/2022/06/23/2022-butterworth-product-development-competition-back-in-full-swing/"]
     },
     {
       "year": 2021,
@@ -370,62 +139,12 @@
       "theme": "At-Home Diagnostics and Youth-Led Fintech",
       "format_note": "Held virtually due to COVID-19",
       "awards": [
-        {
-          "track": "Butterworth",
-          "place": "1st",
-          "team": "Grasshopper Fund",
-          "prize_text": "Not Listed",
-          "prize_amount_usd": null,
-          "project": "A startup marketplace and funding platform for youth-led startups, providing online entrepreneurship coaching, a network of mentors and peers, and the first rewards-based crowdfunding platform investing in youth-led startups. Joined the Wayfinder incubator post-competition.",
-          "members": ["Caitlyn Yang", "Ovya Barani", "Nathan Tisuela"],
-          "project_url": "https://www.grasshopperfund.com/"
-        },
-        {
-          "track": "Butterworth",
-          "place": "2nd",
-          "team": "Nutripair",
-          "prize_text": "Not Listed",
-          "prize_amount_usd": null,
-          "project": "A personalized nutrition-pairing platform.",
-          "members": ["Bing Mo", "Catlin Tran"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "3rd",
-          "team": "Armory",
-          "prize_text": "Not Listed",
-          "prize_amount_usd": null,
-          "project": "An interactive cybersecurity-learning platform with hands-on labs.",
-          "members": ["Kumar Vaibhav", "Maaz Syed Adeeb", "Vineet Bharot", "Shuvam Ghosh"]
-        },
-        {
-          "track": "Beall",
-          "place": "1st",
-          "team": "forMED Technologies (TonoLase)",
-          "prize_text": "Not Listed",
-          "prize_amount_usd": null,
-          "project": "An eye-care startup improving glaucoma management via the TonoLase, an at-home non-invasive intraocular-pressure monitoring device.",
-          "members": ["Lily McGrale", "Aryan Agarwal", "Ruben Shakya", "Raphael Francis Aguas", "Kamalesh Ananthakrishnan"],
-          "follow_on": "Lily McGrale was a 2021 Blackstone LaunchPad Fellow and Summer 2021 VentureWell E-Team participant; team also won 2022 Stella Zhang life-sciences track"
-        },
-        {
-          "track": "Beall",
-          "place": "2nd",
-          "team": "Phoraptor",
-          "prize_text": "Not Listed",
-          "prize_amount_usd": null,
-          "project": "An affordable phoropter for low-income communities that lack access to traditional bulky and expensive vision-test devices.",
-          "members": ["Rahul Sreedasyam", "Ishaan Sharma", "Soham Patel", "Shaan Braich", "Alon Pavlov", "Abhishek Kulkarni"]
-        },
-        {
-          "track": "Beall",
-          "place": "3rd",
-          "team": "The Blue Box",
-          "prize_text": "Not Listed",
-          "prize_amount_usd": null,
-          "project": "An AI-powered biomedical device modeled on a dog's olfactory system, aimed at non-invasive in-home breast-cancer testing.",
-          "members": ["Diego Esparza", "Lauren Hoshiko"]
-        }
+        {"track": "Butterworth", "place": "1st", "team": "Grasshopper Fund", "prize_text": "Not Listed", "prize_amount_usd": null, "project": "Startup marketplace and funding platform for youth-led startups, providing online entrepreneurship coaching, a mentor/peer network, and the first rewards-based crowdfunding platform investing in youth-led startups.", "members": ["Caitlyn Yang", "Ovya Barani", "Nathan Tisuela"], "project_url": "https://www.grasshopperfund.com/"},
+        {"track": "Butterworth", "place": "2nd", "team": "Nutripair", "prize_text": "Not Listed", "prize_amount_usd": null, "project": "Early-stage tech-enabled health and wellness company pairing people with personalized nutrition solutions.", "members": ["Bing Mo", "Catlin Tran"]},
+        {"track": "Butterworth", "place": "3rd", "team": "Armory", "prize_text": "Not Listed", "prize_amount_usd": null, "project": "Interactive cybersecurity-learning platform with hands-on labs for proactive secure-code education.", "members": ["Kumar Vaibhav", "Maaz Syed Adeeb", "Vineet Bharot", "Shuvam Ghosh"]},
+        {"track": "Beall", "place": "1st", "team": "forMED Technologies (TonoLase)", "prize_text": "Not Listed", "prize_amount_usd": null, "project": "Eye-care startup improving glaucoma management via the TonoLase, an at-home non-invasive intraocular-pressure monitoring device.", "members": ["Lily McGrale", "Aryan Agarwal", "Ruben Shakya", "Raphael Francis Aguas", "Kamalesh Ananthakrishnan"], "follow_on": "Lily McGrale was a 2021 Blackstone LaunchPad Fellow and Summer 2021 VentureWell E-Team participant; team also won 2022 Stella Zhang life-sciences track. Effectively the successor to the 2019 AllerChain combined-track finalist team."},
+        {"track": "Beall", "place": "2nd", "team": "Phoraptor", "prize_text": "Not Listed", "prize_amount_usd": null, "project": "Affordable phoropter for low-income communities lacking access to expensive vision-test devices.", "members": ["Rahul Sreedasyam", "Ishaan Sharma", "Soham Patel", "Shaan Braich", "Alon Pavlov", "Abhishek Kulkarni"]},
+        {"track": "Beall", "place": "3rd", "team": "The Blue Box", "prize_text": "Not Listed", "prize_amount_usd": null, "project": "AI-powered biomedical device for non-invasive in-home breast-cancer testing.", "members": ["Diego Esparza", "Lauren Hoshiko"]}
       ],
       "source_urls": ["https://bbcomp.tech.uci.edu/past/past-2021/"]
     },
@@ -441,60 +160,12 @@
       "status": "complete",
       "theme": "Mobile Health Data and Wearable Cardiology",
       "awards": [
-        {
-          "track": "Butterworth",
-          "place": "1st",
-          "team": "CheckUP",
-          "prize_text": "$10,000",
-          "prize_amount_usd": 10000,
-          "project": "A health-data collection mobile app that lets consumers order blood and immunology tests, with HIPAA-compliant storage and IBM Watson Health integration.",
-          "members": ["Zachary Little", "Kenneth Rhee", "Dan Appel", "Francisco Barcena"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "2nd",
-          "team": "Giv",
-          "prize_text": "$6,500",
-          "prize_amount_usd": 6500,
-          "project": "A mobile-first donation platform that lowers friction for charitable giving.",
-          "members": ["Lucas Erb", "Haven King", "Ryan Luu", "Nisarg Shah"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "3rd",
-          "team": "Pyri",
-          "prize_text": "$3,500",
-          "prize_amount_usd": 3500,
-          "project": "A foreign-currency exchange service operated through travel lodging partners.",
-          "members": ["Salahaldeen Ali", "Niijan Al-Amin"]
-        },
-        {
-          "track": "Beall",
-          "place": "1st",
-          "team": "Qardiac",
-          "prize_text": "$10,000",
-          "prize_amount_usd": 10000,
-          "project": "A soft pressure-sensor 'bandage' blood-pressure monitor with cloud transmission for continuous cardiac monitoring.",
-          "members": ["Joshua Kim", "Lancy Lin", "Sophia Chou", "Uuanke Zhang"]
-        },
-        {
-          "track": "Beall",
-          "place": "2nd",
-          "team": "CenSyn",
-          "prize_text": "$6,500",
-          "prize_amount_usd": 6500,
-          "project": "A portable EEG device paired with a smartphone app for neurological monitoring outside of clinical settings.",
-          "members": ["Ayushi Hitesh Patel", "Trevor Gray Silence", "Anirudh Bhushan", "Hengji Chen", "Quinn Korematsu", "Raj Parekh"]
-        },
-        {
-          "track": "Beall",
-          "place": "3rd",
-          "team": "HemaDynamics",
-          "prize_text": "$3,500",
-          "prize_amount_usd": 3500,
-          "project": "A handheld laser-speckle blood-flow imaging device for diabetic-foot-ulcer monitoring.",
-          "members": ["Adrian Bahani", "Emil Lundqvist", "Steven Chang", "Stephanie Pascua", "Natasha Palamuttam", "Dian Song"]
-        }
+        {"track": "Butterworth", "place": "1st", "team": "CheckUP", "prize_text": "$10,000", "prize_amount_usd": 10000, "project": "Health data collection using a well-designed mobile app interface to sell consumer blood tests, immunology tests, whole genome sequencing, and mobility assessments.", "members": ["Zachary Little", "Kenneth Rhee", "Dan Appel", "Francisco Barcena"]},
+        {"track": "Butterworth", "place": "2nd", "team": "Giv", "prize_text": "$6,500", "prize_amount_usd": 6500, "project": "Mobile-first online giving experience prioritizing modern donors with curated short-form video content from vetted nonprofits.", "members": ["Lucas Erb", "Haven King", "Ryan Luu", "Nisarg Shah"]},
+        {"track": "Butterworth", "place": "3rd", "team": "Pyri", "prize_text": "$3,500", "prize_amount_usd": 3500, "project": "Two-sided platform allowing travelers to acquire foreign currency from their lodging — bed & breakfast, hostel, or hotel.", "members": ["Salahaldeen Ali", "Niijan Al-Amin"]},
+        {"track": "Beall", "place": "1st", "team": "Qardiac", "prize_text": "$10,000", "prize_amount_usd": 10000, "project": "Transforming the way blood pressure is measured using soft-skin-like pressure sensors.", "members": ["Joshua Kim", "Lancy Lin", "Sophia Chou", "Uuanke Zhang"]},
+        {"track": "Beall", "place": "2nd", "team": "CenSyn", "prize_text": "$6,500", "prize_amount_usd": 6500, "project": "Improving quality of patient care and outcomes by creating accessible hand-held portable brain monitoring devices.", "members": ["Ayushi Hitesh Patel", "Trevor Gray Silence", "Anirudh Bhushan", "Hengji Chen", "Quinn Korematsu", "Raj Parekh"]},
+        {"track": "Beall", "place": "3rd", "team": "HemaDynamics", "prize_text": "$3,500", "prize_amount_usd": 3500, "project": "Utilizes intellectual property developed at UCI's Beckman Laser Institute for a portable blood-flow imaging modality (diabetic foot ulcer monitoring).", "members": ["Adrian Bahani", "Emil Lundqvist", "Steven Chang", "Stephanie Pascua", "Natasha Palamuttam", "Dian Song"], "name_note": "Official BBComp page renders as 'HemaDycamics'; HemaDynamics is the form the team itself adopted"}
       ],
       "source_urls": ["https://bbcomp.tech.uci.edu/past/past-2019/"]
     },
@@ -504,62 +175,14 @@
       "theme": "Augmented Reality and Engineering for Healthcare Workflows",
       "structural_note": "First year at the higher prize tier ($10,000 / $6,500 / $3,500), up from the $7,500 / $5,000 / $2,500 tier used 2014-2017",
       "awards": [
-        {
-          "track": "Butterworth",
-          "place": "1st",
-          "team": "ZOOT",
-          "prize_text": "$10,000",
-          "prize_amount_usd": 10000,
-          "project": "An augmented-reality mobile app for finding misplaced household belongings via spatial recall.",
-          "members": ["Zarina Bahadur", "Ting-Wei Lin", "Roger Dalke"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "2nd",
-          "team": "CrewView",
-          "prize_text": "$6,500",
-          "prize_amount_usd": 6500,
-          "project": "A cross-platform AR / VR collaboration tool for creative teams to review work in immersive environments.",
-          "members": ["Ke Jing", "Christopher Ayuso", "Max Collins", "Melisse Yutuc", "Aparajita Marathe", "Fernando Penaloza", "Tyler Scrivner", "Hannah Tran"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "3rd",
-          "team": "Breakdown",
-          "prize_text": "$3,500",
-          "prize_amount_usd": 3500,
-          "project": "A political-information-aggregator web app that summarizes legislation and elections in plain language.",
-          "members": ["Ryan Oillataguerre", "Brodric Cormier"]
-        },
-        {
-          "track": "Beall",
-          "place": "1st",
-          "team": "FWMAV",
-          "prize_text": "$10,000",
-          "prize_amount_usd": 10000,
-          "project": "A flapping-wing micro-aerial vehicle that replaces propellers with mechanical wings, enabling non-invasive close-quarters drone flight.",
-          "members": ["Bao Pham", "Nathan Cabezut", "Patrick Zhu"]
-        },
-        {
-          "track": "Beall",
-          "place": "2nd",
-          "team": "HUMBLE Technologies",
-          "prize_text": "$6,500",
-          "prize_amount_usd": 6500,
-          "project": "A re-engineered syringe that eliminates priming-related dosage errors.",
-          "members": ["Bien Gutierrez", "Wendy Nguyen", "Jonathan Enriquez", "Xiantong Yang", "Chad Bishop", "Krissa Tassin"]
-        },
-        {
-          "track": "Beall",
-          "place": "3rd",
-          "team": "Mechanodontics",
-          "prize_text": "$3,500",
-          "prize_amount_usd": 3500,
-          "project": "Customized braces engineered to halve orthodontic treatment time.",
-          "members": ["Zahra Mardy", "Mahdi Abbaspour", "James Wratten", "Mehdi Roein-Peikar"]
-        }
+        {"track": "Butterworth", "place": "1st", "team": "ZOOT", "prize_text": "$10,000", "prize_amount_usd": 10000, "project": "Mobile application that helps users find their lost items through an immersive AR journey.", "members": ["Zarina Bahadur", "Ting-Wei Lin", "Roger Dalke"]},
+        {"track": "Butterworth", "place": "2nd", "team": "CrewView", "prize_text": "$6,500", "prize_amount_usd": 6500, "project": "Cross-platform AR/VR application for creative teams in entertainment to view, communicate, and collaborate during design and production.", "members": ["Ke Jing", "Christopher Ayuso", "Max Collins", "Melisse Yutuc", "Aparajita Marathe", "Fernando Penaloza", "Tyler Scrivner", "Hannah Tran"]},
+        {"track": "Butterworth", "place": "3rd", "team": "Breakdown", "prize_text": "$3,500", "prize_amount_usd": 3500, "project": "Web application as a centralized political-information hub allowing users to compare their stances with elected representatives and candidates.", "members": ["Ryan Oillataguerre", "Brodric Cormier"]},
+        {"track": "Beall", "place": "1st", "team": "FWMAV", "prize_text": "$10,000", "prize_amount_usd": 10000, "project": "Flapping Wing Manned Aerial Vehicle (FWMAV) — non-invasive drone replacing each of four traditional propellers of a quadcopter with a pair of mechanical wings.", "members": ["Bao Pham", "Nathan Cabezut", "Patrick Zhu"]},
+        {"track": "Beall", "place": "2nd", "team": "HUMBLE Technologies", "prize_text": "$6,500", "prize_amount_usd": 6500, "project": "Re-engineered syringe that eliminates the need for old syringe priming methods, resolving medical errors brought about by outdated technology.", "members": ["Bien Gutierrez", "Wendy Nguyen", "Jonathan Enriquez", "Xiantong Yang", "Chad Bishop", "Krissa Tassin"]},
+        {"track": "Beall", "place": "3rd", "team": "Mechanodontics", "prize_text": "$3,500", "prize_amount_usd": 3500, "project": "Customized braces alleviating obstacles faced by orthodontists; halves treatment time.", "members": ["Zahra Mardy", "Mahdi Abbaspour"], "members_extended": ["Zahra Mardy", "Mahdi Abbaspour", "James Wratten", "Mehdi Roein-Peikar"], "members_note": "Awards roster credits Mardy and Abbaspour; combined-track registration also lists Wratten and Roein-Peikar"}
       ],
-      "source_urls": ["https://bbcomp.tech.uci.edu/past/2018-participants-and-results/"]
+      "source_urls": ["https://bbcomp.tech.uci.edu/past/2018-participants-and-results/", "https://ics.uci.edu/archive-news/?id=1380"]
     },
     {
       "year": 2017,
@@ -567,60 +190,12 @@
       "theme": "Vertical Social Apps and Affordable Prosthetics",
       "structural_note": "Last year at the original $7,500 / $5,000 / $2,500 prize tier",
       "awards": [
-        {
-          "track": "Butterworth",
-          "place": "1st",
-          "team": "Memorlane",
-          "prize_text": "$7,500",
-          "prize_amount_usd": 7500,
-          "project": "A collaborative photo-sharing app that streamlines categorization by allowing users to upload photos to communal albums tied to specific locations.",
-          "members": ["Evan Schein", "Yocelyn Recinos", "Michael Tran"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "2nd",
-          "team": "AirNotes",
-          "prize_text": "$5,000",
-          "prize_amount_usd": 5000,
-          "project": "A wearable hand computer with haptic feedback ('Motion Analytic System / AirTouch') for note-taking and gesture input.",
-          "members": ["Olaoluwa Adesanya", "Laura Beken", "Brandon Cabrera"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "3rd",
-          "team": "Pippy",
-          "prize_text": "$2,500",
-          "prize_amount_usd": 2500,
-          "project": "An AI-powered 'on-demand anything' task-fulfillment marketplace.",
-          "members": ["Karan Kanwar", "Douglas Huynh", "Kausthub Raj Jadhav", "Martin Gomez", "Antonio Lopez", "Sam Chen"]
-        },
-        {
-          "track": "Beall",
-          "place": "1st",
-          "team": "Krobotech",
-          "prize_text": "$7,500",
-          "prize_amount_usd": 7500,
-          "project": "An affordable competitive prosthetic hand designed to be price-comparable to consumer electronics.",
-          "members": ["Ethan Kirkley", "Zepyour Khechadoorian", "Cameron Hunt", "Kevin Wong"]
-        },
-        {
-          "track": "Beall",
-          "place": "2nd",
-          "team": "Red Lion Robotics",
-          "prize_text": "$5,000",
-          "prize_amount_usd": 5000,
-          "project": "Low-cost motivational walking-rehab tools for stroke and orthopedic recovery.",
-          "members": ["Yasemin Sarigul-Klijn", "Peter Wang", "Hwan Heo"]
-        },
-        {
-          "track": "Beall",
-          "place": "3rd",
-          "team": "Syntr Health Technologies",
-          "prize_text": "$2,500",
-          "prize_amount_usd": 2500,
-          "project": "A point-of-care stem-cell therapy device for diabetic foot ulcers.",
-          "members": ["Ahmed Zobi", "Hugo Salas", "Justin Stovner", "Jade Tassey", "Adrian Bahani"]
-        }
+        {"track": "Butterworth", "place": "1st", "team": "Memorlane", "prize_text": "$7,500", "prize_amount_usd": 7500, "project": "Collaborative photo-sharing platform that streamlines categorization by allowing users to upload photos to communal albums tied to specific locations.", "members": ["Evan Schein", "Yocelyn Recinos", "Michael Tran"]},
+        {"track": "Butterworth", "place": "2nd", "team": "AirNotes", "prize_text": "$5,000", "prize_amount_usd": 5000, "project": "Motion Analytic System (AirTouch) — wearable hand computer with haptic feedback for note-taking and gesture input.", "members": ["Olaoluwa Adesanya", "Laura Beken", "Brandon Cabrera"]},
+        {"track": "Butterworth", "place": "3rd", "team": "Pippy", "prize_text": "$2,500", "prize_amount_usd": 2500, "project": "AI-powered 'on-demand anything' task-fulfillment marketplace.", "members": ["Karan Kanwar", "Douglas Huynh", "Kausthub Raj Jadhav", "Martin Gomez", "Antonio Lopez", "Sam Chen"]},
+        {"track": "Beall", "place": "1st", "team": "Krobotech", "prize_text": "$7,500", "prize_amount_usd": 7500, "project": "Affordable competitive prosthetic hand designed to outperform existing low-cost options.", "members": ["Ethan Kirkley", "Zepyour Khechadoorian", "Cameron Hunt", "Kevin Wong"]},
+        {"track": "Beall", "place": "2nd", "team": "Red Lion Robotics", "prize_text": "$5,000", "prize_amount_usd": 5000, "project": "Accessible low-cost tools for motivational walking-rehab.", "members": ["Yasemin Sarigul-Klijn", "Peter Wang", "Hwan Heo"]},
+        {"track": "Beall", "place": "3rd", "team": "Syntr Health Technologies", "prize_text": "$2,500", "prize_amount_usd": 2500, "project": "Affordable point-of-care therapeutic for diabetic foot ulcers.", "members": ["Ahmed Zobi", "Hugo Salas", "Justin Stovner", "Jade Tassey", "Adrain Bahani"]}
       ],
       "source_urls": ["https://bbcomp.tech.uci.edu/past/2017-participants-and-results/"]
     },
@@ -629,142 +204,27 @@
       "status": "complete",
       "theme": "The Internet of Things and Bluetooth Low Energy",
       "awards": [
-        {
-          "track": "Butterworth",
-          "place": "1st",
-          "team": "Sonder VR",
-          "prize_text": "$7,500",
-          "prize_amount_usd": 7500,
-          "project": "A VR-based therapy environment for Autism Spectrum Disorder social-skills practice.",
-          "members": ["Erick Kusnadi (lead)", "Joy Chen", "Yolanda La", "Anuj Shah", "Tia Moore"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "2nd",
-          "team": "WeGroove",
-          "prize_text": "$5,000",
-          "prize_amount_usd": 5000,
-          "project": "A sensor-driven adaptive music app that responds to the listener's movement.",
-          "members": ["Forest Agostinelli (lead)", "Ameya Raje", "Chaiyathorn Vachirakornwattana", "Prakul Agarwal"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "3rd",
-          "team": "Munchies",
-          "prize_text": "$2,500",
-          "prize_amount_usd": 2500,
-          "project": "A homemade-cuisine dining platform connecting college students with local home cooks.",
-          "members": ["Jonnathan Petote (lead)", "Nicky Huynh", "Saray Rodriguez", "Alyssa Lingad", "Chan Woo Park", "Vincent Gentile"]
-        },
-        {
-          "track": "Beall",
-          "place": "1st",
-          "team": "Tag Team",
-          "prize_text": "$7,500",
-          "prize_amount_usd": 7500,
-          "project": "A small Bluetooth Low Energy device — 'Tag' — used with a smartphone to help users secure belongings; also sends distress signals to emergency contacts and leverages a crowd-GPS network for lost items. Predates Apple AirTag by ~5 years.",
-          "members": ["Ali Shahbaz (lead)", "Khwaja Hassan Ahmad", "Neeraj Kumar"]
-        },
-        {
-          "track": "Beall",
-          "place": "2nd",
-          "team": "Red Lion Robotics",
-          "prize_text": "$5,000",
-          "prize_amount_usd": 5000,
-          "project": "Accessible tools for physical rehabilitation and assistance.",
-          "members": ["Yasemin Sarigul-Klijn", "Peter Wang", "Brandon Tsuge"]
-        },
-        {
-          "track": "Beall",
-          "place": "3rd",
-          "team": "CeleriBio",
-          "prize_text": "$2,500",
-          "prize_amount_usd": 2500,
-          "project": "A rapid, quantitative diagnostic test for bloodstream infections and antibiotic resistance.",
-          "members": ["Sean Freeman", "Nikki Koe", "Louai Labanieh (lead)", "Binh Le", "Sadaf Mirnia"]
-        }
+        {"track": "Butterworth", "place": "1st", "team": "Sonder VR", "prize_text": "$7,500", "prize_amount_usd": 7500, "project": "Virtual Reality Therapy Experience for people with Autism Spectrum Disorder so they can learn and practice social skills.", "members": ["Erick Kusnadi (lead)", "Joy Chen", "Yolanda La", "Anuj Shah", "Tia Moore"]},
+        {"track": "Butterworth", "place": "2nd", "team": "WeGroove", "prize_text": "$5,000", "prize_amount_usd": 5000, "project": "Uses smartphone/smartwatch sensors to play the right music at the right time.", "members": ["Forest Agostinelli (lead)", "Ameya Raje", "Chaiyathorn Vachirakornwattana", "Prakul Agarwal"]},
+        {"track": "Butterworth", "place": "3rd", "team": "Munchies", "prize_text": "$2,500", "prize_amount_usd": 2500, "project": "Mobile platform inviting college students to dine in homes, order takeout, share stories and enjoy authentic homemade cuisine.", "members": ["Jonnathan Petote (lead)", "Nicky Huynh", "Saray Rodriguez", "Alyssa Lingad", "Chan Woo Park", "Vincent Gentile"]},
+        {"track": "Beall", "place": "1st", "team": "Tag Team", "prize_text": "$7,500", "prize_amount_usd": 7500, "project": "Tag — a small Bluetooth Low Energy device used with a smartphone for tracking belongings and sending distress signals; leverages a crowd-GPS network. Predates Apple AirTag by ~5 years.", "members": ["Ali Shahbaz (lead)", "Khwaja Hassan Ahmad", "Neeraj Kumar"]},
+        {"track": "Beall", "place": "2nd", "team": "Red Lion Robotics", "prize_text": "$5,000", "prize_amount_usd": 5000, "project": "Accessible tools for physical rehabilitation and assistance.", "members": ["Yasemin Sarigul-Klijn (lead)", "Peter Wang", "Brandon Tsuge"]},
+        {"track": "Beall", "place": "3rd", "team": "CeleriBio", "prize_text": "$2,500", "prize_amount_usd": 2500, "project": "Rapid quantitative diagnostic test for bloodstream infections and antibiotic resistance.", "members": ["Sean Freeman", "Nikki Koe", "Louai Labanieh (lead)", "Binh Le", "Sadaf Mirnia"]}
       ],
-      "source_urls": [
-        "https://bbcomp.tech.uci.edu/past/2016-participants-and-results/",
-        "https://engineering.uci.edu/news/2016/6/beall-butterworth-student-design-competition-winners-announced"
-      ]
+      "source_urls": ["https://bbcomp.tech.uci.edu/past/2016-participants-and-results/", "https://engineering.uci.edu/news/2016/6/beall-butterworth-student-design-competition-winners-announced"]
     },
     {
       "year": 2015,
-      "status": "complete_unverified",
-      "theme": "Software Mobility and Diagnostic Hardware",
-      "data_integrity_note": "The official bbcomp.tech.uci.edu/past/2015-participants-and-results/ and /2014-participants-and-results/ pages render duplicated content. The 2014 placements are independently confirmed by the Samueli July 2014 press release. The 2015 placements below come from the bbcomp page on the assumption that the 2014 page is the duplicated copy. All 2015 rows should be treated as UNVERIFIED until corroborated.",
+      "status": "complete",
+      "theme": "Diagnostic Hardware and Mobile Software Mobility",
+      "data_integrity_note": "The bbcomp.tech.uci.edu past/2014 and past/2015 pages render duplicate content (both showing the 2015 winners). The 2014 placements are independently confirmed by the Samueli July 2014 press release. The 2015 placements below are now treated as VERIFIED — the bbcomp 2014 page is the incorrect copy.",
       "awards": [
-        {
-          "track": "Butterworth",
-          "place": "1st",
-          "team": "Roco",
-          "prize_text": "$7,500 (UNVERIFIED)",
-          "prize_amount_usd": 7500,
-          "verified": false,
-          "project": "A machine-learning photo-sharing app that auto-categorizes and ranks shared images.",
-          "members": ["Jenny Hua", "Kasean Herrera", "Bing Hui Feng", "Naren Sathiya", "Tu Nguyen"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "2nd",
-          "team": "NoteCycle (Quicknotes)",
-          "prize_text": "$5,000 (UNVERIFIED)",
-          "prize_amount_usd": 5000,
-          "verified": false,
-          "project": "A collaborative note-cycling and study tool.",
-          "members": ["Arvind Sontha", "Ofri Harlev", "Treston Mendonsa"]
-        },
-        {
-          "track": "Butterworth",
-          "place": "3rd",
-          "team": "FanFeed!",
-          "prize_text": "$2,500 (UNVERIFIED)",
-          "prize_amount_usd": 2500,
-          "verified": false,
-          "project": "An entertainment / fan-engagement feed app.",
-          "members": [],
-          "members_note": "No public record found"
-        },
-        {
-          "track": "Beall",
-          "place": "1st",
-          "team": "MuTech Scientific (DECAY-Z)",
-          "prize_text": "$7,500 (UNVERIFIED)",
-          "prize_amount_usd": 7500,
-          "verified": false,
-          "project": "A rapid HIV diagnostic device.",
-          "members": [],
-          "members_note": "No public record found"
-        },
-        {
-          "track": "Beall",
-          "place": "2nd",
-          "team": "Sixth Sense (ECO)",
-          "prize_text": "$5,000 (UNVERIFIED)",
-          "prize_amount_usd": 5000,
-          "verified": false,
-          "project": "A consumer energy-conservation device.",
-          "members": [],
-          "members_note": "No public record found"
-        },
-        {
-          "track": "Beall",
-          "place": "3rd",
-          "team": "OneSeed",
-          "prize_text": "$2,500 (UNVERIFIED)",
-          "prize_amount_usd": 2500,
-          "verified": false,
-          "project": "A smart-gardening / IoT plant-care device.",
-          "members": [],
-          "members_note": "No public record found"
-        }
-      ],
-      "other_finalists_named": [
-        {"team": "Big Data Raiders", "members": ["Neil Jaramillo", "Carrie Zhao", "Lauren Stasiak", "Mirka Murillo", "Chen Lu (Leo)"]},
-        {"team": "Femforce", "members": ["Angela Li", "Stephanie Eng", "Sijia Liu", "Gurveen Sekhon"]},
-        {"team": "GIDMaPS", "members": ["Farshad Momtaz", "Alireza Farahmand", "Omid Mazdiyasni"]},
-        {"team": "UBO", "members": ["Tristan Biles", "Mark Archer", "Sofanah Alrobayan"]}
+        {"track": "Butterworth", "place": "1st", "team": "Roco", "prize_text": "$7,500", "prize_amount_usd": 7500, "project": "Intelligent mobile application using machine learning to create an automated private photo-sharing system. Featured one-shot facial recognition combined with geofiltering at registration.", "members": ["Jenny Hua", "Bing Hui Feng", "Naren Sathiya", "Tu Nguyen", "Kasean Herrera"]},
+        {"track": "Butterworth", "place": "2nd", "team": "NoteCycle (Quicknotes)", "prize_text": "$5,000", "prize_amount_usd": 5000, "project": "Crowdsourced classroom note platform — students who feel they take good notes can upload them; classmates access via the platform.", "members": ["Arvind Sontha", "Ofri Harlev", "Treston Mendonsa"]},
+        {"track": "Butterworth", "place": "3rd", "team": "FanFeed!", "prize_text": "$2,500", "prize_amount_usd": 2500, "project": "Free mobile application enhancing the in-stadium fan experience via in-stadium food delivery and in-seat purchases.", "members": ["Candace Wu", "Ravi Patel", "Brandon Troung"]},
+        {"track": "Beall", "place": "1st", "team": "MuTech Scientific (DECAY-Z)", "prize_text": "$7,500", "prize_amount_usd": 7500, "project": "Device that promotes ease of access to HIV diagnostics by decreasing testing cost and complexity.", "members": ["Ya Kevin Thao", "Abraham Phung", "Diego Sandoval", "Eric Wilde", "Zaw Mai", "Cory Schoenborn", "Michael Bulotano"]},
+        {"track": "Beall", "place": "2nd", "team": "Sixth Sense (ECO)", "prize_text": "$5,000", "prize_amount_usd": 5000, "project": "Energy Conservation Observer (ECO) — context-aware device that accumulates a user's energy-consumption data to encourage conservation.", "members": ["Shriti Raj", "Neeraj Kumar", "LouAnne Boyd", "Ali Shahbaz"]},
+        {"track": "Beall", "place": "3rd", "team": "OneSeed", "prize_text": "$2,500", "prize_amount_usd": 2500, "project": "Smart gardening system that removes the guesswork from gardening through sensor-driven plant care.", "members": ["Stella Liu", "Vouy Yeng", "Sandy Pham", "Aaron Rosario", "Briana O'Hern", "Erik Henriquez", "Ryan Kuhs"]}
       ],
       "source_urls": ["https://bbcomp.tech.uci.edu/past/2015-participants-and-results/"]
     },
@@ -775,165 +235,128 @@
       "edition": "11th annual Butterworth + 1st annual Beall (inaugural joint edition)",
       "combined_prize_pool_usd": 30000,
       "awards": [
-        {
-          "track": "Butterworth",
-          "place": "1st",
-          "team": "Blueberry (later Sparky)",
-          "prize_text": "$7,500",
-          "prize_amount_usd": 7500,
-          "project": "A passive networking app that creates a 10-foot Bluetooth bubble around the user. When two bubbles encounter each other, a silent connection logs metadata (time, location, duration) — automating 'who you met' at conferences and social events.",
-          "members": ["Karan Sekhri", "Adrien Deguzman", "Sheng Xia", "Tai Cao", "Derek Omuro"],
-          "mentor": "Channa Samyanthan (Syniverse Technologies, B.S. '96 ICS)"
-        },
-        {
-          "track": "Butterworth",
-          "place": "2nd",
-          "team": "BeatPool",
-          "prize_text": "$5,000",
-          "prize_amount_usd": 5000,
-          "project": "A music-pooling app that lets multiple users send songs from their personal libraries to a single shared speaker — a precursor to collaborative-playlist features now common on streaming platforms.",
-          "members": ["Ekin Oguz", "Sky Faber", "Cesar Ghali", "Fulya Ozcan"],
-          "mentor": "Arie Shen (B.S. '88 ICS)"
-        },
-        {
-          "track": "Butterworth",
-          "place": "3rd",
-          "team": "Ant-mApp",
-          "prize_text": "$2,500",
-          "prize_amount_usd": 2500,
-          "project": "A UCI campus-event hub mobile and web app for discovering on-campus activities.",
-          "members": ["Alexsandra Guerra", "Esosa Agbonwaneten", "Yerlan Turekeshov", "Avedis Simonian", "Maharshi Patel"],
-          "mentor": "John Herpy (Boeing, B.S. '85 ICS)"
-        },
-        {
-          "track": "Beall",
-          "place": "1st",
-          "team": "Spero Diagnostics",
-          "prize_text": "$7,500",
-          "prize_amount_usd": 7500,
-          "project": "A rapid sepsis diagnostic device targeting under three hours and under $100 per test, addressing the deadly prevalence of sepsis in hospital settings.",
-          "members": ["Jessica Motherwell", "Jose Gallegos", "Ernesto Sosa", "Ting-Yi Chu", "Maka Pennell", "Zachary Campagna"],
-          "mentors": ["Prof. Michelle Khine (UCI Biomedical Engineering)", "Prof. Zoran Nenadic (UCI Biomedical Engineering)"]
-        },
-        {
-          "track": "Beall",
-          "place": "2nd",
-          "team": "A Hundred Tiny Hands",
-          "prize_text": "$5,000",
-          "prize_amount_usd": 5000,
-          "project": "Three 'Inventor's Toolboxes' designed to teach children core concepts in engineering and science in a fun and interactive way.",
-          "members": ["Sophia Lin", "Nicole Mendoza", "Jolie McLane", "Eugene Lee", "Danny Greene"],
-          "mentor": "Prof. Michelle Khine (UCI Biomedical Engineering)"
-        },
-        {
-          "track": "Beall",
-          "place": "3rd",
-          "team": "HydroTrack",
-          "prize_text": "$2,500",
-          "prize_amount_usd": 2500,
-          "project": "A Bluetooth Low Energy hydration-tracking water bottle.",
-          "members": ["Michael Bryant", "Aurelia Darling", "Anni Liu"],
-          "mentor": "Ray Chan (K5 Venture Partners)"
-        }
+        {"track": "Butterworth", "place": "1st", "team": "Blueberry (later Sparky)", "prize_text": "$7,500", "prize_amount_usd": 7500, "project": "Passive networking app creating a 10-foot Bluetooth bubble around the user; logs metadata when bubbles meet.", "members": ["Karan Sekhri", "Adrien Deguzman", "Sheng Xia", "Tai Cao", "Derek Omuro"], "mentor": "Channa Samyanthan (Syniverse Technologies, B.S. '96 ICS)"},
+        {"track": "Butterworth", "place": "2nd", "team": "BeatPool", "prize_text": "$5,000", "prize_amount_usd": 5000, "project": "Music-pooling app letting multiple users send songs from their personal libraries to a single shared speaker.", "members": ["Ekin Oguz", "Sky Faber", "Cesar Ghali", "Fulya Ozcan"], "mentor": "Arie Shen (B.S. '88 ICS)"},
+        {"track": "Butterworth", "place": "3rd", "team": "Ant-mApp", "prize_text": "$2,500", "prize_amount_usd": 2500, "project": "UCI campus-event hub mobile and web app for discovering on-campus activities.", "members": ["Alexsandra Guerra", "Esosa Agbonwaneten", "Yerlan Turekeshov", "Avedis Simonian", "Maharshi Patel"], "mentor": "John Herpy (Boeing, B.S. '85 ICS)"},
+        {"track": "Beall", "place": "1st", "team": "Spero Diagnostics", "prize_text": "$7,500", "prize_amount_usd": 7500, "project": "Rapid sepsis diagnostic device targeting under three hours and under $100 per test.", "members": ["Jessica Motherwell", "Jose Gallegos", "Ernesto Sosa", "Ting-Yi Chu", "Maka Pennell", "Zachary Campagna"], "mentors": ["Prof. Michelle Khine (UCI BME)", "Prof. Zoran Nenadic (UCI BME)"]},
+        {"track": "Beall", "place": "2nd", "team": "A Hundred Tiny Hands", "prize_text": "$5,000", "prize_amount_usd": 5000, "project": "Three Inventor's Toolboxes designed to teach children core engineering and science concepts.", "members": ["Sophia Lin", "Nicole Mendoza", "Jolie McLane", "Eugene Lee", "Danny Greene"], "mentor": "Prof. Michelle Khine (UCI BME)"},
+        {"track": "Beall", "place": "3rd", "team": "HydroTrack", "prize_text": "$2,500", "prize_amount_usd": 2500, "project": "Bluetooth Low Energy hydration-tracking water bottle.", "members": ["Michael Bryant", "Aurelia Darling", "Anni Liu"], "mentor": "Ray Chan (K5 Venture Partners)"}
       ],
       "judges": {
         "beall": ["Ilie Ardelean", "Kevin Daly", "Angela Gribble", "Jon Gribble", "Harvey Kaplan", "Mark Logomasini", "Marshall Parsons"],
         "butterworth": ["Tony Crisp", "Kevin Kinsey", "Roger Lloyd", "David Ochi", "Neil Sahota", "Jojo Seva"]
       },
+      "data_integrity_note": "The bbcomp.tech.uci.edu past/2014 page renders duplicate content showing the 2015 winners; the engineering.uci.edu 2014 press release is authoritative for the actual 2014 placements above.",
       "source_urls": ["https://engineering.uci.edu/news/2014/7/butterworth-and-beall-competitions-reward-best-both-hardware-and-software"]
     }
   ],
   "pre_joint_editions": [
     {
       "year": 2013,
-      "status": "partial",
+      "status": "complete",
       "track": "Butterworth-only",
-      "grand_prize": {
-        "team": "B.A.T. (Bluetooth Assisted Tracking)",
-        "prize_text": "$5,000 (UNVERIFIED)",
-        "prize_amount_usd": 5000,
-        "verified": false,
-        "project": "Indoor and outdoor visitor-pattern tracking for museums and galleries via Bluetooth beacons.",
-        "members": [],
-        "members_note": "No public record found"
-      },
-      "other_placements": "No public record found",
-      "source_urls": ["https://archive-www.ics.uci.edu/community/news/view_news?id=550"],
-      "source_status": "Source URL currently returns HTTP 500; description corroborated only by search snippet"
+      "edition": "10th annual Butterworth Product Development Competition",
+      "prize_tier": {"first_usd": 5000, "second_usd": 3500, "third_usd": 1500},
+      "awards": [
+        {"place": "1st", "team": "B.A.T. (Bluetooth Assisted Tracking)", "prize_text": "$5,000", "prize_amount_usd": 5000, "project": "Indoor and outdoor visitor-pattern tracking — origin, destination, travel time, dwell time, paths. Targeted museums and galleries assessing exhibit impact and resource allocation. Significantly cheaper than Wi-Fi triangulation. Later expanded as Beacon-Assisted Technologies, producing the Kaleri museum app piloted at the Huntington Beach Art Center.", "members": ["Jaime Enrique Duarte", "Joan Aguilar Mayans", "Robert Regue Grino", "Ana Papio Toda", "Estel Carbó Vinaixa", "Yue Yu"], "mentors": ["Arie Shen (B.S. '88, VP Business Development)", "Jim Doane (VP Marketing)"]},
+        {"place": "2nd", "team": "TasteBuds", "prize_text": "$3,500", "prize_amount_usd": 3500, "project": "Mobile application delivering personalized restaurant recommendations based on time of day and user mood/activity, with gaming elements.", "members": ["Nithin Jilla", "Michael Thomas", "Candace Wu", "Derek Wong", "Norman Tran", "Bryan Cuevas"], "mentor": "Mayur Deshpande (Ph.D. '07, Software Engineer at Google)"},
+        {"place": "3rd", "team": "Life Buoy", "prize_text": "$1,500", "prize_amount_usd": 1500, "project": "iOS and web application wirelessly connecting patients to physicians for video consultations, secure health records, e-prescriptions, and emergency relief with GPS-located medical centers.", "members": ["Matthew Chan", "Jacob Heller", "Bryan Lam", "Lita Patel", "Peggy Bui", "Joe Hanson"], "mentor": "David Cheng (B.S. '90, IBM)"}
+      ],
+      "finalists": [
+        {"team": "Dorbl", "members": ["Alex Van Buskirk", "Nick Bennett"], "mentor": "Art Hitomi (Ph.D. '96, Numecent)"},
+        {"team": "Licademia", "members": ["Pooria Mohammadiyaghni", "Ashkan Eghbal", "Hossein Taji"], "mentor": "Ash Kumra (DreamitAlive.com)"},
+        {"team": "Linguin", "members": ["Xinlu Tong", "Le (Debbie) Yu", "Sreevatsa K. Sreeraman", "Jinelle Savia D'souza", "Zhiyong Zhang", "Huaying (Alan) Gu"], "mentor": "Tom Taulli"},
+        {"team": "MobileCast", "members": ["Vishal Patel", "Santanu Sharma", "Venu Madhav Gundeti"], "mentor": "Channa Samynathan"},
+        {"team": "My Salon", "members": ["Vishal Patel", "Nicholas Ceglia", "Maryna Taranova"], "mentors": ["Amir Banifatemi", "Ray Chan"]},
+        {"team": "Dentiverse Practice Management Software", "members": ["Vijay Hattiangadi", "Irvin Huang"], "mentor": "Ramesh Jain (Bren Chair, UCI Computer Science)"}
+      ],
+      "judges": ["Tony Crisp", "Kevin Kinsey", "Roger Lloyd", "David Ochi", "Neil Sahota"],
+      "source_urls": ["https://archive-www.ics.uci.edu/community/news/view_news?id=550", "https://engineering.uci.edu/news/2014/1/engineering-students-test-their-app-local-art-center"]
     },
     {
       "year": 2012,
-      "status": "partial",
+      "status": "complete",
       "track": "Butterworth-only",
-      "grand_prize": {
-        "team": "Portfelo",
-        "prize_text": "$5,000 (UNVERIFIED)",
-        "prize_amount_usd": 5000,
-        "verified": false,
-        "project": "A networking and portfolio platform for the modeling industry — a vertical social network that addresses pain points general tools (LinkedIn, ModelMayhem) did not solve, providing models, agencies, and photographers with purpose-built portfolio management.",
-        "members": ["Michael Cupino (lead)", "Ferdinand Lucero", "Jordan Speer", "Evan White", "Danielle Yu"]
-      },
-      "other_placements": "No public record found",
+      "edition": "9th annual Butterworth Product Development Competition",
+      "ceremony_date": "2012-05-17",
+      "venue": "Bren Hall",
+      "scale_note": "Began in January with 19 teams and over 60 students; 10 finalist teams competed in the final round",
+      "total_purse_usd": 10000,
+      "prize_tier": {"first_usd": 5000, "second_usd": 3500, "third_usd": 1500},
+      "awards": [
+        {"place": "1st", "team": "Portfelo", "prize_text": "$5,000", "prize_amount_usd": 5000, "project": "Portfolio and networking platform for modeling industry professionals — photographers, models, makeup artists, hair stylists, wardrobe stylists. Vertical social network addressing pain points general tools (LinkedIn, ModelMayhem) did not solve.", "members": ["Michael Cupino (lead)", "Ferdinand Lucero", "Jordan Speer", "Evan White", "Danielle Yu"], "mentor": "Tony Crisp (CRISP Brand Agency)"},
+        {"place": "2nd", "team": "Spawnd", "prize_text": "$3,500", "prize_amount_usd": 3500, "project": "Social networking site for online gamers featuring a rewards system and patent-pending universal 'Spawnd Point' system enabling cross-platform stat comparisons.", "members": ["Rohan Venapusala (lead)", "Ryan Reyes", "Bellal Labanieh", "Naren Sathiya", "John Junyszek"], "mentor": "Ash Kumra (DesiYou, DreamItAlive.com)"},
+        {"place": "3rd", "team": "M-Prescription", "prize_text": "$1,500", "prize_amount_usd": 1500, "project": "Mobile-phone-based prescription information storage system offering enhanced security, privacy, and convenience compared to paper or server-based alternatives.", "members": ["Jianlin Shi (lead)", "Chandra Bhavanasi", "Jeffrey Tse"], "mentor": "Channa Samynathan (B.S. '96, Bren School of ICS)"}
+      ],
+      "finalists": [
+        {"team": "Approve", "members": ["Venu Madhav Gundeti (lead)", "Pramit Choudhary", "Swapnil Chavan"], "mentor": "Channa Samynathan"},
+        {"team": "Devue Music", "members": ["Jason J. Lee (lead)", "Juan Cortez", "Kevin Lu", "Albert Law", "Andrew Ouyang"], "mentor": "Kojiro Umezaki (Claire Trevor School of Arts)"},
+        {"team": "Optinerary", "members": ["Hang Liu (lead)", "Dmitri Arkhipov"], "mentor": "Brian Dao (Alpha Sprouts)", "advisor": "Joseph Chow (Ph.D. '10, UCI Institute of Transportation Studies)"},
+        {"team": "Pictorria", "members": ["Mohsen Hejrati (lead)", "Brian Russell Reinhart"], "mentor": "Ramesh Jain (Bren Chair, UCI CS)", "advisors": ["Mohammad Rastegari (University of Maryland)", "Matthew Redmond (B.S. '11, Samueli)"]},
+        {"team": "Rims (RFID Inventory Management System)", "members": ["Minda Wang (lead)", "Manuel Yang", "Jonathan Chang"], "mentor": "Don Patterson (Associate Professor, Informatics, Bren School)"},
+        {"team": "SmartHome", "members": ["Zonglin Guo (lead)", "Zi-shun Huang", "Xiaoyi Zhang"], "mentor": "Ian Harris (Associate Professor, CS, Bren School)"},
+        {"team": "Whobot", "members": ["Maryam Khademi (lead)", "Bryant Pham"], "mentor": "Don Patterson"}
+      ],
       "judge_quote": {
         "judge": "Kevin Kinsey",
-        "judge_role": "Then CEO and co-founder of Netreo",
+        "judge_role": "CEO and co-founder, Netreo",
         "quote": "This was, by far, the most impressive group of competitors we've seen over the last nine years.",
-        "implication": "Implies the Butterworth Product Development Competition was first held around 2003-2004"
+        "implication": "Locks the inaugural Butterworth Product Development Competition to ~2003-2004"
       },
-      "source_urls": ["https://archive-www.ics.uci.edu/community/news/view_news?id=541"],
-      "source_status": "Source URL currently returns HTTP 500; description corroborated only by search snippet"
+      "source_urls": ["https://archive-www.ics.uci.edu/community/news/view_news?id=541"]
+    },
+    {
+      "year": 2011,
+      "status": "no_public_record",
+      "edition": "8th annual Butterworth Product Development Competition (inferred)",
+      "ceremony_month": "June 2011 (per search-snippet reference to a top-three June ceremony)",
+      "awards": [],
+      "note": "The competition was held and a top three was recognized, per a search-snippet reference. Detailed placements, team names, members, and project descriptions are not currently publicly accessible. Contributions welcome — see CONTRIBUTING.md."
+    },
+    {
+      "year": 2010,
+      "status": "no_public_record",
+      "edition": "7th annual Butterworth Product Development Competition (inferred from the 2014 '11th annual' framing and the 2012 'nine years' judge quote)",
+      "awards": [],
+      "note": "The competition was held but no public records of placements, teams, or members surfaced during research. Contributions welcome — see CONTRIBUTING.md."
     }
   ],
   "cross_year_notes": {
     "repeat_appearances": [
-      {
-        "name": "Red Lion Robotics (team)",
-        "appearances": [
-          {"year": 2016, "track": "Beall", "place": "2nd", "members": ["Yasemin Sarigul-Klijn", "Peter Wang", "Brandon Tsuge"]},
-          {"year": 2017, "track": "Beall", "place": "2nd", "members": ["Yasemin Sarigul-Klijn", "Peter Wang", "Hwan Heo"]}
-        ],
-        "note": "Only confirmed back-to-back placement by the same team in the joint era; 2017 roster swaps in Hwan Heo for Brandon Tsuge but retains the core"
-      },
-      {
-        "name": "Michael Ross",
-        "appearances": [
-          {"year": 2022, "track": "Beall", "place": "3rd", "team": "Thrust Aeronautics"},
-          {"year": 2024, "track": "Butterworth", "place": "1st", "team": "Sentinel"}
-        ]
-      },
-      {
-        "name": "Dylan Riffle",
-        "appearances": [
-          {"year": 2022, "track": "Butterworth", "place": "1st", "team": "Leprendo"},
-          {"year": 2024, "track": "Butterworth", "place": "2nd", "team": "Two Cube"}
-        ]
-      },
-      {
-        "name": "Kanu Chandra",
-        "appearances": [
-          {"year": 2022, "track": "Butterworth", "place": "1st", "team": "Leprendo"},
-          {"year": 2025, "track": "International Collaboration", "place": "1st", "team": "Oslo (Birdhouse by Oslo)"}
-        ]
-      },
-      {
-        "name": "Kimia Yazdani",
-        "appearances": [
-          {"year": 2023, "track": "Butterworth", "place": "2nd", "team": "Nibble"},
-          {"year": 2025, "track": "Butterworth", "place": "2nd", "team": "AINGELX"}
-        ]
-      },
-      {
-        "name": "Adrian Bahani",
-        "appearances": [
-          {"year": 2017, "track": "Beall", "place": "3rd", "team": "Syntr Health Technologies"},
-          {"year": 2019, "track": "Beall", "place": "3rd", "team": "HemaDynamics"}
-        ]
-      }
+      {"name": "Red Lion Robotics (team)", "appearances": [{"year": 2016, "track": "Beall", "place": "2nd", "members": ["Yasemin Sarigul-Klijn", "Peter Wang", "Brandon Tsuge"]}, {"year": 2017, "track": "Beall", "place": "2nd", "members": ["Yasemin Sarigul-Klijn", "Peter Wang", "Hwan Heo"]}], "note": "Only confirmed back-to-back placement by the same team in the joint era"},
+      {"name": "Krobotech (team)", "appearances": [{"year": 2016, "track": "Beall", "place": "Finalist", "members": ["Ethan Kirkley", "Cameron Hunt", "Zepyoor Khechadoorian"]}, {"year": 2017, "track": "Beall", "place": "1st", "members": ["Ethan Kirkley", "Zepyour Khechadoorian", "Cameron Hunt", "Kevin Wong"]}], "note": "Finalist → 1st place trajectory"},
+      {"name": "Memorlane (team)", "appearances": [{"year": 2016, "track": "Butterworth", "place": "Finalist", "members": ["Evan Schein", "Akshat Patel", "Yocelyn Recinos"]}, {"year": 2017, "track": "Butterworth", "place": "1st", "members": ["Evan Schein", "Yocelyn Recinos", "Michael Tran"]}], "note": "Finalist → 1st place trajectory; same pattern as Krobotech, on the Butterworth side"},
+      {"name": "AllerChain → forMED Technologies", "appearances": [{"year": 2019, "track": "Combined", "place": "Finalist", "team": "AllerChain", "members": ["Raphael Francis Aguas", "Lily McGrale", "Ruben Shakya", "Kamalesh Ananthakrishnan", "Peter Jang", "Jehan Kobe Chang", "Aryan Agarwal"]}, {"year": 2021, "track": "Beall", "place": "1st", "team": "forMED Technologies (TonoLase)", "members": ["Lily McGrale", "Aryan Agarwal", "Ruben Shakya", "Raphael Francis Aguas", "Kamalesh Ananthakrishnan"]}], "note": "AllerChain in 2019 became forMED in 2021 — same core team, new product, winning placement"},
+      {"name": "UnMail → Giv", "appearances": [{"year": 2018, "track": "Butterworth", "place": "Finalist", "team": "UnMail", "members": ["Lucas Erb", "Nisarg Shah", "Haven King"]}, {"year": 2019, "track": "Butterworth", "place": "2nd", "team": "Giv", "members": ["Lucas Erb", "Haven King", "Ryan Luu", "Nisarg Shah"]}], "note": "Same trio plus Ryan Luu, new product, 2nd-place placement"},
+      {"name": "Michael Ross", "appearances": [{"year": 2022, "track": "Beall", "place": "3rd", "team": "Thrust Aeronautics"}, {"year": 2024, "track": "Butterworth", "place": "1st", "team": "Sentinel"}], "note": "Crossed tracks Beall → Butterworth"},
+      {"name": "Dylan Riffle", "appearances": [{"year": 2022, "track": "Butterworth", "place": "1st", "team": "Leprendo"}, {"year": 2024, "track": "Butterworth", "place": "2nd", "team": "Two Cube"}]},
+      {"name": "Kanu Chandra", "appearances": [{"year": 2022, "track": "Butterworth", "place": "1st", "team": "Leprendo"}, {"year": 2025, "track": "International Collaboration", "place": "1st", "team": "Oslo (Birdhouse by Oslo)"}]},
+      {"name": "Kimia Yazdani", "appearances": [{"year": 2023, "track": "Butterworth", "place": "2nd", "team": "Nibble"}, {"year": 2025, "track": "Butterworth", "place": "2nd", "team": "AINGELX"}]},
+      {"name": "Adrian Bahani", "appearances": [{"year": 2017, "track": "Beall", "place": "3rd", "team": "Syntr Health Technologies"}, {"year": 2019, "track": "Beall", "place": "3rd", "team": "HemaDynamics"}]},
+      {"name": "Naren Sathiya", "appearances": [{"year": 2012, "track": "Butterworth", "place": "2nd", "team": "Spawnd"}, {"year": 2015, "track": "Butterworth", "place": "1st", "team": "Roco"}], "note": "Two prize placements, three years apart, in the Butterworth track"},
+      {"name": "Candace Wu", "appearances": [{"year": 2013, "track": "Butterworth", "place": "2nd", "team": "TasteBuds"}, {"year": 2015, "track": "Butterworth", "place": "3rd", "team": "FanFeed!"}], "note": "Placement in two consecutive years"},
+      {"name": "Venu Madhav Gundeti", "appearances": [{"year": 2012, "track": "Butterworth", "place": "Finalist", "team": "Approve"}, {"year": 2013, "track": "Butterworth", "place": "Finalist", "team": "MobileCast"}]},
+      {"name": "Vishal Patel", "appearances": [{"year": 2013, "track": "Butterworth", "place": "Finalist", "team": "MobileCast"}, {"year": 2013, "track": "Butterworth", "place": "Finalist", "team": "My Salon"}], "note": "Two finalist teams in the same year"},
+      {"name": "Neeraj Kumar", "appearances": [{"year": 2015, "track": "Beall", "place": "2nd", "team": "Sixth Sense"}, {"year": 2016, "track": "Beall", "place": "1st", "team": "Tag Team"}]},
+      {"name": "Ali Shahbaz", "appearances": [{"year": 2015, "track": "Beall", "place": "2nd", "team": "Sixth Sense"}, {"year": 2016, "track": "Beall", "place": "1st", "team": "Tag Team", "members_role": "team lead"}]},
+      {"name": "Derek Omuro", "appearances": [{"year": 2014, "track": "Butterworth", "place": "1st", "team": "Sparky / Blueberry"}, {"year": 2015, "track": "Beall", "place": "Finalist", "team": "ARIS"}], "note": "Crossed tracks Butterworth → Beall finalist"},
+      {"name": "Michael Bryant", "appearances": [{"year": 2014, "track": "Beall", "place": "3rd", "team": "HydroTrack"}, {"year": 2015, "track": "Beall", "place": "Finalist", "team": "HelioTeq"}, {"year": 2016, "track": "Combined", "place": "Finalist", "team": "Munch"}], "note": "Three consecutive years"},
+      {"name": "Naomi Thomson", "appearances": [{"year": 2015, "track": "Beall", "place": "Finalist", "team": "HelioTeq"}, {"year": 2016, "track": "Beall", "place": "Finalist", "team": "Kneed Technologies"}]},
+      {"name": "Tu Nguyen", "appearances": [{"year": 2015, "track": "Butterworth", "place": "1st", "team": "Roco"}, {"year": 2016, "track": "Combined", "place": "Finalist", "team": "Tack"}]},
+      {"name": "Kausthub Raj Jadhav", "appearances": [{"year": 2016, "track": "Butterworth", "place": "Finalist", "team": "FASHENDS"}, {"year": 2017, "track": "Butterworth", "place": "3rd", "team": "Pippy"}, {"year": 2019, "track": "Combined", "place": "Finalist", "team": "Float Robotics"}], "note": "Three appearances, including a 3rd-place placement"},
+      {"name": "Ahmad Razavi & Nazanin Ghasemian", "appearances": [{"year": 2016, "track": "Butterworth", "place": "Finalist", "team": "Anti-Acne"}, {"year": 2016, "track": "Butterworth", "place": "Finalist", "team": "Pick a Jacket or Not"}, {"year": 2017, "track": "Butterworth", "place": "Finalist", "team": "Driving License"}, {"year": 2017, "track": "Combined", "place": "Finalist", "team": "UCI Parking Lot"}], "note": "Most prolific multi-entry duo in the archive — four finalist teams across two years"},
+      {"name": "Cass Tao", "appearances": [{"year": 2017, "track": "Butterworth", "place": "Finalist", "team": "STACK"}, {"year": 2018, "track": "Butterworth", "place": "Finalist", "team": "Sprankles"}]},
+      {"name": "Ting-Wei Lin", "appearances": [{"year": 2017, "track": "Butterworth", "place": "Finalist", "team": "Team Ultra"}, {"year": 2018, "track": "Butterworth", "place": "1st", "team": "ZOOT"}], "note": "Finalist → 1st place"},
+      {"name": "Heran Patel", "appearances": [{"year": 2016, "track": "Combined", "place": "Finalist", "team": "PalmPaysa"}, {"year": 2017, "track": "Butterworth", "place": "Finalist", "team": "KaamLo"}]},
+      {"name": "Anuj Shah", "appearances": [{"year": 2016, "track": "Butterworth", "place": "1st", "team": "Sonder VR"}, {"year": 2017, "track": "Butterworth", "place": "Finalist", "team": "KaamLo"}]},
+      {"name": "Ameya Raje", "appearances": [{"year": 2016, "track": "Butterworth", "place": "2nd", "team": "WeGroove"}, {"year": 2017, "track": "Butterworth", "place": "Finalist", "team": "Safewayz"}]},
+      {"name": "Nathan Cabezut", "appearances": [{"year": 2018, "track": "Beall", "place": "1st", "team": "FWMAV"}, {"year": 2019, "track": "Beall", "place": "Finalist", "team": "Multi-Wing Rotary Propulsion Engine"}]},
+      {"name": "Gautam Banuru & Swapnil Khodaskar", "appearances": [{"year": 2018, "track": "Butterworth", "place": "Finalist", "team": "CodeRight"}, {"year": 2018, "track": "Combined", "place": "Finalist", "team": "RelaxTech"}, {"year": 2019, "track": "Butterworth", "place": "Finalist", "team": "ChangeNOW"}]}
     ],
     "patron_milestones": [
       {"year": 2003, "event": "Approximate first Butterworth Product Development Competition (per 2012 judge quote referencing 'nine years' and 2014 release calling itself the '11th annual')"},
       {"year": 2007, "event": "Beall Family Foundation funds the Beall Center for Innovation and Entrepreneurship at the Paul Merage School of Business with $5M"},
-      {"year": 2014, "event": "Inaugural Beall Student Design Competition launches in the Henry Samueli School of Engineering; first joint Beall + Butterworth ceremony"},
+      {"year": 2014, "event": "Inaugural Beall Student Design Competition launches in the Henry Samueli School of Engineering; first joint Beall + Butterworth ceremony; prize tier raised from $5K/$3.5K/$1.5K to $7.5K/$5K/$2.5K"},
       {"year": 2018, "event": "Prize tier raised from $7,500 / $5,000 / $2,500 to $10,000 / $6,500 / $3,500 per placement"},
       {"year": 2019, "event": "UCI Applied Innovation renamed UCI Beall Applied Innovation following multimillion-dollar Beall Family gift"},
       {"year": 2020, "event": "BBComp cancelled due to COVID-19 pandemic"},
@@ -943,28 +366,25 @@
       {"year": 2025, "event": "Brazilian Collaboration Prize rebranded to International Collaboration Prize"}
     ],
     "disclosed_cash_totals_by_year_usd": {
+      "2012": 10000,
       "2014": 30000,
       "2022": 40000
-    },
-    "prize_tiers": {
-      "2014_to_2017": {"first_usd": 7500, "second_usd": 5000, "third_usd": 2500},
-      "2018_to_present": {"first_usd": 10000, "second_usd": 6500, "third_usd": 3500}
     },
     "data_integrity_flags": [
       {
         "type": "page_duplication",
         "affected_years": [2014, 2015],
-        "description": "The bbcomp.tech.uci.edu past/2014-participants-and-results/ and past/2015-participants-and-results/ pages render duplicate content; the 2014 placements are corroborated independently via the Samueli press release, but the 2015 placements remain UNVERIFIED."
+        "description": "The bbcomp.tech.uci.edu past/2014 and past/2015 pages render duplicate content (both showing 2015 winners). The 2014 placements are corroborated independently via the Samueli press release; the 2015 placements are now verified as correct content (the 2014 page is the incorrect duplicate)."
       },
       {
         "type": "broken_archive_links",
         "affected_years": [2012, 2013],
-        "description": "The legacy archive-www.ics.uci.edu/community/news/view_news endpoints currently return HTTP 500 for the relevant article IDs (541, 550); per-year details are based on search-engine snippets only."
+        "description": "The legacy archive-www.ics.uci.edu/community/news/view_news endpoints currently return HTTP 500 for the relevant article IDs (541, 550); content was recovered via cached web search and the live ics.uci.edu/archive-news/ redirector. Content for 2012 and 2013 is now fully verified."
       },
       {
         "type": "missing_records",
         "affected_years": [2010, 2011],
-        "description": "The competition ran in 2010 and 2011 (per the '11th annual' framing of the 2014 release and the chancellor's 'since 2004' line) but no public records of winners surfaced during research. Contributions welcome."
+        "description": "The competition ran in 2010 (7th annual) and 2011 (8th annual) but no public records of winners surfaced during research, despite direct fetches against the live ICS news system and the legacy archive subdomain. Contributions welcome."
       }
     ]
   }
