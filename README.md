@@ -27,6 +27,7 @@ This repository exists because the institutional memory for student competitions
 - [Pre-Joint Editions (2012–2013)](#pre-joint-editions-20122013)
 - [The Patrons: Beall and Butterworth Families](#the-patrons-beall-and-butterworth-families)
 - [Connected Programs](#connected-programs)
+- [Supplementary Documentation](#supplementary-documentation)
 - [Sources & Notes](#sources--notes)
 
 ## About the Competition
@@ -316,6 +317,8 @@ Judge **Kevin Kinsey** (then CEO of Netreo) on the 2012 cohort: *"This was, by f
 
 ## The Patrons: Beall and Butterworth Families
 
+> Detailed biographies, career timelines, and the full philanthropic record for both families live in [docs/patrons.md](docs/patrons.md). The summaries below cover the headline facts.
+
 ### Paul and Jo Butterworth (ICS / Butterworth track)
 
 - **Paul Butterworth** — B.S. Computer Science, UCI 1974; M.S. Computer Science, UCI 1981. Originally enrolled as an Engineering undergraduate in 1969 and switched to Computer Science in his third year.
@@ -336,6 +339,8 @@ Judge **Kevin Kinsey** (then CEO of Netreo) on the 2012 cohort: *"This was, by f
 
 ## Connected Programs
 
+> Full details of each adjacent program — incubators, follow-on competitions, fellowships, the Brazilian partnership — live in [docs/connected-programs.md](docs/connected-programs.md). The list below is a summary; "where are they now?" tracking for individual teams lives in [docs/where-are-they-now.md](docs/where-are-they-now.md); the judges and 2014-era mentor roster lives in [docs/judges-and-mentors.md](docs/judges-and-mentors.md).
+
 The BBComp does not exist in isolation. It is one of four flagship student competitions hosted by UCI Beall Applied Innovation (the others are the UCI Hackathon, Med AppJam, and the New Venture Competition), and many BBComp finalists go on to compete in or graduate into adjacent programs.
 
 - **UCI Beall Applied Innovation** — central innovation hub at 5270 California Ave; houses The Cove co-working space; renamed in 2019 after the Beall Family gift.
@@ -345,6 +350,17 @@ The BBComp does not exist in isolation. It is one of four flagship student compe
 - **Blackstone LaunchPad at UCI** — campus-wide startup mentorship program; several BBComp founders (e.g., Lily McGrale of forMED, Caitlyn Yang of Grasshopperfund) have been Blackstone LaunchPad fellows.
 - **Beall Center for Innovation and Entrepreneurship (Paul Merage School of Business)** — runs the **Stella Zhang New Venture Competition**, a related but distinct competition with a >$100,000 prize pool. Multiple BBComp teams have won both competitions in the same cycle (Sentinel 2024, Leprendo 2022, forMED 2022 life-sciences track).
 - **PUCRS (Brazil) partnership** — the Pontifical Catholic University of Rio Grande do Sul has paired its students with UCI teams since 2023, producing the joint **Brazilian / International Collaboration Prize** entries.
+
+## Supplementary Documentation
+
+These files extend the README with material that doesn't fit cleanly into the per-year tables but is still part of the BBComp record:
+
+- [docs/patrons.md](docs/patrons.md) — full biographies and philanthropic timelines for Paul and Jo Butterworth and for Donald R. Beall and the Beall Family Foundation.
+- [docs/judges-and-mentors.md](docs/judges-and-mentors.md) — the current Beall and Butterworth judges roster, the 2014 inaugural panel, and the 2014 mentor list.
+- [docs/connected-programs.md](docs/connected-programs.md) — the broader UCI student-innovation graph (Wayfinder, Blackstone LaunchPad at UCI, ANTrepreneur Center, the Stella Zhang New Venture Competition, the PUCRS partnership, and external follow-on competitions).
+- [docs/where-are-they-now.md](docs/where-are-they-now.md) — verified post-competition outcomes for BBComp teams and individual founders, with explicit gaps for teams whose status we couldn't confirm.
+
+The structured machine-readable mirror of all per-year data lives in [data/bbcomp.json](data/bbcomp.json).
 
 ## Sources & Notes
 
