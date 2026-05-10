@@ -251,8 +251,9 @@ These are individual-level signals, not company outcomes - but they help future 
 | Ryan Hsu | Pulsera 2023 Beall 1st | At MicroVention-Terumo (medical device company); UCI BME B.S. magna cum laude + Master of Engineering in BME; previously interned at Wonderful Pistachios & Almonds |
 | Lakshmi Vibhu Narke | Eupnea, 2023 Butterworth 1st | At Microsoft (per LinkedIn); attended Microsoft Build conference |
 | Christine Ly | NeoMold, 2024 Beall 1st | PhD student, USC BioMEMS lab (since Aug 2024) |
-| Andrew Cai | Florence, 2025 Butterworth 1st | At Virio (per LinkedIn); relationship to Florence unverified |
-| Shushrruth Sai Srinivasan | Two Cube, 2024 Butterworth 2nd | PhD student in CS at UCI; peer-reviewed publications in single-cell epigenetics |
+| Andrew Cai | Florence, 2025 Butterworth 1st | At **Virio** ("the AI marketer for vertical SaaS"; New York, NY; PitchBook profile); relationship to Florence team itself unverified |
+| Shushrruth Sai Srinivasan | Two Cube, 2024 Butterworth 2nd | PhD student in UCI's **Mathematical, Computational, and Systems Biology (MCSB) Program**; research in Bioinformatics, Genomics, and Applied Machine Learning; peer-reviewed publications in Science Advances, Alzheimer's & Dementia, scENCORE chromatin conformation work; speaker at 2025 Health Care Forecast Conference for Two Cube |
+| Michael Ross | Thrust Aeronautics 2022 Beall 3rd + Sentinel 2024 Butterworth 1st | **Materials Scientist and Aerospace Engineer**; founder of Thrust Aeronautics (aerospike engine development); for Sentinel: graduated from **NSF I-Corps Regional Program** + won $30K total at UCI Stella Zhang NVC. Research areas: aerospike nozzles, aerospace alloys, additive manufacturing |
 | Ayushi Hitesh Patel | CenSyn, 2019 Beall 2nd | Co-founder & CEO of CenSyn Inc. (active) |
 | Anirudh "Andy" Bhushan | CenSyn, 2019 Beall 2nd | Co-founder & business strategist of CenSyn Inc. |
 | Trevor Gray Silence | CenSyn, 2019 Beall 2nd | Co-founder of CenSyn Inc. |
