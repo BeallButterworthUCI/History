@@ -49,12 +49,13 @@ Aggregated statistics computed from [data/bbcomp.json](../data/bbcomp.json) (las
 
 ## Companies Confirmed Active
 
-Eleven teams or founder follow-ons from the BBComp archive have a verifiable, currently operating commercial entity or nonprofit:
+Twelve teams or founder follow-ons from the BBComp archive have a verifiable, currently operating commercial entity or nonprofit:
 
 | Team | Year | Company | Funding signal |
 |------|------|---------|----------------|
 | **A Hundred Tiny Hands** (2014 Beall 2nd) | 2014 | 100tinyhands.org (nonprofit co-op) | Kickstarter funded ($54K+); published children's book series |
-| **BottleRocket** (2016 Butterworth finalist) | 2016 | BottleRocket | $240K MuckerLab + $20K Dorm Room Fund = $260K+ total raised |
+| **BottleRocket** (2016 Butterworth finalist) | 2015+ | BottleRocket | Founded May 2015; $240K MuckerLab + $20K Dorm Room Fund = $260K+ total raised |
+| **Red Lion Robotics** (2016 + 2017 Beall 2nd) | 2016+ | Red Lion Robotics | Won Aging 2.0 OC regional business competition (2017) + advanced nationally; product **GRAM** (Gait Rehab Adaptive Machine) low-cost wheelchair attachment |
 | **Palmplug** (2017 Butterworth 2nd, AirNotes) | 2017+ | Palmplug | Active Pacific Northwest startup focused on Spatial Computing, Wearables, Health, Robotics, and AI; founder Adesanya also at Meta |
 | **Syntr Health Technologies** (2017 Beall 3rd) | 2016+ | Syntr Health (syntrhealth.com) | **$10M raise announced March 2023** + $2.2M seed (Aug 2021) + $300K Phase I SBIR/NIH grant (Oct 2017); active commercial company at University Lab Partners (UCI Research Park); Syntrfuge fat-processing platform for facial fat loss, knee osteoarthritis, diabetic foot ulcers |
 | **HUMBLE Technologies** (2018 Beall 2nd) | 2018 | HUMBLE Technologies (Delaware C corp) | TCU Values & Ventures 2nd place + $750 (2018); 100% UCI/SDSU undergraduate-owned; medical-device startup |
