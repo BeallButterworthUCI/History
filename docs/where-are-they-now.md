@@ -20,6 +20,21 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Press:** [TechCrunch coverage, March 2023](https://techcrunch.com/2023/03/13/123-baby-box-subscription-commerce/), [OC Business Journal](https://www.ocbj.com/oc-homepage/123-baby-box-raises-1-2m-pre-seed/), [Femtech Insider](https://femtechinsider.com/123-baby-box-re-seed/), [Authority Magazine interview](https://medium.com/authority-magazine/fresh-founders-zarina-bahadur-of-123-baby-box-on-the-unique-challenges-of-building-a-business-from-86dbe289b2e4), [Crunchbase profile](https://www.crunchbase.com/organization/123-baby-box).
 - **Sources for the BBComp/NVC trajectory:** [merage.uci.edu, June 2020](https://merage.uci.edu/news/2020/06/baby-box-wins-25,000-grand-prize-at-2020-new-venture-competition.html), [merage.uci.edu, April 2023 - $1.2M raise](https://merage.uci.edu/news/2023/04/123-Baby-Box-raises-oversubscribed-round-of-1.2-million.html).
 
+### Vena Vitals - 2019 Beall 1st place (Qardiac)
+
+- **Status:** **active Y Combinator-backed company**, 14 employees, FDA clearance anticipated 2026.
+- **Site:** [Y Combinator profile](https://www.ycombinator.com/companies/vena-vitals); [University Lab Partners profile](https://sites.uci.edu/mengprojects/vena-vitals/).
+- **Co-founders (2019):**
+  - **Ray Liu** (CEO) - experienced medtech executive; met Khine 20+ years ago as UC Berkeley grad-school lab mates
+  - **Joshua "Josh" Kim** (CTO and Co-Founder) - the same Joshua Kim from the 2019 BBComp Qardiac team; developed the underlying technology for his PhD; lead author on seminal papers
+  - **Prof. Michelle Khine** - the recurring BBComp faculty mentor (also of 2014's Spero Diagnostics and A Hundred Tiny Hands); her lab developed the underlying soft, stretchable electronics technology
+- **Team:** 14 employees total; 9 UCI alumni including 5 PhDs.
+- **Product:** the Qardiac concept made commercial - a small skin-like sensor that adheres like a Band-Aid and captures blood pressure continuously, beat by beat, without needles, cuffs, or bulky equipment.
+- **Funding:** venture funding and federal grants. Investors include **Morado Ventures**, **Founders Inc.**, plus accelerators **Y Combinator**, **MedTech Innovator**, and **EvoNexus**. Beall Applied Innovation Proof of Product (PoP) grant.
+- **Operations:** office and lab space at The Cove at UCI and University LabPartners (ULP). Continues to work with current UCI Master of Engineering capstone teams (e.g., the 2024 cohort led by Meghana Ballari).
+- **Validation:** **over 600 patients tested in operating rooms**; FDA clearance anticipated 2026. Won the **MedTech Track at the 2023 University Lab Partners Pitch. Launch. Grow.** Orange County competition.
+- **Press:** [innovation.uci.edu, "Can Wearable Tech Finally Get Blood Pressure Right?"](https://innovation.uci.edu/news/vena-vitals/), [Morado Ventures investment thesis](https://blog.moradoventures.com/read/why-we-invested-vena-vitals/), [Y Combinator listing](https://www.ycombinator.com/companies/vena-vitals), [Founders Inc. portfolio](https://f.inc/portfolio/vena-vitals/), [Tracxn profile](https://tracxn.com/d/companies/vena-vitals/__n5riKIxkl5k0UVsj9mhymNnmIZ44Lk6TZYHMyFVo-TY/founders-and-board-of-directors), [PR Newswire 2023 ULP win](https://www.prnewswire.com/news-releases/university-lab-partners-announces-cytorecovery-and-vena-vitals-as-the-winners-of-orange-countys-2023-pitch-launch-grow-competition-301922246.html).
+
 ### BottleRocket - founder of 2016 Butterworth finalist BottleRocket
 
 - **Status:** active venture-backed company.
