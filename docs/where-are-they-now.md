@@ -103,7 +103,7 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 ### CenSyn Inc. - 2019 Beall 2nd place (CenSyn)
 - **Status:** active incorporated company.
 - **Founded:** 2019, immediately after the BBComp 2nd-place placement.
-- **Founders:** Ayushi (Hitesh) Patel (Co-founder & CEO), Anirudh "Andy" Bhushan (Co-founder & business strategist), Trevor Gray Silence (Co-founder). All three graduated from UCI Biomedical Engineering in 2019.
+- **Founders:** Ayushi (Hitesh) Patel (Co-founder & CEO), Anirudh "Andy" Bhushan (Co-founder & business strategist), **Trevor Gray Silence (Co-founder & CTO)**. All three graduated from UCI Biomedical Engineering in 2019.
 - **Headquarters:** Irvine, California.
 - **Product:** **CenSyn PenEEG** - pen-sized portable electroencephalogram device for screening Alzheimer's, traumatic brain injury, and epilepsy. Reads EEG signals in 1-2 minutes. Targets the gap of "only 1,800 of 6,300 surveyed hospitals have an EEG machine"; standard EEGs cost ~$25,000 and require a trained specialist.
 - **Funding:** **$105K Seed** from **Berkeley SkyDeck** (September 28, 2021). Other investors include the **Arizona Commerce Authority**, **1517 Fund**, **HonorHealth**, **Monsoon Venture Fund**, and **Skydeck Capital**. NSF I-Corps participant. Arizona Innovation Challenge Grant recipient.
@@ -242,6 +242,8 @@ These are individual-level signals, not company outcomes - but they help future 
 | Dan Ta | Leprendo 2022 Butterworth 1st | Co-Founder at Leprendo (active); previously sold $300K in online dates business pre-Leprendo |
 | Yerlan Turekeshov | Ant-mApp 2014 Butterworth 3rd | Notre Dame ESTEEM (Engineering, Science, and Technology Entrepreneurship Excellence) Master's Program (2015 cohort); worked on Gailey Eye Clinics industry-sponsored project |
 | Nitish Nagesh | N3.AI 2023 Brazilian Collaboration | **PhD student in Computer Science at UCI Bren School (3.9 GPA)**, expected graduation August 2026. Won the **UCI Beall Family Entrepreneur Award** + **Entrepreneur Award in Computer Science** + **TU Munich Young Academy Scholarship**. Research focus: fair and responsible AI for health. Member of UCI Health SciTech Group |
+| Mahyar Abbasian | N3.AI 2023 Brazilian Collaboration | At Genmab (per LinkedIn); UCI CS PhD student in Generative AI, LLMs, ML in Healthcare, IoT. Co-authored 2024 EMBC paper on "Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients" |
+| Trevor Silence | CenSyn 2019 Beall 2nd | **CTO and Co-Founder of CenSyn Inc.** (active Berkeley SkyDeck-funded company); UCI BME 2019 graduate |
 | Lakshmi Vibhu Narke | Eupnea, 2023 Butterworth 1st | At Microsoft (per LinkedIn); attended Microsoft Build conference |
 | Christine Ly | NeoMold, 2024 Beall 1st | PhD student, USC BioMEMS lab (since Aug 2024) |
 | Andrew Cai | Florence, 2025 Butterworth 1st | At Virio (per LinkedIn); relationship to Florence unverified |
