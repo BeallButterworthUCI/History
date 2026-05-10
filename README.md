@@ -403,6 +403,7 @@ These files extend the README with material that doesn't fit cleanly into the pe
 - [docs/where-are-they-now.md](docs/where-are-they-now.md) - verified post-competition outcomes for BBComp teams and individual founders, with explicit gaps for teams whose status we couldn't confirm.
 - [docs/glossary.md](docs/glossary.md) - definitions of terms, sentinel values, prize-tier history, and acronyms used throughout this archive, written for readers new to UCI or BBComp.
 - [docs/statistics.md](docs/statistics.md) - aggregated numbers computed from the JSON: track distribution, total documented people (358 unique members), confirmed companies, repeat appearances, theme evolution, and Stella Zhang NVC cross-competition performance.
+- [docs/cross-with-stella-zhang.md](docs/cross-with-stella-zhang.md) - systematic cross-reference with the [StellaZhangUCI/History](https://github.com/StellaZhangUCI/History) sister repo: 33 founders and 10 team names appearing in both archives, plus same-year double winners and trajectory founders (Zarina Bahadur ZOOT 2018 -> 123 Baby Box NVC 2020 Grand Prize; Pippy 2017 -> Wing NVC 2018; etc.).
 
 The structured machine-readable mirror of all per-year data lives in [data/bbcomp.json](data/bbcomp.json), with a flat-row spreadsheet export at [data/winners.csv](data/winners.csv) (91 rows covering all winners, finalists, and cancelled / no-record years).
 
