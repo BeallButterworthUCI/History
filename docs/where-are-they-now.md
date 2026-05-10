@@ -241,6 +241,8 @@ These are individual-level signals, not company outcomes - but they help future 
 | Derek Yazan | Vision Board, 2025 Butterworth 3rd (lead) | Computer Science at UCI Bren School; **Founder and Lead Experience Designer of Vision Board** |
 | Lukas Hauge | Vision Board, 2025 Butterworth 3rd | Member of UCI Video Game Development Club |
 | Mehrnaz Motamed | AINGELX, 2025 Butterworth 2nd | Graduate Research Assistant at UCI Bren School of ICS |
+| Christine Linh Nguyen | NeoMold, 2024 Beall 1st | At **PROCEPT BioRobotics** (medical-device company); UCI BME B.S. June 2024 + minor in Biological Sciences |
+| Ke Jing | CrewView, 2018 Butterworth 2nd | At **ByteDance** (San Jose); UCI Informatics PhD via the Transformative Play Lab; "inventing the spatial medium" |
 | Lucas Erb | UnMail 2018 Butterworth finalist + Giv 2019 Butterworth 2nd | Founder of AIExperts.com (AI automation platform for SMBs); AI Fellow at Every; Top Voice in AI on LinkedIn |
 | Kausthub Raj Jadhav | FASHENDS 2016 + Pippy 2017 (3rd) + Float Robotics 2019 (multi-year) | **Product Engineering Manager at LILA Games (Bangalore)**; previously Meta, Pathrise, Varsity Tutors, Loop. **Co-founded SoCal's largest AI non-profit, AI@UCI; served as President** |
 | Felipe Augusto de Souza | Waytrade 2015 Beall finalist + SmartRide 2016 Butterworth finalist | **Postdoctoral Appointee at Argonne National Laboratory** researching Connected and Autonomous Vehicles (CAVs); UCI Transportation Systems Engineering PhD (2018) |
