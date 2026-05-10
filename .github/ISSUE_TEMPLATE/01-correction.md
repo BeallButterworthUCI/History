@@ -1,7 +1,7 @@
 ---
 name: Correction to an existing record
 about: Fix an incorrect placement, prize amount, project description, or team member name
-title: "Correction: <year> <track> <team> — <what is wrong>"
+title: "Correction: <year> <track> <team> - <what is wrong>"
 labels: correction
 assignees: ''
 ---
@@ -24,4 +24,4 @@ assignees: ''
 
 ## Source
 
-<!-- A primary source link is strongly preferred — bbcomp.tech.uci.edu, news.uci.edu, engineering.uci.edu, ics.uci.edu, etc. See CONTRIBUTING.md for the source-quality ranking. -->
+<!-- A primary source link is strongly preferred - bbcomp.tech.uci.edu, news.uci.edu, engineering.uci.edu, ics.uci.edu, etc. See CONTRIBUTING.md for the source-quality ranking. -->

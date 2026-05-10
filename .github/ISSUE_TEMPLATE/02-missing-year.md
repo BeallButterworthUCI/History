@@ -8,11 +8,11 @@ assignees: ''
 
 ## Year and placement
 
-<!-- e.g. "2011 Butterworth — all placements" or "2015 Beall 1st place — verify whether it was MuTech Scientific or something else" -->
+<!-- e.g. "2011 Butterworth - all placements" or "2015 Beall 1st place - verify whether it was MuTech Scientific or something else" -->
 
 ## What you know
 
-<!-- Whatever you have: team name, members, project description, prize amount. Partial info is welcome — we will mark it UNVERIFIED if it can't be corroborated. -->
+<!-- Whatever you have: team name, members, project description, prize amount. Partial info is welcome - we will mark it UNVERIFIED if it can't be corroborated. -->
 
 ## How you know it
 

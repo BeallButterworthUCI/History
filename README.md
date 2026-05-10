@@ -1,10 +1,10 @@
-# UCI Beall Butterworth Competition: Complete Historical Archive (2010–2026)
+# UCI Beall Butterworth Competition: Complete Historical Archive (2010-2026)
 
-A comprehensive, citation-backed record of the UCI Beall Butterworth Competition — the annual joint product-development showcase run by the Donald Bren School of Information and Computer Sciences (Butterworth track, since ~2003–2004) and the Henry Samueli School of Engineering (Beall track, since 2014).
+A comprehensive, citation-backed record of the UCI Beall Butterworth Competition - the annual joint product-development showcase run by the Donald Bren School of Information and Computer Sciences (Butterworth track, since ~2003-2004) and the Henry Samueli School of Engineering (Beall track, since 2014).
 
-This repository exists because the institutional memory for student competitions tends to scatter across press releases, the Wayback Machine, defunct project sites, and LinkedIn bios. The aim here is a durable, queryable record so that two decades from now a future student, founder, or historian can see — in one place — what was built, who built it, and what happened next.
+This repository exists because the institutional memory for student competitions tends to scatter across press releases, the Wayback Machine, defunct project sites, and LinkedIn bios. The aim here is a durable, queryable record so that two decades from now a future student, founder, or historian can see - in one place - what was built, who built it, and what happened next.
 
-> Spot a missing team member, a bad source link, or a year we have not yet documented? Open an issue or a pull request — see [CONTRIBUTING.md](CONTRIBUTING.md).
+> Spot a missing team member, a bad source link, or a year we have not yet documented? Open an issue or a pull request - see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ This repository exists because the institutional memory for student competitions
 - [2016 Competition](#2016-competition)
 - [2015 Competition](#2015-competition)
 - [2014 Competition (Inaugural Joint Edition)](#2014-competition-inaugural-joint-edition)
-- [Pre-Joint Editions (2010–2013)](#pre-joint-editions-20102013)
+- [Pre-Joint Editions (2010-2013)](#pre-joint-editions-20102013)
 - [The Patrons: Beall and Butterworth Families](#the-patrons-beall-and-butterworth-families)
 - [Connected Programs](#connected-programs)
 - [Supplementary Documentation](#supplementary-documentation)
@@ -33,13 +33,13 @@ This repository exists because the institutional memory for student competitions
 ## About the Competition
 
 - **Official name:** Beall Butterworth Competition (BBComp).
-- **Naming history:** the Butterworth Product Development Competition has run in the Donald Bren School of ICS since around 2003–2004; the Beall Student Design Competition launched in the Henry Samueli School of Engineering in 2014; the two have been held jointly since 2014, with a single combined awards ceremony.
+- **Naming history:** the Butterworth Product Development Competition has run in the Donald Bren School of ICS since around 2003-2004; the Beall Student Design Competition launched in the Henry Samueli School of Engineering in 2014; the two have been held jointly since 2014, with a single combined awards ceremony.
 - **Hosts:** Donald Bren School of Information and Computer Sciences (Butterworth track) and Henry Samueli School of Engineering (Beall track).
 - **Operational hub:** UCI Beall Applied Innovation (formerly UCI Applied Innovation, renamed 2019), with day-to-day support from the ANTrepreneur Center and Blackstone LaunchPad at UCI.
 - **Director:** David Ochi, adjunct professor in the Donald Bren School of ICS and the Paul Merage School of Business.
 - **Eligibility:** teams of at least two matriculated UCI students; the Butterworth side requires at least one ICS student and the Beall side requires at least one Engineering student. Teams cannot reuse a winning concept from a previous edition, and teams that have already taken venture-capital financing for the entry concept are excluded.
-- **Format:** a six-month cycle — fall kickoff, winter design workshops, a spring product specification, midpoint orals, coaching sessions, and a May Demo Day & Awards ceremony.
-- **Prize structure:** since 2018, $10,000 / $6,500 / $3,500 for 1st / 2nd / 3rd in each track. From 2014–2017 the placements paid $7,500 / $5,000 / $2,500. The Butterworth-only era (2012–2013) paid $5,000 / $3,500 / $1,500 with a single $10,000 total purse and no Beall hardware track. The 2022 cycle disclosed a total purse of "more than $40,000". Since 2023, an additional Brazilian (later renamed International) Collaboration Prize is awarded for joint UCI / PUCRS teams.
+- **Format:** a six-month cycle - fall kickoff, winter design workshops, a spring product specification, midpoint orals, coaching sessions, and a May Demo Day & Awards ceremony.
+- **Prize structure:** since 2018, $10,000 / $6,500 / $3,500 for 1st / 2nd / 3rd in each track. From 2014-2017 the placements paid $7,500 / $5,000 / $2,500. The Butterworth-only era (2012-2013) paid $5,000 / $3,500 / $1,500 with a single $10,000 total purse and no Beall hardware track. The 2022 cycle disclosed a total purse of "more than $40,000". Since 2023, an additional Brazilian (later renamed International) Collaboration Prize is awarded for joint UCI / PUCRS teams.
 - **Patrons:** Paul ('74, '81) and Jo ('75) Butterworth on the ICS side; Donald R. Beall and the Beall Family Foundation on the Engineering side.
 
 ## How to Read This Archive
@@ -47,7 +47,7 @@ This repository exists because the institutional memory for student competitions
 - Each year file in `years/` mirrors the section in this README for that year.
 - Cells marked `Not Listed` indicate the source did not publish the value (most common for prize amounts in the per-year recap pages).
 - Cells marked `Undisclosed` indicate the source explicitly chose not to share a number.
-- Cells marked `*No public record found*` mean we searched and came up empty — these are the cells most likely to be filled in by an alumni contributor.
+- Cells marked `*No public record found*` mean we searched and came up empty - these are the cells most likely to be filled in by an alumni contributor.
 - Cells marked `UNVERIFIED` mean the value comes from a single secondary source and has not been corroborated.
 - Where a single team or person appears in more than one row in a given year, we cross-reference rather than duplicating: e.g., `(See International Collaboration)`.
 
@@ -57,23 +57,23 @@ This repository exists because the institutional memory for student competitions
 
 | Year | Status | Notes |
 |------|--------|-------|
-| 2026 | Upcoming | 22nd Butterworth, 13th Beall — Demo Day scheduled for May 2026 |
+| 2026 | Upcoming | 22nd Butterworth, 13th Beall - Demo Day scheduled for May 2026 |
 | 2025 | Complete | First year branded with the standalone "International Collaboration Prize" framing |
 | 2024 | Complete | Brazilian Collaboration Prize (Cartello); 56 concepts → 33 Demo Day teams |
 | 2023 | Complete | First year of the UCI / PUCRS Brazil partnership; Brazilian Collaboration Prize debuts |
 | 2022 | Complete | "Back in full swing" after pandemic; >$40,000 total purse |
 | 2021 | Complete | Held virtually due to COVID-19 |
 | 2020 | Cancelled | COVID-19 |
-| 2019 | Complete | — |
-| 2018 | Complete | — |
-| 2017 | Complete | — |
-| 2016 | Complete | — |
-| 2015 | Complete | 12th annual Butterworth + 2nd annual Beall; bbcomp 2014/2015 pages render duplicate content (2014 page is incorrect — see [2015 Competition](#2015-competition)) |
+| 2019 | Complete | - |
+| 2018 | Complete | - |
+| 2017 | Complete | - |
+| 2016 | Complete | - |
+| 2015 | Complete | 12th annual Butterworth + 2nd annual Beall; bbcomp 2014/2015 pages render duplicate content (2014 page is incorrect - see [2015 Competition](#2015-competition)) |
 | 2014 | Complete | **Inaugural Beall Student Design Competition** + 11th annual Butterworth; first joint awards ceremony |
 | 2013 | Complete | 10th annual Butterworth-only; full placements and finalists recovered from legacy ICS archive |
 | 2012 | Complete | 9th annual Butterworth-only; full placements and finalists recovered (May 17, 2012 in Bren Hall) |
-| 2011 | Missing | 8th annual Butterworth-only; competition was held but no public placement record surfaced — see [years/2011.md](years/2011.md) |
-| 2010 | Missing | 7th annual Butterworth-only; competition was held but no public placement record surfaced — see [years/2010.md](years/2010.md) |
+| 2011 | Missing | 8th annual Butterworth-only; competition was held but no public placement record surfaced - see [years/2011.md](years/2011.md) |
+| 2010 | Missing | 7th annual Butterworth-only; competition was held but no public placement record surfaced - see [years/2010.md](years/2010.md) |
 
 ### Theme evolution
 
@@ -106,31 +106,31 @@ This repository exists because the institutional memory for student competitions
 | 2016 | $7,500 / $5,000 / $2,500 per track | per Samueli press release |
 | 2014 | $30,000 (combined pool) | $7,500 / $5,000 / $2,500 per track per the Samueli release |
 | 2013 | $5,000 / $3,500 / $1,500 (Butterworth-only) | per recovered ICS news archive |
-| 2012 | $10,000 (total purse) | $5,000 / $3,500 / $1,500 (Butterworth-only) — May 17, 2012, Bren Hall |
+| 2012 | $10,000 (total purse) | $5,000 / $3,500 / $1,500 (Butterworth-only) - May 17, 2012, Bren Hall |
 
 ### Repeat appearances across years
 
 | Person / Team | First appearance | Later appearance(s) |
 |---------------|------------------|---------------------|
-| Red Lion Robotics (Yasemin Sarigul-Klijn, Peter Wang) | 2016 (Beall 2nd) | 2017 (Beall 2nd) — only confirmed back-to-back placement by the same team |
-| Krobotech (Ethan Kirkley, Cameron Hunt, Zepyour Khechadoorian) | 2016 (Beall finalist) | 2017 (Beall 1st, w/ Kevin Wong added) — finalist → winner trajectory |
-| Memorlane (Evan Schein, Yocelyn Recinos) | 2016 (Butterworth finalist, w/ Akshat Patel) | 2017 (Butterworth 1st, w/ Michael Tran) — finalist → winner trajectory |
-| AllerChain → forMED Technologies (Lily McGrale, Aryan Agarwal, Ruben Shakya, Raphael Francis Aguas, Kamalesh Ananthakrishnan) | 2019 (combined-track finalist) | 2021 (Beall 1st) — same core team, new product, winning placement |
+| Red Lion Robotics (Yasemin Sarigul-Klijn, Peter Wang) | 2016 (Beall 2nd) | 2017 (Beall 2nd) - only confirmed back-to-back placement by the same team |
+| Krobotech (Ethan Kirkley, Cameron Hunt, Zepyour Khechadoorian) | 2016 (Beall finalist) | 2017 (Beall 1st, w/ Kevin Wong added) - finalist → winner trajectory |
+| Memorlane (Evan Schein, Yocelyn Recinos) | 2016 (Butterworth finalist, w/ Akshat Patel) | 2017 (Butterworth 1st, w/ Michael Tran) - finalist → winner trajectory |
+| AllerChain → forMED Technologies (Lily McGrale, Aryan Agarwal, Ruben Shakya, Raphael Francis Aguas, Kamalesh Ananthakrishnan) | 2019 (combined-track finalist) | 2021 (Beall 1st) - same core team, new product, winning placement |
 | UnMail → Giv (Lucas Erb, Nisarg Shah, Haven King) | 2018 (Butterworth finalist) | 2019 (Butterworth 2nd, w/ Ryan Luu added) |
-| Ahmad Razavi & Nazanin Ghasemian | 2016 (Anti-Acne, Pick a Jacket or Not) | 2017 (Driving License, UCI Parking Lot) — most prolific multi-entry duo |
-| Michael Ross | 2022 (Beall 3rd, Thrust Aeronautics) | 2024 (Butterworth 1st, Sentinel) — track-crossing |
+| Ahmad Razavi & Nazanin Ghasemian | 2016 (Anti-Acne, Pick a Jacket or Not) | 2017 (Driving License, UCI Parking Lot) - most prolific multi-entry duo |
+| Michael Ross | 2022 (Beall 3rd, Thrust Aeronautics) | 2024 (Butterworth 1st, Sentinel) - track-crossing |
 | Dylan Riffle | 2022 (Butterworth 1st, Leprendo) | 2024 (Butterworth 2nd, Two Cube) |
 | Kanu Chandra | 2022 (Butterworth 1st, Leprendo) | 2025 (International Collaboration 1st, Oslo) |
 | Kimia Yazdani | 2023 (Butterworth 2nd, Nibble) | 2025 (Butterworth 2nd, AINGELX) |
 | Adrian Bahani | 2017 (Beall 3rd, Syntr Health) | 2019 (Beall 3rd, HemaDynamics) |
-| Naren Sathiya | 2012 (Butterworth 2nd, Spawnd) | 2015 (Butterworth 1st, Roco) — earliest two-time placer in the archive |
+| Naren Sathiya | 2012 (Butterworth 2nd, Spawnd) | 2015 (Butterworth 1st, Roco) - earliest two-time placer in the archive |
 | Candace Wu | 2013 (Butterworth 2nd, TasteBuds) | 2015 (Butterworth 3rd, FanFeed!) |
 | Neeraj Kumar | 2015 (Beall 2nd, Sixth Sense) | 2016 (Beall 1st, Tag Team) |
-| Ali Shahbaz | 2015 (Beall 2nd, Sixth Sense) | 2016 (Beall 1st, Tag Team — lead) |
-| Derek Omuro | 2014 (Butterworth 1st, Sparky) | 2015 (Beall finalist, ARIS) — track-crossing finalist |
+| Ali Shahbaz | 2015 (Beall 2nd, Sixth Sense) | 2016 (Beall 1st, Tag Team - lead) |
+| Derek Omuro | 2014 (Butterworth 1st, Sparky) | 2015 (Beall finalist, ARIS) - track-crossing finalist |
 | Michael Bryant | 2014 (Beall 3rd, HydroTrack) | 2015 (Beall finalist, HelioTeq); 2016 (combined finalist, Munch) |
 | Kausthub Raj Jadhav | 2016 (Butterworth finalist, FASHENDS) | 2017 (Butterworth 3rd, Pippy); 2019 (combined finalist, Float Robotics) |
-| Ting-Wei Lin | 2017 (Butterworth finalist, Team Ultra) | 2018 (Butterworth 1st, ZOOT) — finalist → winner |
+| Ting-Wei Lin | 2017 (Butterworth finalist, Team Ultra) | 2018 (Butterworth 1st, ZOOT) - finalist → winner |
 | Tu Nguyen | 2015 (Butterworth 1st, Roco) | 2016 (combined finalist, Tack) |
 | Anuj Shah | 2016 (Butterworth 1st, Sonder VR) | 2017 (Butterworth finalist, KaamLo) |
 | Ameya Raje | 2016 (Butterworth 2nd, WeGroove) | 2017 (Butterworth finalist, Safewayz) |
@@ -139,25 +139,25 @@ This repository exists because the institutional memory for student competitions
 | Nathan Cabezut | 2018 (Beall 1st, FWMAV) | 2019 (Beall finalist, Multi-Wing Rotary Propulsion Engine) |
 | Gautam Banuru & Swapnil Khodaskar | 2018 (CodeRight, RelaxTech finalists) | 2019 (ChangeNOW finalist) |
 | Naomi Thomson | 2015 (Beall finalist, HelioTeq) | 2016 (Beall finalist, Kneed Technologies) |
-| Vishal Patel | 2013 (Butterworth finalist, MobileCast) | 2013 (Butterworth finalist, My Salon) — two finalist teams in the same year |
+| Vishal Patel | 2013 (Butterworth finalist, MobileCast) | 2013 (Butterworth finalist, My Salon) - two finalist teams in the same year |
 | Venu Madhav Gundeti | 2012 (Butterworth finalist, Approve) | 2013 (Butterworth finalist, MobileCast) |
 
 ### Patron-fund milestones
 
 | Year | Event |
 |------|-------|
-| ~2003–2004 | Paul Butterworth begins sponsoring the Butterworth Product Development Competition in ICS |
+| ~2003-2004 | Paul Butterworth begins sponsoring the Butterworth Product Development Competition in ICS |
 | 2007 | Beall Family Foundation funds the Beall Center for Innovation and Entrepreneurship at the Paul Merage School of Business with $5M |
 | 2014 | Inaugural Beall Student Design Competition launches in the Henry Samueli School of Engineering |
 | 2019 | UCI Applied Innovation renamed UCI Beall Applied Innovation following a multimillion-dollar Beall Family gift |
-| 2023 | Paul and Jo Butterworth pledge $35.5M to the Donald Bren School of ICS — the largest alumni gift to UCI at that time |
+| 2023 | Paul and Jo Butterworth pledge $35.5M to the Donald Bren School of ICS - the largest alumni gift to UCI at that time |
 | 2023 | Butterworths receive UCI Alumni Association Extraordinarius Award |
 | 2023 | First UCI / PUCRS (Brazil) joint cohort competes in BBComp |
 
 ## 2026 Competition (Upcoming)
 
 **Edition:** 22nd annual Butterworth, 13th annual Beall.
-**Demo Day & Awards:** **May 15, 2026, 10:00 AM – 3:00 PM PT.**
+**Demo Day & Awards:** **May 15, 2026, 10:00 AM - 3:00 PM PT.**
 **Venue:** The Cove @ UCI Beall Applied Innovation, 5270 California Ave, Irvine, CA 92617.
 **Submissions closed:** May 6, 2026.
 
@@ -166,7 +166,7 @@ This repository exists because the institutional memory for student competitions
 - Two competitive tracks: **Butterworth Product Development** (ICS) and **Beall Student Design** (Engineering).
 - An **International Collaboration Prize** continuing the partnership with Pontifical Catholic University of Rio Grande do Sul (PUCRS), Brazil.
 - Standard placement prizes: $10,000 (1st) / $6,500 (2nd) / $3,500 (3rd) per track.
-- Workshop facilitators (winter–spring 2026): Jeff Kunzelman, Kurt Busch, Justin Sanders, Cynthia Kirkeby, Tony Crisp, plus Emma Bardin's "Science to Stories" bonus session.
+- Workshop facilitators (winter-spring 2026): Jeff Kunzelman, Kurt Busch, Justin Sanders, Cynthia Kirkeby, Tony Crisp, plus Emma Bardin's "Science to Stories" bonus session.
 
 > Full results will be added after the May 15, 2026 Grand Finale. See [years/2026.md](years/2026.md) for the complete 2026 cycle calendar.
 
@@ -179,7 +179,7 @@ This repository exists because the institutional memory for student competitions
 | Butterworth | 1st | Florence | $10,000 | Intelligent real-time patient monitoring and alert system built around a comprehensive camera dashboard and integrated data systems, designed to optimize the efficiency and responsiveness of hospital nursing staff. | Andrew Cai, Audrey Lu, Nathan Che, Yurina Tamura |
 | Butterworth | 2nd | AINGELX | $6,500 | A personalized advisor that matches SaaS startups to investors based on due-diligence-level data, making the screening process more efficient. | Asal Askari, Kimia Yazdani, Mehrnaz Motamed |
 | Butterworth | 3rd | Vision Board | $3,500 | A technology that merges the worlds of board games and video games to create a new immersive sensory experience. | Derek Yazan, Ethan Frias, Lukas Hauge |
-| Beall | 1st | NasoCoustics | $10,000 | A portable nasometry device for clinicians to measure hypernasality in children with cleft palate, post-surgery. Hypernasality affects 28.5–40.5% of children with cleft palate. | Dave Soliven, Jordan Ulibarri, Kenji Inducta, Natalie Benneian, Neha Muvvala, Neharika Gopikrishnan |
+| Beall | 1st | NasoCoustics | $10,000 | A portable nasometry device for clinicians to measure hypernasality in children with cleft palate, post-surgery. Hypernasality affects 28.5-40.5% of children with cleft palate. | Dave Soliven, Jordan Ulibarri, Kenji Inducta, Natalie Benneian, Neha Muvvala, Neharika Gopikrishnan |
 | Beall | 2nd | VeinGuard | $6,500 | An emergency cervical collar that protects the cervical spine without compressing the jugular veins, addressing a known failure mode of standard collars. | Bora Keresteci, Erfan Khoshnevis, Rohan Kunduru, Sujal Bobba, Varu Vummidi |
 | Beall | 3rd | REACH | $3,500 | An ML-powered electrotherapy device for stroke survivors that uses surface EMG to drive personalized rehabilitation. | Andrew Eck, Edmund Totah, HyungCheol Kim, Michael Song, Nathan Yang, Tim Oh |
 | International Collaboration | 1st | Oslo (Birdhouse by Oslo) | Not Listed | Contact-free thermal and optical vital-sign monitoring for senior-care facilities. | UCI: Alison Iversen, Jose Callejas, Joseph Marquez, Kanu Chandra. PUCRS: Ana Carolina Palhares Poletto, Bárbara da Silva Dapper, Luiza Dal Mas Pasini |
@@ -193,7 +193,7 @@ This repository exists because the institutional memory for student competitions
 | Butterworth | 1st | Sentinel | $10,000 | The first driver-conscious AI safety system to detect fatigue and distraction. Targets vehicle fleets with high operator liability (e.g., trucking) to help fleet managers and drivers improve road safety. | Cody He, Kevin Wu, Kyle Deck, Michael Ross, Nathan Ampudia, Spike O'Carroll |
 | Butterworth | 2nd | Two Cube | $6,500 | An autonomous bioinformatics analysis platform that runs single-cell RNA pipelines without manual setup. | Dylan Riffle, Shushrruth Sai Srinivasan |
 | Butterworth | 3rd | Biru | $3,500 | A maid- and household-help-matching platform tailored to the Indonesian market. | Jessica Hardisurjo, Kevin Salim, Nicholas Chairnando, Pierre Theodorus, William Hartono |
-| Beall | 1st | NeoMold | $10,000 | A customizable, 3D-printable ear mold designed to correct newborn outer-ear deformities within 2–6 weeks of birth. Each mold is based on a 3D scan of the patient's unique anatomy, increasing efficacy while decreasing complications and patient readmittance. | Christine Ly, Christine Nguyen, Frida Sandoval, Kathy Duong |
+| Beall | 1st | NeoMold | $10,000 | A customizable, 3D-printable ear mold designed to correct newborn outer-ear deformities within 2-6 weeks of birth. Each mold is based on a 3D scan of the patient's unique anatomy, increasing efficacy while decreasing complications and patient readmittance. | Christine Ly, Christine Nguyen, Frida Sandoval, Kathy Duong |
 | Beall | 2nd | Instinct | $6,500 | A microfluidic chip that mimics brain function for neurological drug testing. | Edouard Aleman, Jay Tong, Milan Das, Nathaniel Green, Winston Doud |
 | Beall | 3rd | PetPointDx | $3,500 | At-home pet fecal testing kits that ship to a partner lab for analysis. | Lawrence Kulinsky, Luke Chavez, Will Janlaor, Zarya Rajestari |
 | Brazilian Collaboration | Winner | Cartello | Not Listed | A B2B marketplace for corrugated cardboard pallets that streamlines the pallet procurement process. | UCI: Ariel Tjandra, Ariya Gowda, Felix Toffaneto Werner. PUCRS: Pedro Vaz Lorea, Thiago Borges de Souza |
@@ -210,7 +210,7 @@ This repository exists because the institutional memory for student competitions
 | Beall | 1st | Pulsera | $10,000 | A pulse oximeter and continuous blood-pressure monitor integrated into a sleek slipper design, allowing at-home monitoring for pregnant patients to help doctors diagnose preeclampsia early. | Alex Garcia, Claire Livengood, Nicolette Fulcomer, Ryan Hsu, Zayd Bham |
 | Beall | 2nd | Encephalopod | Not Listed | A portable, rapid-response EEG aimed at non-convulsive seizures and stroke detection in pre-hospital settings. | Andres Torres, Joshua Medina, Omar Ibrahim, Raine Hagerty, Targol Moghaddam |
 | Beall | 3rd | WEngineers (Lengage Ware) | Not Listed | Glasses-mounted real-time audio translation and transcription for hearing-impaired and multilingual settings. | Cassandra Nguyen, Jessica Lee, Kaylee Quach, Kristin Hagen, Logan Lee, Madeleine Marston |
-| Brazilian Collaboration | Winner | N3.AI | Not Listed | An app for pregnant women and new mothers to manage mood — Nourish (track food/state), Nurture (share progress safely), Nudge (AI nudges to eat healthy). | UCI: Kousha Asthiani, Mahyar Abbasian, Nitish Nagesh. PUCRS: Felipe Cardona, Léo Falcão, Thomas Mello |
+| Brazilian Collaboration | Winner | N3.AI | Not Listed | An app for pregnant women and new mothers to manage mood - Nourish (track food/state), Nurture (share progress safely), Nudge (AI nudges to eat healthy). | UCI: Kousha Asthiani, Mahyar Abbasian, Nitish Nagesh. PUCRS: Felipe Cardona, Léo Falcão, Thomas Mello |
 
 ## 2022 Competition
 
@@ -293,7 +293,7 @@ First year at the higher prize tier ($10,000 / $6,500 / $3,500).
 | Butterworth | 1st | Sonder VR | $7,500 | A VR-based therapy environment for Autism Spectrum Disorder social-skills practice. | Erick Kusnadi (lead), Joy Chen, Yolanda La, Anuj Shah, Tia Moore |
 | Butterworth | 2nd | WeGroove | $5,000 | A sensor-driven adaptive music app that responds to the listener's movement. | Forest Agostinelli (lead), Ameya Raje, Chaiyathorn Vachirakornwattana, Prakul Agarwal |
 | Butterworth | 3rd | Munchies | $2,500 | A homemade-cuisine dining platform connecting college students with local home cooks. | Jonnathan Petote (lead), Nicky Huynh, Saray Rodriguez, Alyssa Lingad, Chan Woo Park, Vincent Gentile |
-| Beall | 1st | Tag Team | $7,500 | A small Bluetooth Low Energy device — "Tag" — used with a smartphone to help users secure belongings; also sends distress signals to emergency contacts and leverages a crowd-GPS network for lost items. (Predates Apple AirTag by ~5 years.) | Ali Shahbaz (lead), Khwaja Hassan Ahmad, Neeraj Kumar |
+| Beall | 1st | Tag Team | $7,500 | A small Bluetooth Low Energy device - "Tag" - used with a smartphone to help users secure belongings; also sends distress signals to emergency contacts and leverages a crowd-GPS network for lost items. (Predates Apple AirTag by ~5 years.) | Ali Shahbaz (lead), Khwaja Hassan Ahmad, Neeraj Kumar |
 | Beall | 2nd | Red Lion Robotics | $5,000 | Accessible tools for physical rehabilitation and assistance. (See Red Lion Robotics 2017 for the follow-on team.) | Yasemin Sarigul-Klijn, Peter Wang, Brandon Tsuge |
 | Beall | 3rd | CeleriBio | $2,500 | A rapid, quantitative diagnostic test for bloodstream infections and antibiotic resistance. | Sean Freeman, Nikki Koe, Louai Labanieh (lead), Binh Le, Sadaf Mirnia |
 
@@ -322,18 +322,18 @@ Other 2015 Butterworth finalists named on the bbcomp page: **Big Data Raiders** 
 
 | Track | Place | Team | Prize | Project Details | Team Members |
 |-------|-------|------|-------|-----------------|--------------|
-| Butterworth | 1st | Blueberry (later Sparky) | $7,500 | A passive networking app that creates a 10-foot Bluetooth bubble around the user. When two bubbles encounter each other, a silent connection logs metadata (time, location, duration) — automating "who you met" at conferences and social events. | Karan Sekhri, Adrien Deguzman, Sheng Xia, Tai Cao, Derek Omuro |
-| Butterworth | 2nd | BeatPool | $5,000 | A music-pooling app that lets multiple users send songs from their personal libraries to a single shared speaker — a precursor to collaborative-playlist features now common on streaming platforms. | Ekin Oguz, Sky Faber, Cesar Ghali, Fulya Ozcan |
+| Butterworth | 1st | Blueberry (later Sparky) | $7,500 | A passive networking app that creates a 10-foot Bluetooth bubble around the user. When two bubbles encounter each other, a silent connection logs metadata (time, location, duration) - automating "who you met" at conferences and social events. | Karan Sekhri, Adrien Deguzman, Sheng Xia, Tai Cao, Derek Omuro |
+| Butterworth | 2nd | BeatPool | $5,000 | A music-pooling app that lets multiple users send songs from their personal libraries to a single shared speaker - a precursor to collaborative-playlist features now common on streaming platforms. | Ekin Oguz, Sky Faber, Cesar Ghali, Fulya Ozcan |
 | Butterworth | 3rd | Ant-mApp | $2,500 | A UCI campus-event hub mobile and web app for discovering on-campus activities. | Alexsandra Guerra, Esosa Agbonwaneten, Yerlan Turekeshov, Avedis Simonian, Maharshi Patel |
 | Beall | 1st | Spero Diagnostics | $7,500 | A rapid sepsis diagnostic device targeting under three hours and under $100 per test, addressing the deadly prevalence of sepsis in hospital settings. | Jessica Motherwell, Jose Gallegos, Ernesto Sosa, Ting-Yi Chu, Maka Pennell, Zachary Campagna |
 | Beall | 2nd | A Hundred Tiny Hands | $5,000 | Three "Inventor's Toolboxes" designed to teach children core concepts in engineering and science in a fun and interactive way. | Sophia Lin, Nicole Mendoza, Jolie McLane, Eugene Lee, Danny Greene |
 | Beall | 3rd | HydroTrack | $2,500 | A Bluetooth Low Energy hydration-tracking water bottle. | Michael Bryant, Aurelia Darling, Anni Liu |
 
-**Mentors of note (2014):** Channa Samyanthan (Syniverse Technologies, B.S. '96 ICS) — Blueberry / Sparky; Arie Shen (B.S. '88 ICS) — BeatPool; John Herpy (Boeing, B.S. '85 ICS) — Ant-mApp; Profs. Michelle Khine and Zoran Nenadic (Biomedical Engineering) — Spero Diagnostics and A Hundred Tiny Hands; Ray Chan (K5 Venture Partners) — HydroTrack.
+**Mentors of note (2014):** Channa Samyanthan (Syniverse Technologies, B.S. '96 ICS) - Blueberry / Sparky; Arie Shen (B.S. '88 ICS) - BeatPool; John Herpy (Boeing, B.S. '85 ICS) - Ant-mApp; Profs. Michelle Khine and Zoran Nenadic (Biomedical Engineering) - Spero Diagnostics and A Hundred Tiny Hands; Ray Chan (K5 Venture Partners) - HydroTrack.
 
-## Pre-Joint Editions (2010–2013)
+## Pre-Joint Editions (2010-2013)
 
-The Butterworth Product Development Competition ran for roughly a decade in the Donald Bren School of ICS before the Beall Student Design Competition launched alongside it in 2014. The 2012 and 2013 cycles are now fully recovered (placements, finalists, mentors, judges) — see [years/2012.md](years/2012.md) and [years/2013.md](years/2013.md). The 2010 and 2011 cycles existed but no public record of placements has surfaced — see [years/2010.md](years/2010.md) and [years/2011.md](years/2011.md).
+The Butterworth Product Development Competition ran for roughly a decade in the Donald Bren School of ICS before the Beall Student Design Competition launched alongside it in 2014. The 2012 and 2013 cycles are now fully recovered (placements, finalists, mentors, judges) - see [years/2012.md](years/2012.md) and [years/2013.md](years/2013.md). The 2010 and 2011 cycles existed but no public record of placements has surfaced - see [years/2010.md](years/2010.md) and [years/2011.md](years/2011.md).
 
 ### 2013 (10th annual Butterworth)
 
@@ -347,11 +347,11 @@ The Butterworth Product Development Competition ran for roughly a decade in the 
 
 | Track | Place | Team | Prize | Project Details | Team Members |
 |-------|-------|------|-------|-----------------|--------------|
-| Butterworth | 1st | Portfelo | $5,000 | A portfolio and networking platform for modeling industry professionals — a vertical social network addressing pain points general tools (LinkedIn, ModelMayhem) did not solve. | Michael Cupino (lead), Ferdinand Lucero, Jordan Speer, Evan White, Danielle Yu |
+| Butterworth | 1st | Portfelo | $5,000 | A portfolio and networking platform for modeling industry professionals - a vertical social network addressing pain points general tools (LinkedIn, ModelMayhem) did not solve. | Michael Cupino (lead), Ferdinand Lucero, Jordan Speer, Evan White, Danielle Yu |
 | Butterworth | 2nd | Spawnd | $3,500 | A social networking site for online gamers featuring a rewards system and patent-pending universal "Spawnd Point" system enabling cross-platform stat comparisons. | Rohan Venapusala (lead), Ryan Reyes, Bellal Labanieh, Naren Sathiya, John Junyszek |
 | Butterworth | 3rd | M-Prescription | $1,500 | A mobile-phone-based prescription information storage system offering enhanced security, privacy, and convenience over paper or server-based alternatives. | Jianlin Shi (lead), Chandra Bhavanasi, Jeffrey Tse |
 
-Judge **Kevin Kinsey** (then CEO of Netreo) on the 2012 cohort: *"This was, by far, the most impressive group of competitors we've seen over the last nine years."* The "nine years" framing locks the inaugural Butterworth Product Development Competition to ~2003–2004.
+Judge **Kevin Kinsey** (then CEO of Netreo) on the 2012 cohort: *"This was, by far, the most impressive group of competitors we've seen over the last nine years."* The "nine years" framing locks the inaugural Butterworth Product Development Competition to ~2003-2004.
 
 **2010 (7th annual) and 2011 (8th annual):** the competitions were held but **no public placement record has surfaced**. The 2014 "11th annual" framing and the 2012 "nine years" judge quote both confirm the competition ran continuously through this era. If you have a program booklet, photo, or alumni knowledge, please contribute via the [missing-year issue template](.github/ISSUE_TEMPLATE/02-missing-year.md).
 
@@ -361,15 +361,15 @@ Judge **Kevin Kinsey** (then CEO of Netreo) on the 2012 cohort: *"This was, by f
 
 ### Paul and Jo Butterworth (ICS / Butterworth track)
 
-- **Paul Butterworth** — B.S. Computer Science, UCI 1974; M.S. Computer Science, UCI 1981. Originally enrolled as an Engineering undergraduate in 1969 and switched to Computer Science in his third year.
+- **Paul Butterworth** - B.S. Computer Science, UCI 1974; M.S. Computer Science, UCI 1981. Originally enrolled as an Engineering undergraduate in 1969 and switched to Computer Science in his third year.
 - **Career:** Chief Systems Architect at Ingres; Founder, Chief Architect, and SVP at Forte Software (acquired by Sun Microsystems in October 1999 for ~$540 million in stock); Distinguished Engineer / Chief Technologist at Sun Microsystems; architect at Oracle; Co-founder and CTO at AmberPoint (acquired by Oracle, 2010); Co-founder and CTO at Emotive; Co-founder and CTO at VANTIQ Inc. (current).
 - **UCI service:** ICS Dean's Leadership Council (since 2005); UCI Foundation Board of Trustees (since 2011); UCI Audit Committee (since 2017); Lauds & Laurels Distinguished Alumnus (2005); Bren School Hall of Fame inductee (2015); UCI Alumni Association Extraordinarius Award (with Jo, 2023).
-- **Jo Butterworth** — B.A. School of Social Sciences, UCI 1975.
-- **The 2023 pledge:** On 13 February 2023, Paul and Jo Butterworth pledged an estate gift valued at approximately **$35.5 million** to the Donald Bren School of ICS — at the time the largest gift to UCI from alumni in the university's history. Funds support scholarships, fellowships, faculty hiring, and research initiatives. Sponsorship of the Butterworth Product Development Competition continues alongside the larger endowment.
+- **Jo Butterworth** - B.A. School of Social Sciences, UCI 1975.
+- **The 2023 pledge:** On 13 February 2023, Paul and Jo Butterworth pledged an estate gift valued at approximately **$35.5 million** to the Donald Bren School of ICS - at the time the largest gift to UCI from alumni in the university's history. Funds support scholarships, fellowships, faculty hiring, and research initiatives. Sponsorship of the Butterworth Product Development Competition continues alongside the larger endowment.
 
 ### Donald R. Beall and the Beall Family Foundation (Engineering / Beall track)
 
-- **Donald R. Beall** — B.S. Engineering, San Jose State University; M.B.A., University of Pittsburgh.
+- **Donald R. Beall** - B.S. Engineering, San Jose State University; M.B.A., University of Pittsburgh.
 - **Career:** 30-year career at Rockwell International; served as Chairman and CEO or President and COO for 20 of those years; retired 1998. Currently Chairman of the Beall Family Foundation, principal in Dartbrook Partners LLC, and a director of Rockwell Collins and CT Realty.
 - **Beall Family philanthropy at UCI:** approximately **$30 million** total as of 2019, including:
   - Founding the **Beall Center for Art + Technology** at the Claire Trevor School of the Arts (opened 2000, named on Donald Beall's retirement from Rockwell).
@@ -379,26 +379,26 @@ Judge **Kevin Kinsey** (then CEO of Netreo) on the 2012 cohort: *"This was, by f
 
 ## Connected Programs
 
-> Full details of each adjacent program — incubators, follow-on competitions, fellowships, the Brazilian partnership — live in [docs/connected-programs.md](docs/connected-programs.md). The list below is a summary; "where are they now?" tracking for individual teams lives in [docs/where-are-they-now.md](docs/where-are-they-now.md); the judges and 2014-era mentor roster lives in [docs/judges-and-mentors.md](docs/judges-and-mentors.md).
+> Full details of each adjacent program - incubators, follow-on competitions, fellowships, the Brazilian partnership - live in [docs/connected-programs.md](docs/connected-programs.md). The list below is a summary; "where are they now?" tracking for individual teams lives in [docs/where-are-they-now.md](docs/where-are-they-now.md); the judges and 2014-era mentor roster lives in [docs/judges-and-mentors.md](docs/judges-and-mentors.md).
 
 The BBComp does not exist in isolation. It is one of four flagship student competitions hosted by UCI Beall Applied Innovation (the others are the UCI Hackathon, Med AppJam, and the New Venture Competition), and many BBComp finalists go on to compete in or graduate into adjacent programs.
 
-- **UCI Beall Applied Innovation** — central innovation hub at 5270 California Ave; houses The Cove co-working space; renamed in 2019 after the Beall Family gift.
-- **The Cove @ UCI Beall Applied Innovation** — co-working space; has hosted the BBComp Demo Day & Awards ceremony in multiple recent years.
-- **Wayfinder Incubator** — no-cost structured incubator for UC-affiliated startups; multiple BBComp winners (e.g., Grasshopperfund) have entered Wayfinder after their cycle.
-- **ANTrepreneur Center** — undergraduate-facing entrepreneurship program; founded 2014; received $550,000 from the Blackstone Charitable Foundation as part of the LaunchPad expansion.
-- **Blackstone LaunchPad at UCI** — campus-wide startup mentorship program; several BBComp founders (e.g., Lily McGrale of forMED, Caitlyn Yang of Grasshopperfund) have been Blackstone LaunchPad fellows.
-- **Beall Center for Innovation and Entrepreneurship (Paul Merage School of Business)** — runs the **Stella Zhang New Venture Competition**, a related but distinct competition with a >$100,000 prize pool. Multiple BBComp teams have won both competitions in the same cycle (Sentinel 2024, Leprendo 2022, forMED 2022 life-sciences track).
-- **PUCRS (Brazil) partnership** — the Pontifical Catholic University of Rio Grande do Sul has paired its students with UCI teams since 2023, producing the joint **Brazilian / International Collaboration Prize** entries.
+- **UCI Beall Applied Innovation** - central innovation hub at 5270 California Ave; houses The Cove co-working space; renamed in 2019 after the Beall Family gift.
+- **The Cove @ UCI Beall Applied Innovation** - co-working space; has hosted the BBComp Demo Day & Awards ceremony in multiple recent years.
+- **Wayfinder Incubator** - no-cost structured incubator for UC-affiliated startups; multiple BBComp winners (e.g., Grasshopperfund) have entered Wayfinder after their cycle.
+- **ANTrepreneur Center** - undergraduate-facing entrepreneurship program; founded 2014; received $550,000 from the Blackstone Charitable Foundation as part of the LaunchPad expansion.
+- **Blackstone LaunchPad at UCI** - campus-wide startup mentorship program; several BBComp founders (e.g., Lily McGrale of forMED, Caitlyn Yang of Grasshopperfund) have been Blackstone LaunchPad fellows.
+- **Beall Center for Innovation and Entrepreneurship (Paul Merage School of Business)** - runs the **Stella Zhang New Venture Competition**, a related but distinct competition with a >$100,000 prize pool. Multiple BBComp teams have won both competitions in the same cycle (Sentinel 2024, Leprendo 2022, forMED 2022 life-sciences track).
+- **PUCRS (Brazil) partnership** - the Pontifical Catholic University of Rio Grande do Sul has paired its students with UCI teams since 2023, producing the joint **Brazilian / International Collaboration Prize** entries.
 
 ## Supplementary Documentation
 
 These files extend the README with material that doesn't fit cleanly into the per-year tables but is still part of the BBComp record:
 
-- [docs/patrons.md](docs/patrons.md) — full biographies and philanthropic timelines for Paul and Jo Butterworth and for Donald R. Beall and the Beall Family Foundation.
-- [docs/judges-and-mentors.md](docs/judges-and-mentors.md) — the current Beall and Butterworth judges roster, the 2014 inaugural panel, and the 2014 mentor list.
-- [docs/connected-programs.md](docs/connected-programs.md) — the broader UCI student-innovation graph (Wayfinder, Blackstone LaunchPad at UCI, ANTrepreneur Center, the Stella Zhang New Venture Competition, the PUCRS partnership, and external follow-on competitions).
-- [docs/where-are-they-now.md](docs/where-are-they-now.md) — verified post-competition outcomes for BBComp teams and individual founders, with explicit gaps for teams whose status we couldn't confirm.
+- [docs/patrons.md](docs/patrons.md) - full biographies and philanthropic timelines for Paul and Jo Butterworth and for Donald R. Beall and the Beall Family Foundation.
+- [docs/judges-and-mentors.md](docs/judges-and-mentors.md) - the current Beall and Butterworth judges roster, the 2014 inaugural panel, and the 2014 mentor list.
+- [docs/connected-programs.md](docs/connected-programs.md) - the broader UCI student-innovation graph (Wayfinder, Blackstone LaunchPad at UCI, ANTrepreneur Center, the Stella Zhang New Venture Competition, the PUCRS partnership, and external follow-on competitions).
+- [docs/where-are-they-now.md](docs/where-are-they-now.md) - verified post-competition outcomes for BBComp teams and individual founders, with explicit gaps for teams whose status we couldn't confirm.
 
 The structured machine-readable mirror of all per-year data lives in [data/bbcomp.json](data/bbcomp.json).
 
@@ -406,27 +406,27 @@ The structured machine-readable mirror of all per-year data lives in [data/bbcom
 
 ### Primary sources
 
-- **bbcomp.tech.uci.edu** — official competition site, including per-year results pages (`/past/<year>-…`), the [judges roster](https://bbcomp.tech.uci.edu/judges/), the [sponsors page](https://bbcomp.tech.uci.edu/sponsors/), the [rules](https://bbcomp.tech.uci.edu/rules/), and the [schedule](https://bbcomp.tech.uci.edu/schedule/).
-- **engineering.uci.edu** — Henry Samueli School of Engineering press releases, including the 2014 inaugural Beall release, the 2016, 2022, 2023, and 2024 results announcements, and the 2023 PUCRS partnership announcement.
-- **ics.uci.edu** — Donald Bren School of ICS press releases, including the 2022 "back in full swing" recap and the 2023 Microsoft Imagine Cup follow-up on Eupnea.
-- **news.uci.edu** — campus-wide news, including the [February 2023 announcement of the $35.5M Butterworth pledge](https://news.uci.edu/2023/02/13/uc-irvine-alumni-paul-and-jo-butterworth-pledge-35-5-million-to-donald-bren-school/) and the [2019 UCI Beall Applied Innovation rename](https://news.uci.edu/2019/05/23/in-honor-of-the-beall-familys-support-the-campuss-entrepreneurial-and-innovation-platform-to-be-renamed-uci-beall-applied-innovation/).
-- **chancellor.uci.edu** — campus communications, including the [matching February 2023 chancellor announcement](https://chancellor.uci.edu/communications/campus/2023/230213-alumni-pledge-35-million-to-support-ics-students.php).
-- **innovation.uci.edu** — UCI Beall Applied Innovation news and program pages, including the [Caitlyn Yang / Grasshopperfund profile](https://innovation.uci.edu/news/caitlyn-yang-sends-young-entrepreneurs-soaring/) and the [competitions overview](https://innovation.uci.edu/competition/).
-- **merage.uci.edu** — Paul Merage School of Business pages, including the [Beall Center for Innovation and Entrepreneurship](https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/) and the [Stella Zhang New Venture Competition](https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/new-venture-competiton.html).
-- **antrepreneur.uci.edu** — student-facing program updates, including the [Sentinel multi-competition sweep](https://antrepreneur.uci.edu/2024/09/12/the-power-of-persistence-how-uc-irvine-entrepreneurs-built-success-through-multiple-competitions/) and the [Leprendo founders interview](https://antrepreneur.uci.edu/2022/10/18/interview-with-antrepreneurs-dan-ta-and-dylan-riffle-of-leprendo/).
-- **halloffame.tech.uci.edu** — Bren School Hall of Fame, including the [Paul Butterworth inductee profile](https://halloffame.tech.uci.edu/inductee/butterworth-paul/).
+- **bbcomp.tech.uci.edu** - official competition site, including per-year results pages (`/past/<year>-…`), the [judges roster](https://bbcomp.tech.uci.edu/judges/), the [sponsors page](https://bbcomp.tech.uci.edu/sponsors/), the [rules](https://bbcomp.tech.uci.edu/rules/), and the [schedule](https://bbcomp.tech.uci.edu/schedule/).
+- **engineering.uci.edu** - Henry Samueli School of Engineering press releases, including the 2014 inaugural Beall release, the 2016, 2022, 2023, and 2024 results announcements, and the 2023 PUCRS partnership announcement.
+- **ics.uci.edu** - Donald Bren School of ICS press releases, including the 2022 "back in full swing" recap and the 2023 Microsoft Imagine Cup follow-up on Eupnea.
+- **news.uci.edu** - campus-wide news, including the [February 2023 announcement of the $35.5M Butterworth pledge](https://news.uci.edu/2023/02/13/uc-irvine-alumni-paul-and-jo-butterworth-pledge-35-5-million-to-donald-bren-school/) and the [2019 UCI Beall Applied Innovation rename](https://news.uci.edu/2019/05/23/in-honor-of-the-beall-familys-support-the-campuss-entrepreneurial-and-innovation-platform-to-be-renamed-uci-beall-applied-innovation/).
+- **chancellor.uci.edu** - campus communications, including the [matching February 2023 chancellor announcement](https://chancellor.uci.edu/communications/campus/2023/230213-alumni-pledge-35-million-to-support-ics-students.php).
+- **innovation.uci.edu** - UCI Beall Applied Innovation news and program pages, including the [Caitlyn Yang / Grasshopperfund profile](https://innovation.uci.edu/news/caitlyn-yang-sends-young-entrepreneurs-soaring/) and the [competitions overview](https://innovation.uci.edu/competition/).
+- **merage.uci.edu** - Paul Merage School of Business pages, including the [Beall Center for Innovation and Entrepreneurship](https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/) and the [Stella Zhang New Venture Competition](https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/new-venture-competiton.html).
+- **antrepreneur.uci.edu** - student-facing program updates, including the [Sentinel multi-competition sweep](https://antrepreneur.uci.edu/2024/09/12/the-power-of-persistence-how-uc-irvine-entrepreneurs-built-success-through-multiple-competitions/) and the [Leprendo founders interview](https://antrepreneur.uci.edu/2022/10/18/interview-with-antrepreneurs-dan-ta-and-dylan-riffle-of-leprendo/).
+- **halloffame.tech.uci.edu** - Bren School Hall of Fame, including the [Paul Butterworth inductee profile](https://halloffame.tech.uci.edu/inductee/butterworth-paul/).
 
 ### Secondary corroboration
 
 - Orange County Business Journal coverage of the 2023 Butterworth pledge.
 - Philanthropy News Digest coverage of the 2023 Butterworth pledge.
-- Irish Times (1999) — Sun Microsystems / Forte Software acquisition.
+- Irish Times (1999) - Sun Microsystems / Forte Software acquisition.
 - Wikipedia (Forté Software, Michelle Khine) for biographical context on patrons and mentors.
 - eScholarship UC publication entries for NeoMold (2024) and Idene Medical (2022).
 
 ### Outstanding sources we have not yet recovered
 
-- **Pre-2014 program booklets and judge lists.** Almost everything before 2014 lives behind broken links in the legacy ICS news archive. If you have a printed program from 2003–2013 and can scan it, we would gladly add the data and credit you in the notes.
+- **Pre-2014 program booklets and judge lists.** Almost everything before 2014 lives behind broken links in the legacy ICS news archive. If you have a printed program from 2003-2013 and can scan it, we would gladly add the data and credit you in the notes.
 - **2010 and 2011 winners.** Currently no public record found.
 - **The original 2014 vs. 2015 results pages.** The bbcomp.tech.uci.edu archive shows duplicated content for these two years; the 2014 placements are independently confirmed by the Samueli press release, but the 2015 placements remain `UNVERIFIED`.
 

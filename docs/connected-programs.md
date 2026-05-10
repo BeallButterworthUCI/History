@@ -8,7 +8,7 @@ The Beall Butterworth Competition is one node in a much larger UCI student-innov
 
 - **What:** the central operational hub for UCI's startup ecosystem.
 - **History:** founded as **UCI Applied Innovation in 2014**; renamed **UCI Beall Applied Innovation in 2019** following a multimillion-dollar Beall Family gift.
-- **Location:** 5270 California Ave, Irvine, CA 92617 — also home to **The Cove**, a co-working space that has hosted multiple BBComp Demo Day & Awards ceremonies.
+- **Location:** 5270 California Ave, Irvine, CA 92617 - also home to **The Cove**, a co-working space that has hosted multiple BBComp Demo Day & Awards ceremonies.
 - **Scope:** lists the **Butterworth Design Competition** alongside the **UCI Hackathon**, **Med AppJam**, and the **New Venture Competition** as its four flagship student competitions.
 - **Source:** [innovation.uci.edu/competition/](https://innovation.uci.edu/competition/), [news.uci.edu, May 2019](https://news.uci.edu/2019/05/23/in-honor-of-the-beall-familys-support-the-campuss-entrepreneurial-and-innovation-platform-to-be-renamed-uci-beall-applied-innovation/).
 
@@ -38,7 +38,7 @@ The Beall Butterworth Competition is one node in a much larger UCI student-innov
 - **What:** entrepreneurship research and education center at the Merage School.
 - **Founded:** 2007, with a **$5 million** gift from the Beall Family Foundation.
 - **Programs:** runs the **Stella Zhang New Venture Competition** (see below); also runs UCI's masters-level Master of Innovation and Entrepreneurship (MIE) program.
-- **Source:** [merage.uci.edu — Beall Center](https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/).
+- **Source:** [merage.uci.edu - Beall Center](https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/).
 
 ## Stella Zhang New Venture Competition (UCI NVC)
 
@@ -47,11 +47,11 @@ The Beall Butterworth Competition is one node in a much larger UCI student-innov
 - **Cadence:** kickoff in October, concept papers due in March, Grand Finale in May (mirrors BBComp's calendar).
 - **Joint kickoff:** UCI NVC and BBComp held a **joint kickoff event** in October 2025 for the 2026 cycle.
 - **BBComp pipeline:** multiple BBComp teams have won both competitions in the same cycle:
-  - **Sentinel** (2024 Butterworth 1st) — won the 2024 UCI Stella Zhang NVC Grand Finale ($20K + $10K track).
-  - **Leprendo** (2022 Butterworth 1st) — won the 2022 UCI Stella Zhang NVC.
-  - **forMED Technologies** (2021 Beall 1st) — won the 2022 UCI Stella Zhang NVC life-sciences track.
+  - **Sentinel** (2024 Butterworth 1st) - won the 2024 UCI Stella Zhang NVC Grand Finale ($20K + $10K track).
+  - **Leprendo** (2022 Butterworth 1st) - won the 2022 UCI Stella Zhang NVC.
+  - **forMED Technologies** (2021 Beall 1st) - won the 2022 UCI Stella Zhang NVC life-sciences track.
 - **Companion archive:** the [StellaZhangUCI/History](https://github.com/StellaZhangUCI/History) repository documents the NVC in the same format this archive uses for BBComp.
-- **Source:** [merage.uci.edu — Stella Zhang NVC](https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/new-venture-competiton.html).
+- **Source:** [merage.uci.edu - Stella Zhang NVC](https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/new-venture-competiton.html).
 
 ## Beall Center for Art + Technology
 
@@ -68,9 +68,9 @@ The Beall Butterworth Competition is one node in a much larger UCI student-innov
 - **Award structure:** the winning team receives a travel award for an exchange visit at the partner university.
 - **Award rebranding:** "Brazilian Collaboration Prize" (2023, 2024) → "International Collaboration Prize" (2025).
 - **Winners by year:**
-  - 2023 — N3.AI (maternal mental-health app)
-  - 2024 — Cartello (B2B cardboard-pallet marketplace)
-  - 2025 — Oslo / Birdhouse by Oslo (contact-free senior-care vital-sign monitoring)
+  - 2023 - N3.AI (maternal mental-health app)
+  - 2024 - Cartello (B2B cardboard-pallet marketplace)
+  - 2025 - Oslo / Birdhouse by Oslo (contact-free senior-care vital-sign monitoring)
 - **Source:** [engineering.uci.edu, May 2023](https://engineering.uci.edu/news/2023/5/uci-partners-international-university-beall-butterworth-competition).
 
 ## Microsoft Imagine Cup (external follow-on)

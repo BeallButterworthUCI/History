@@ -12,7 +12,7 @@
 
 ## Source
 
-<!-- Required for any factual change. Primary sources (bbcomp.tech.uci.edu, news.uci.edu, engineering.uci.edu, ics.uci.edu) preferred — see CONTRIBUTING.md for the full source-quality ranking. -->
+<!-- Required for any factual change. Primary sources (bbcomp.tech.uci.edu, news.uci.edu, engineering.uci.edu, ics.uci.edu) preferred - see CONTRIBUTING.md for the full source-quality ranking. -->
 
 ## Style checks
 

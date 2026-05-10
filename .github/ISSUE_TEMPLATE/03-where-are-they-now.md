@@ -1,7 +1,7 @@
 ---
 name: "Where are they now? update"
 about: Report that a past BBComp team incorporated, raised funding, pivoted, was acquired, or shut down
-title: "Update: <team> (<year>) — <what happened>"
+title: "Update: <team> (<year>) - <what happened>"
 labels: where-are-they-now
 assignees: ''
 ---
@@ -16,7 +16,7 @@ assignees: ''
 
 ## Public source
 
-<!-- A live company website, an SEC filing, a news article, a Crunchbase entry, or a public LinkedIn post is required. We do not include unconfirmed acquisitions or private rumors — see docs/where-are-they-now.md for the policy. -->
+<!-- A live company website, an SEC filing, a news article, a Crunchbase entry, or a public LinkedIn post is required. We do not include unconfirmed acquisitions or private rumors - see docs/where-are-they-now.md for the policy. -->
 
 ## Should this go in
 
