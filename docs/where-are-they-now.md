@@ -91,9 +91,11 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Distinction:** the **only confirmed back-to-back placement** by the same team in the BBComp joint era (2016 Beall 2nd + 2017 Beall 2nd).
 - **Press:** [innovation.uci.edu, June 2017 - Aging 2.0 OC win](http://innovation.uci.edu/2017/06/red-lion-robotics-wins-orange-county-aging2-o-regional-business-competition-and-continues-on-voting-open/).
 
-### Mechanodontics - 2018 Beall 3rd place
+### Mechanodontics → BRIUS - 2018 Beall 3rd place
 
-- **Status:** active company, behind-the-teeth orthodontic braces.
+- **Status:** active company, **rebranded as BRIUS**.
+- **Now operating as:** the BRIUS System - a CAD/CAM orthodontic treatment system that moves teeth independently and autonomously. Reduces overall treatment time by half, cuts the number of visits from 25 to 3, and reduces pain while increasing oral hygiene.
+- **Co-founder Mehdi Peikar** (BBComp Mehdi Roein-Peikar): completed a three-year orthodontics residency at UCLA in 2019; named "Wired In" entrepreneur by News-Gazette.
 - **Founded:** 2016 (predates the BBComp placement, which came in 2018).
 - **Co-founder:** James Wratten (graduate mathematics student) and the rest of the BBComp team (Zahra Mardy, Mahdi Abbaspour, Mehdi Roein-Peikar). The 2018 NVC entry credits an extended roster including "Ishita."
 - **Product:** revolutionary behind-the-teeth braces that considerably shorten treatment time, allow easier cleaning than traditional braces, and are more comfortable than other behind-the-teeth braces. Initial target market: adult patients in the United States.
@@ -264,6 +266,10 @@ These are individual-level signals, not company outcomes - but they help future 
 | Neha Muvvala | NasoCoustics 2025 Beall 1st | **President of BMES (Biomedical Engineering Society) at UC Irvine**; has been part of the club since her freshman year |
 | Aparajita Marathe | CrewView 2018 Butterworth 2nd | **PhD Candidate at UCI in Accessibility Research** (advised by Dr. Anne Marie Piper); research explores how accessibility is understood, valued, and put into practice by people and organizations |
 | James Wratten | Mechanodontics 2018 Beall 3rd | **Graduate mathematics student** in UCI's Math Department (College of Liberal Arts & Sciences); co-founded Mechanodontics in 2016 (predating the BBComp placement) |
+| Mehdi Peikar (Mehdi Roein-Peikar) | Mechanodontics 2018 Beall 3rd | Completed three-year orthodontics residency at **UCLA in 2019**; **leads BRIUS** (the rebranded Mechanodontics CAD/CAM orthodontic system); named "Wired In" entrepreneur by News-Gazette |
+| Bora Keresteci | VeinGuard 2025 Beall 2nd | **Data Science Intern at Vena Vitals** (BBComp 2019 Qardiac → Vena Vitals); UCI BME PhD student at BEAMS Lab and TRUE Lab |
+| Tim Oh | REACH 2025 Beall 3rd | B.S. in Computer Science & Engineering at UCI |
+| Edmund Totah | REACH 2025 Beall 3rd | UCI Engineering Student Council member |
 | Sophia (E.F.) Chou | Qardiac, 2019 Beall 1st | UCI BME alum; co-author on 2019 Khine-lab publication on soft wearable pressure sensors for beat-to-beat blood pressure monitoring (the underlying research that became Vena Vitals) |
 | Lancy Lin | Qardiac, 2019 Beall 1st | UCI BME PhD in conformal wearable electronics, Shrinky-Dink thermoplastic fabrication, non-invasive physiological monitoring; Khine lab alum |
 | Nnaoma Agwu | VANTAMASK, 2022 Beall 2nd | At UCI's **Kheradvar Lab** (Engineering); VANTAMASK has an active site at [vantamask.com](https://www.vantamask.com/) |
