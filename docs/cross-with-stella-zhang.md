@@ -150,4 +150,4 @@ Beyond the placement-level matches above, several BBComp finalist teams also com
 
 ## How to Re-Generate This Document
 
-The lists above are computed by walking both `data/bbcomp.json` (this repo) and `data/nvc.json` (StellaZhangUCI/History repo). To re-run after either dataset changes, download both JSON files and run a Python script that builds member-name and team-name sets from each, then computes intersections. (See the "BBComp <-> NVC cross-reference" comment block in `scripts/validate_data.py` for an example.)
+The lists above are computed by walking both `data/bbcomp.json` (this repo) and `data/nvc.json` (StellaZhangUCI/History repo). To re-run after either dataset changes, download both JSON files and load them into any tool that can build member-name and team-name sets from each and compute the intersections.

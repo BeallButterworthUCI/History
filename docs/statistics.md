@@ -60,7 +60,7 @@ Eleven teams or founder follow-ons from the BBComp archive have a verifiable, cu
 | **HUMBLE Technologies** (2018 Beall 2nd) | 2018 | HUMBLE Technologies (Delaware C corp) | TCU Values & Ventures 2nd place + $750 (2018); 100% UCI/SDSU undergraduate-owned; medical-device startup |
 | **Mechanodontics** (2018 Beall 3rd) | 2016+ | Mechanodontics | 2018 NVC Life Sciences 1st ($10K) + **2019 UIUC Cozad New Venture Challenge Grand Prize ($25K)** = $35K+ direct competition wins; active commercial venture |
 | **123 Baby Box** (founder of 2018 Butterworth 1st ZOOT) | 2018 | 123 Baby Box (123babybox.com) | **$1.2M+ pre-seed (oversubscribed)** + $1.3M total; investors XRC Labs, Sunstone Fund, SLC Angels, VC California Crescent, ex-Steve Madden CFO Mark Friedman, ex-Barnes & Noble CEO Demos Parneros |
-| **Vena Vitals** (2019 Beall 1st, Qardiac) | 2019 | Vena Vitals (Y Combinator) | **Y Combinator-backed**, Morado Ventures, Founders Inc., MedTech Innovator, EvoNexus; **14 employees**, 600+ patients tested, FDA clearance 2026 |
+| **Vena Vitals** (2019 Beall 1st, Qardiac) | 2019 | Vena Vitals (Y Combinator) | **Y Combinator-backed**; total **$1.43M raised**; investors NSF, MedTech Innovator, Y Combinator, Morado Ventures, Founders Inc., HealthTech Arkansas, plus EvoNexus and Beall Applied Innovation PoP grant. **14 employees**, 600+ patients tested. **March 2026: opened new R&D lab at Roseman University of Nevada Summerlin campus (~60 jobs planned).** FDA clearance anticipated 2026; market launch targeted late 2027 |
 | **CenSyn** (2019 Beall 2nd) | 2019 | CenSyn Inc. | $105K Berkeley SkyDeck Seed (2021); pursuing FDA 510(k) |
 | **Leprendo** (2022 Butterworth 1st) | 2022 | Leprendo (leprendo.com) | $250K USDA grant (Dec 2024); ~$400K Y1 sales |
 | **Sentinel** (2024 Butterworth 1st) | 2024 | Sentinel by Spotter AI (sentinel.spotter.ai) | Commercial product; multiple competition wins |
@@ -138,4 +138,4 @@ The 2024 cycle is the only year on record where all three top-tier BBComp joint-
 
 ## How These Statistics Are Generated
 
-The numbers above are computed by walking [data/bbcomp.json](../data/bbcomp.json) directly. To re-generate after editing the JSON, run a one-liner Python script that loads the file and counts the relevant fields. (See the bottom of `scripts/validate_data.py` for an example of how to walk the structure.)
+The numbers above are computed by walking [data/bbcomp.json](../data/bbcomp.json) directly. To re-generate after editing the JSON, load the file in any JSON-aware tool and count the relevant fields.

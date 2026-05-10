@@ -20,4 +20,4 @@
 - [ ] Member names use the order shown in the source, comma-separated.
 - [ ] Cross-referenced rows use `(See <Other Row>)` rather than duplicated content.
 - [ ] If introducing a new fact that cannot be verified, it is marked `UNVERIFIED` with a note.
-- [ ] If editing `data/bbcomp.json`, the file still parses (the validate-data workflow will check this on push).
+- [ ] If editing `data/bbcomp.json`, the file still parses as valid JSON.
