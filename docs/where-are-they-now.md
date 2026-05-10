@@ -149,6 +149,8 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 
 **March 2026 update:** Spotter AI announced an expansion of the Sentinel platform with **AI-powered hiring, verification, and compliance solutions**. Continues to operate as the unified "Sentinel by Spotter AI" platform under President Gabriel Stonys. Source: [National Law Review press release, March 2026](https://natlawreview.com/press-releases/spotter-ai-expands-sentinel-platform-ai-powered-hiring-verification-and).
 
+**Parent company funding:** Spotter AI is the AI-powered trucking, fleet management, and logistics software company headquartered in Wilmington, DE, founded 2019. **Total raised: $37.7M** (per PitchBook). The Sentinel platform sits within this larger funded entity.
+
 - **Status:** **commercialized as Spotter AI's "Sentinel" platform** at [sentinel.spotter.ai](https://sentinel.spotter.ai/).
 - **Original team:** Cody He, Kevin Wu, Kyle Deck, Michael Ross, Natán Ampudia, Spike O'Carroll.
 - **Commercial product:** an all-in-one fleet safety platform for trucking - real-time driver monitoring (the original BBComp pitch), DOT compliance alerts, AI-powered hiring/screening, and recruiter tools.
@@ -250,7 +252,7 @@ These are individual-level signals, not company outcomes - but they help future 
 | Ahmed Zobi | Syntr Health, 2017 Beall 3rd | CEO and Co-Founder of Syntr Health Technologies (active, $2.2M seed) |
 | Bien Gutierrez | HUMBLE Technologies, 2018 Beall 2nd | CEO and Principal Inventor of HUMBLE Technologies (active Delaware C corp) |
 | James Wratten | Mechanodontics, 2018 Beall 3rd | Co-founder of Mechanodontics (active; UIUC Cozad Grand Prize winner) |
-| Aryan Agarwal | forMED 2021 Beall 1st (and AllerChain 2019 finalist) | **R&D Engineer at Acorai** (Swedish heart-failure monitoring startup; €4.1M seed Jan 2024 + FDA Breakthrough Device Designation) |
+| Aryan Agarwal | forMED 2021 Beall 1st (and AllerChain 2019 finalist) | **R&D Engineer at Acorai** (Swedish heart-failure monitoring startup; **$13.1M total raised across 44 investors** including Bayer, KHP Ventures, Solardis Health Ventures, MedTech Innovator; €2.3M EIC grant + €10M follow-on offer; SAVE Sensor System for non-invasive intracardiac pressure monitoring; FDA Breakthrough Device Designation) |
 | Ruben Shakya | forMED 2021 Beall 1st (and AllerChain 2019 finalist) | R&D / Quality Engineer II at Edwards Lifesciences |
 | Ethan Kirkley | Krobotech 2017 Beall 1st (lead) | Mechanical Engineer II / R&D Engineering Manager at Thermo Fisher Scientific (also previously Cytiva, GE Healthcare, Grip6) |
 | Caitlyn Yang | Grasshopper Fund 2021 Butterworth 1st | Mechanical Engineer at SpaceX (Los Angeles); previously Lead Launch Vehicles Engineer at UCI Rocket Project (Liquids) |

@@ -64,7 +64,7 @@ Twelve teams or founder follow-ons from the BBComp archive have a verifiable, cu
 | **Vena Vitals** (2019 Beall 1st, Qardiac) | 2019 | Vena Vitals (Y Combinator) | **Y Combinator-backed**; total **$1.43M raised**; investors NSF, MedTech Innovator, Y Combinator, Morado Ventures, Founders Inc., HealthTech Arkansas, plus EvoNexus and Beall Applied Innovation PoP grant. **14 employees**, 600+ patients tested. **March 2026: opened new R&D lab at Roseman University of Nevada Summerlin campus (~60 jobs planned).** FDA clearance anticipated 2026; market launch targeted late 2027 |
 | **CenSyn** (2019 Beall 2nd) | 2019 | CenSyn Inc. | $105K Berkeley SkyDeck Seed (2021); pursuing FDA 510(k) |
 | **Leprendo** (2022 Butterworth 1st) | 2022 | Leprendo (leprendo.com) | $250K USDA grant (Dec 2024); ~$400K Y1 sales |
-| **Sentinel** (2024 Butterworth 1st) | 2024 | Sentinel by Spotter AI (sentinel.spotter.ai) | Commercial product; multiple competition wins |
+| **Sentinel** (2024 Butterworth 1st) | 2024 | Sentinel by Spotter AI (sentinel.spotter.ai) | Commercial product within **Spotter AI ($37.7M total raised, founded 2019, HQ Wilmington DE)**; multiple competition wins; March 2026 platform expansion with AI-powered hiring/verification/compliance |
 
 Notable patterns:
 - **The 2018 cycle and the 2019 cycle each produced multiple verified active ventures.** 2018: ZOOT->123 Baby Box (founder trajectory), HUMBLE Technologies (incorporated as Delaware C corp), Mechanodontics. 2019: Vena Vitals (Y Combinator) and CenSyn Inc. (Berkeley SkyDeck) - both Beall medical hardware, both founded the same year as the BBComp competition. The 2018-2019 stretch is the densest two-year run in the archive.

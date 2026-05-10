@@ -8,13 +8,13 @@ A handful of UCI faculty members have mentored multiple BBComp teams - some acro
 
 - **Position:** Professor in the Henry Samueli School of Engineering, UCI Biomedical Engineering. Affiliated with the Beckman Laser Institute. Founding Director of **Faculty Innovation** at the Samueli School of Engineering and founding Director of **BioENGINE** (BioEngineering Innovation and Entrepreneurship) at UCI. UCI Associate Dean of Undergraduate Education (since 2021).
 - **Notable work:** "Shrinky Dink microfluidics" - a method for printing microfluidic patterns onto Shrinky Dink polymer sheets with a laser-jet printer, then heating them in a toaster oven to create micro-channels and microwells. Goes from concept to working device in minutes. Pandemic work used Shrinky-Dink electrodes for SARS-CoV-2 spike-protein saliva detection.
-- **Companies:** **Scientific Founder of 6 startup companies**, including:
+- **Companies:** **Scientific Founder of multiple medtech startups** (count varies by source - some say 6 including Makani, others say "six other medtech startups prior to Makani" suggesting 7+ total). Named publicly:
   - **Shrink Nanotechnologies Inc.** (the first start-up ever spun out of UC Merced, predating her UCI tenure)
   - **Fluxion Biosciences** (San Francisco; spun from her graduate-school dissertation work on single-cell electroporation)
+  - **Novoheart** (also serves as Scientific Advisory Board Member; cardiac modeling technology)
   - **Vena Vitals** (Y Combinator-backed; co-founded 2019 with Joshua Kim and Ray Liu; commercialized the Qardiac BBComp 2019 winner technology)
-  - **Makani Science** (noninvasive wireless sensor monitoring breathing rate and volume during medical or dental procedures requiring sedation)
-  - Two additional startups not yet publicly identified.
-  - Also serves as Advisory Board Member at **Novoheart**.
+  - **Makani Science** (co-founded 2019 with her former doctoral student **Michael Chu**; bandage-sized respiratory monitor patch made from Shrinky Dinks; **first-generation device under FDA review as of June 2024**, preparing for commercial launch by end of 2025)
+  - Plus 1-2 additional startups not yet publicly identified.
 - **Honors:** 2009 MIT Technology Review TR35 Award (Top 35 Innovators Under 35 in the world); 2011 Marie Claire Magazine Women on Top Awards.
 - **BBComp mentees:**
   - 2014 Beall 1st - **Spero Diagnostics** (rapid sepsis diagnostic, with Prof. Zoran Nenadic)
