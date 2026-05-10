@@ -244,6 +244,7 @@ These are individual-level signals, not company outcomes - but they help future 
 | Christine Linh Nguyen | NeoMold, 2024 Beall 1st | At **PROCEPT BioRobotics** (medical-device company); UCI BME B.S. June 2024 + minor in Biological Sciences |
 | Ke Jing | CrewView, 2018 Butterworth 2nd | At **ByteDance** (San Jose); UCI Informatics PhD via the Transformative Play Lab; "inventing the spatial medium" |
 | Hengji Chen | CenSyn, 2019 Beall 2nd | DCP Associate at **Duke Capital Partners** (early-stage venture investments) |
+| Raj Parekh | CenSyn, 2019 Beall 2nd | At **Bain & Company** + **LBS '25** (London Business School). UCI 2019 triple major: quantitative economics, data science, mathematics + innovation/entrepreneurship minor. Co-founded UCI Undergraduate Data Science Association (UDSA); founded UCI's 180 Degrees Consulting branch; won **Distinguished Anteater Award** |
 | Sophia (E.F.) Chou | Qardiac, 2019 Beall 1st | UCI BME alum; co-author on 2019 Khine-lab publication on soft wearable pressure sensors for beat-to-beat blood pressure monitoring (the underlying research that became Vena Vitals) |
 | Lancy Lin | Qardiac, 2019 Beall 1st | UCI BME PhD in conformal wearable electronics, Shrinky-Dink thermoplastic fabrication, non-invasive physiological monitoring; Khine lab alum |
 | Nnaoma Agwu | VANTAMASK, 2022 Beall 2nd | At UCI's **Kheradvar Lab** (Engineering); VANTAMASK has an active site at [vantamask.com](https://www.vantamask.com/) |
