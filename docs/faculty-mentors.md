@@ -12,6 +12,8 @@ A handful of UCI faculty members have mentored multiple BBComp teams - some acro
   - **Shrink Nanotechnologies Inc.** (the first start-up ever spun out of UC Merced, predating her UCI tenure)
   - **Fluxion Biosciences** (San Francisco; spun from her graduate-school dissertation work on single-cell electroporation)
   - **Vena Vitals** (Y Combinator-backed; co-founded 2019 with Joshua Kim and Ray Liu; commercialized the Qardiac BBComp 2019 winner technology)
+  - **Makani Science** (noninvasive wireless sensor monitoring breathing rate and volume during medical or dental procedures requiring sedation)
+  - Two additional startups not yet publicly identified.
   - Also serves as Advisory Board Member at **Novoheart**.
 - **Honors:** 2009 MIT Technology Review TR35 Award (Top 35 Innovators Under 35 in the world); 2011 Marie Claire Magazine Women on Top Awards.
 - **BBComp mentees:**

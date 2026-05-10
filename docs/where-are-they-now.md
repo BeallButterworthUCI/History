@@ -46,6 +46,16 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Recognition:** Brian Leung received the "Best Alumni ANTrepreneur" award (UCI ANTrepreneur Awards). Featured in the UCI School of Social Sciences "Ready for Liftoff" alumni profile.
 - **Sources:** [innovation.uci.edu, March 2017](https://innovation.uci.edu/2017/03/201731uci-based-startup-bottlerocket-secures-over-200000-in-recent-funding/), [Irvine Standard](https://www.irvinestandard.com/2018/uci-launches-some-of-americas-top-college-startups/), [UCI School of Social Sciences "Ready for Liftoff"](https://www.socsci.uci.edu/newsevents/news/2018/2018-08-22-bottlerocket.php).
 
+### HUMBLE Technologies - 2018 Beall 2nd place
+
+- **Status:** **incorporated Delaware C corporation** (officially formed February 9, 2018; originated as a UCI group project November 20, 2017).
+- **Site:** [humbletech.uci.design](http://www.humbletech.uci.design/); [Crunchbase profile](https://www.crunchbase.com/organization/humble-technologies); [Beall Applied Innovation startup directory entry](https://innovation.uci.edu/startups/humble/).
+- **CEO and Principal Inventor:** Bien Gutierrez (BME undergraduate at UCI).
+- **Ownership:** 100% owned by undergraduates at UCI and San Diego State University.
+- **Product:** next-generation syringe that increases nurses' chance of success by eliminating priming-related dosage errors.
+- **Recognition beyond BBComp:** **2nd place + $750 in the Elevator Pitch category at Texas Christian University's 2018 Values and Ventures Competition**.
+- **Press:** [innovation.uci.edu, October 2018](http://innovation.uci.edu/2018/10/a-little-goes-a-long-way-with-the-student-startup-fund/), [LinkedIn company page](https://www.linkedin.com/company/humbleinc).
+
 ### Mechanodontics - 2018 Beall 3rd place
 
 - **Status:** active company, behind-the-teeth orthodontic braces.
@@ -88,6 +98,9 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Sources:** the 2024 Stella Zhang NVC results, the [2025 Health Care Forecast Conference YouTube presentation](https://www.youtube.com/watch?v=Rl6FrnNE_k4).
 
 ### Sentinel → Spotter AI Sentinel - 2024 Butterworth 1st place (Sentinel)
+
+**March 2026 update:** Spotter AI announced an expansion of the Sentinel platform with **AI-powered hiring, verification, and compliance solutions**. Continues to operate as the unified "Sentinel by Spotter AI" platform under President Gabriel Stonys. Source: [National Law Review press release, March 2026](https://natlawreview.com/press-releases/spotter-ai-expands-sentinel-platform-ai-powered-hiring-verification-and).
+
 - **Status:** **commercialized as Spotter AI's "Sentinel" platform** at [sentinel.spotter.ai](https://sentinel.spotter.ai/).
 - **Original team:** Cody He, Kevin Wu, Kyle Deck, Michael Ross, Natán Ampudia, Spike O'Carroll.
 - **Commercial product:** an all-in-one fleet safety platform for trucking - real-time driver monitoring (the original BBComp pitch), DOT compliance alerts, AI-powered hiring/screening, and recruiter tools.
