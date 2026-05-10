@@ -215,6 +215,7 @@ These are individual-level signals, not company outcomes - but they help future 
 | Caitlyn Yang | Grasshopperfund, 2021 Butterworth 1st | Performance Engineer at SpaceX |
 | Claire Livengood | Pulsera, 2023 Beall 1st | R&D Engineer / Project Engineer at Inari Medical |
 | Chidroop Iyyhappan | Eupnea, 2023 Butterworth 1st | Engineer at Meta |
+| Lakshmi Vibhu Narke | Eupnea, 2023 Butterworth 1st | At Microsoft (per LinkedIn); attended Microsoft Build conference |
 | Lily McGrale | forMED, 2021 Beall 1st | R&D Engineer II at Medtronic |
 | Louai Labanieh | CeleriBio, 2016 Beall 3rd (lead) | **Siebel Scholar at Stanford (Cochran Lab); co-founder of CARGO Therapeutics; now at Mount Sinai Icahn School of Medicine** |
 | Erick Kusnadi | Sonder VR, 2016 Butterworth 1st (lead) | Software Engineer at Capital Group / American Funds |
