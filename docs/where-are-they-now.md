@@ -238,6 +238,9 @@ These are individual-level signals, not company outcomes - but they help future 
 | Forest Agostinelli | WeGroove, 2016 Butterworth 2nd (lead) | **Assistant Professor at University of South Carolina** (Computer Science and Engineering); research in AI, Deep Learning, Reinforcement Learning, Heuristic Search; 2,100+ citations |
 | Roger Lloret-Batlle | Waytrade, 2015 Beall finalist | Assistant Professor at MIT Global SCALE Network (Ningbo Institute for Supply Chain Innovation); UCI PhD in Transportation Engineering; previously Algorithm Engineer at DiDi Smart Transportation |
 | Yurina Tamura | Florence, 2025 Butterworth 1st | UCI Paul Merage School BBA student (2023-2026) - the Florence team is cross-disciplinary (ICS + Merage Business) |
+| Derek Yazan | Vision Board, 2025 Butterworth 3rd (lead) | Computer Science at UCI Bren School; **Founder and Lead Experience Designer of Vision Board** |
+| Lukas Hauge | Vision Board, 2025 Butterworth 3rd | Member of UCI Video Game Development Club |
+| Mehrnaz Motamed | AINGELX, 2025 Butterworth 2nd | Graduate Research Assistant at UCI Bren School of ICS |
 | Lucas Erb | UnMail 2018 Butterworth finalist + Giv 2019 Butterworth 2nd | Founder of AIExperts.com (AI automation platform for SMBs); AI Fellow at Every; Top Voice in AI on LinkedIn |
 | Kausthub Raj Jadhav | FASHENDS 2016 + Pippy 2017 (3rd) + Float Robotics 2019 (multi-year) | **Product Engineering Manager at LILA Games (Bangalore)**; previously Meta, Pathrise, Varsity Tutors, Loop. **Co-founded SoCal's largest AI non-profit, AI@UCI; served as President** |
 | Felipe Augusto de Souza | Waytrade 2015 Beall finalist + SmartRide 2016 Butterworth finalist | **Postdoctoral Appointee at Argonne National Laboratory** researching Connected and Autonomous Vehicles (CAVs); UCI Transportation Systems Engineering PhD (2018) |
