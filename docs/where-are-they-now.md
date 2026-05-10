@@ -26,7 +26,7 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Site:** [Y Combinator profile](https://www.ycombinator.com/companies/vena-vitals); [University Lab Partners profile](https://sites.uci.edu/mengprojects/vena-vitals/).
 - **Co-founders (2019):**
   - **Ray Liu** (CEO) - experienced medtech executive; met Khine 20+ years ago as UC Berkeley grad-school lab mates
-  - **Joshua "Josh" Kim** (CTO and Co-Founder) - the same Joshua Kim from the 2019 BBComp Qardiac team; developed the underlying technology for his PhD; lead author on seminal papers
+  - **Joshua "Josh" Kim** (CTO and Co-Founder) - the same Joshua Kim from the 2019 BBComp Qardiac team; **UCI Materials Science and Engineering PhD with Prof. Michelle Khine as faculty advisor**; developed the underlying technology for his PhD; lead author on seminal papers
   - **Prof. Michelle Khine** - the recurring BBComp faculty mentor (also of 2014's Spero Diagnostics and A Hundred Tiny Hands); her lab developed the underlying soft, stretchable electronics technology
 - **Team:** 14 employees total; 9 UCI alumni including 5 PhDs.
 - **Product:** the Qardiac concept made commercial - a small skin-like sensor that adheres like a Band-Aid and captures blood pressure continuously, beat by beat, without needles, cuffs, or bulky equipment.
@@ -246,6 +246,9 @@ These are individual-level signals, not company outcomes - but they help future 
 | Nitish Nagesh | N3.AI 2023 Brazilian Collaboration | **PhD student in Computer Science at UCI Bren School (3.9 GPA)**, expected graduation August 2026. Won the **UCI Beall Family Entrepreneur Award** + **Entrepreneur Award in Computer Science** + **TU Munich Young Academy Scholarship**. Research focus: fair and responsible AI for health. Member of UCI Health SciTech Group |
 | Mahyar Abbasian | N3.AI 2023 Brazilian Collaboration | At Genmab (per LinkedIn); UCI CS PhD student in Generative AI, LLMs, ML in Healthcare, IoT. Co-authored 2024 EMBC paper on "Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients" |
 | Trevor Silence | CenSyn 2019 Beall 2nd | **CTO and Co-Founder of CenSyn Inc.** (active Berkeley SkyDeck-funded company); UCI BME 2019 graduate |
+| Raphael Francis Aguas | AllerChain 2019 finalist + forMED 2021 Beall 1st | **NSF Graduate Research Fellow** + 1st-year PhD student in BME at UCI focused on ocular devices and vision science. As undergrad, researched in Christine King's lab (suturing) and Khine's lab (SARS-CoV-2 electrochemical sensor). Co-founder of forMED Technologies |
+| Joshua "Josh" Kim | Qardiac 2019 Beall 1st | **CTO and Co-Founder of Vena Vitals**; UCI Materials Science and Engineering PhD with Prof. Michelle Khine as faculty advisor |
+| Ryan Hsu | Pulsera 2023 Beall 1st | At MicroVention-Terumo (medical device company); UCI BME B.S. magna cum laude + Master of Engineering in BME; previously interned at Wonderful Pistachios & Almonds |
 | Lakshmi Vibhu Narke | Eupnea, 2023 Butterworth 1st | At Microsoft (per LinkedIn); attended Microsoft Build conference |
 | Christine Ly | NeoMold, 2024 Beall 1st | PhD student, USC BioMEMS lab (since Aug 2024) |
 | Andrew Cai | Florence, 2025 Butterworth 1st | At Virio (per LinkedIn); relationship to Florence unverified |
