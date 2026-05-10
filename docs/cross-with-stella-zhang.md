@@ -124,6 +124,21 @@ The full list of individuals who appear by name in both archives. Listed alphabe
 These individuals are not exact-name matches in the cross-reference because their team identity changed between competitions, but the trajectories are documented above:
 
 - **Zarina Bahadur** - ZOOT (BBComp 2018) → Baby Box / 123 Baby Box (NVC 2020). Founded Baby Box during her MIE master's program; first MIE student to win NVC.
+- **Shifa Safeeq** - LEVELER (BBComp 2016 Butterworth finalist) → Element: B2B2C (NVC 2017 1st place). New team co-founders: Simon Loo, Brianne Pena, Scott Winter.
+- **Donny "Don" Magnuson** - COMPAS (BBComp 2017 Butterworth finalist) → Purist (NVC 2017 Grand Prize Winner). Magnuson also returned with the SAME COMPAS team in 2017 NVC (2nd place, Consumer Services), making him the only person documented to appear on TWO different 2017 NVC teams.
+
+## BBComp Finalists That Also Competed at NVC
+
+Beyond the placement-level matches above, several BBComp finalist teams also competed at NVC. These are documented to capture cross-competition activity below the winner level.
+
+| BBComp finalist team | BBComp year | NVC team | NVC result | Shared members |
+|---------------------|-------------|----------|------------|----------------|
+| LEVELER | 2016 Butterworth | Element: B2B2C | 2017 NVC 1st | Shifa Safeeq |
+| Memorlane | 2016 Butterworth | Memorlane | 2017 NVC 1st | Evan Schein, Yocelyn Recinos |
+| COMPAS | 2017 Butterworth | COMPAS | 2017 NVC 2nd (Consumer Services) | Curtis Hendrick, Michael Glover, Don Magnuson |
+| COMPAS | 2017 Butterworth | Purist | 2017 NVC Grand Prize Winner | Don Magnuson |
+| Failsafe | 2017 Butterworth | Failsafe | 2017 NVC 2nd | Natalie Sweis (NVC version added Issa Sweis and Jasmine Yu) |
+| AllerChain | 2019 Combined | forMED Technologies | 2022 NVC Life Sciences 1st | Ruben Shakya, Aryan Agarwal |
 
 ## Mentor Cross-References
 
