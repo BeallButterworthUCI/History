@@ -56,6 +56,15 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Recognition beyond BBComp:** **2nd place + $750 in the Elevator Pitch category at Texas Christian University's 2018 Values and Ventures Competition**.
 - **Press:** [innovation.uci.edu, October 2018](http://innovation.uci.edu/2018/10/a-little-goes-a-long-way-with-the-student-startup-fund/), [LinkedIn company page](https://www.linkedin.com/company/humbleinc).
 
+### Palmplug - 2017 Butterworth 2nd place (AirNotes)
+
+- **Status:** active company, Pacific Northwest startup.
+- **Founder & CEO:** **Olaoluwa Adesanya** - the BBComp 2017 AirNotes team lead.
+- **Origin story:** AirNotes was originally an interactive glove (the "Motion Analytic System / AirTouch") that started in a music classroom for visually impaired students, inspired by a music instructor's method of tapping fingers to indicate which notes to play. Adesanya was CEO of the UCI startup AirNotes from the BBComp 2017 cycle. He later evolved the project into **Palmplug**.
+- **Focus areas:** Spatial Computing, Wearables, Health, Robotics, and AI (per Adesanya's LinkedIn).
+- **Adesanya's parallel role:** also at Meta (P.Eng).
+- **Press:** [New Tech Northwest founder spotlight](https://www.newtechnorthwest.com/new-tech-founder-spotlight-olaoluwa-adesanya-founder-ceo-palmplug/), [news.uci.edu "Enterprising Undergraduates"](https://news.uci.edu/magazines/articles/enterprising-undergraduates/), [Adesanya's Palmplug LinkedIn announcement](https://www.linkedin.com/posts/olaoluwa-adesanya_excited-to-share-palmplug-is-going-to-be-activity-7191488511982632960-uaGH).
+
 ### Syntr Health Technologies - 2017 Beall 3rd place
 
 - **Status:** **active commercial company with $2.5M+ in disclosed funding**.
@@ -199,6 +208,7 @@ These are individual-level signals, not company outcomes - but they help future 
 | Lily McGrale | forMED, 2021 Beall 1st | R&D Engineer II at Medtronic |
 | Louai Labanieh | CeleriBio, 2016 Beall 3rd (lead) | **Siebel Scholar at Stanford (Cochran Lab); co-founder of CARGO Therapeutics; now at Mount Sinai Icahn School of Medicine** |
 | Erick Kusnadi | Sonder VR, 2016 Butterworth 1st (lead) | Software Engineer at Capital Group / American Funds |
+| Olaoluwa Adesanya | AirNotes, 2017 Butterworth 2nd (lead) | Founder & CEO of Palmplug; also at Meta (P.Eng) |
 | Ahmed Zobi | Syntr Health, 2017 Beall 3rd | CEO and Co-Founder of Syntr Health Technologies (active, $2.2M seed) |
 | Bien Gutierrez | HUMBLE Technologies, 2018 Beall 2nd | CEO and Principal Inventor of HUMBLE Technologies (active Delaware C corp) |
 | James Wratten | Mechanodontics, 2018 Beall 3rd | Co-founder of Mechanodontics (active; UIUC Cozad Grand Prize winner) |

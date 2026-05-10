@@ -49,12 +49,13 @@ Aggregated statistics computed from [data/bbcomp.json](../data/bbcomp.json) (las
 
 ## Companies Confirmed Active
 
-Ten teams or founder follow-ons from the BBComp archive have a verifiable, currently operating commercial entity or nonprofit:
+Eleven teams or founder follow-ons from the BBComp archive have a verifiable, currently operating commercial entity or nonprofit:
 
 | Team | Year | Company | Funding signal |
 |------|------|---------|----------------|
 | **A Hundred Tiny Hands** (2014 Beall 2nd) | 2014 | 100tinyhands.org (nonprofit co-op) | Kickstarter funded ($54K+); published children's book series |
 | **BottleRocket** (2016 Butterworth finalist) | 2016 | BottleRocket | $240K MuckerLab + $20K Dorm Room Fund = $260K+ total raised |
+| **Palmplug** (2017 Butterworth 2nd, AirNotes) | 2017+ | Palmplug | Active Pacific Northwest startup focused on Spatial Computing, Wearables, Health, Robotics, and AI; founder Adesanya also at Meta |
 | **Syntr Health Technologies** (2017 Beall 3rd) | 2016+ | Syntr Health (syntrhealth.com) | **$2.2M seed (August 2021)** + $300K Phase I SBIR/NIH grant (Oct 2017); active commercial company; Syntrfuge fat-processing platform for facial fat loss, knee osteoarthritis, diabetic foot ulcers |
 | **HUMBLE Technologies** (2018 Beall 2nd) | 2018 | HUMBLE Technologies (Delaware C corp) | TCU Values & Ventures 2nd place + $750 (2018); 100% UCI/SDSU undergraduate-owned; medical-device startup |
 | **Mechanodontics** (2018 Beall 3rd) | 2016+ | Mechanodontics | 2018 NVC Life Sciences 1st ($10K) + **2019 UIUC Cozad New Venture Challenge Grand Prize ($25K)** = $35K+ direct competition wins; active commercial venture |
