@@ -281,6 +281,9 @@ These are individual-level signals, not company outcomes - but they help future 
 | Derek Yazan | Vision Board, 2025 Butterworth 3rd (lead) | Computer Science at UCI Bren School; **Founder and Lead Experience Designer of Vision Board** |
 | Lukas Hauge | Vision Board, 2025 Butterworth 3rd | Member of UCI Video Game Development Club |
 | Mehrnaz Motamed | AINGELX, 2025 Butterworth 2nd | UCI Bren ICS PhD student in deep generative models and time series; previously Data Scientist at Endura Technologies and Software Engineer at Ubtech Robotics (computer vision R&D) |
+| Tim Oh | REACH, 2025 Beall 3rd | **PhD student in Electrical and Computer Engineering at UCLA** (post-UCI CSE bachelor's) |
+| Bora Keresteci | VeinGuard, 2025 Beall 2nd | UCI BME undergraduate (2021-2025); **Data Science Intern at Vena Vitals**; prior research at BEAMS Lab, UCI Cardiovascular Innovation and Research Center, Aureka Biotechnologies, and TRUE Lab |
+| Neha Muvvala | NasoCoustics, 2025 Beall 1st | **President of UCI BMES**; on winning Venaptic team in 2024 UCI Cardiovascular Device Pitch ($20K); previously BMES Outreach Coordinator |
 | Karan Kanwar | Pippy, 2017 Butterworth 3rd (lead) | **Co-founder and CEO of Wing AI Technologies / Wing Assistant** (Berkeley SkyDeck Spring 2020 cohort, 1,000+ employees in 8 countries); UCI CS bachelor's; speaks 5 languages; built earlier UCI Class of 2018 social-networking tool that grew to ~8,000 users across UCs |
 | Martin Gomez | Pippy, 2017 Butterworth 3rd | Co-founder of Wing AI Technologies / Wing Assistant (with Karan Kanwar) |
 | Christine Linh Nguyen | NeoMold, 2024 Beall 1st | At **PROCEPT BioRobotics** (medical-device company); UCI BME B.S. June 2024 + minor in Biological Sciences |
