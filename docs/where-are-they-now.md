@@ -28,7 +28,7 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Status:** **active Y Combinator-backed company**, 14 employees, FDA clearance anticipated 2026.
 - **Site:** [Y Combinator profile](https://www.ycombinator.com/companies/vena-vitals); [University Lab Partners profile](https://sites.uci.edu/mengprojects/vena-vitals/).
 - **Co-founders (2019):**
-  - **Ray Liu** (CEO) - experienced medtech executive; met Khine 20+ years ago as UC Berkeley grad-school lab mates
+  - **Ray Liu** (CEO) - experienced medtech executive; met Khine 20+ years ago as UC Berkeley grad-school lab mates. **Education: Harvard MBA + MS UC Berkeley + BS UIUC.** **20+ years experience in digital health and medical devices.** Previously head of product for two healthtech startups with successful **acquisitions by Vizient and Cigna**; built digital health platforms reaching **8M+ Cigna subscribers**; deep medical device experience at **Siemens and GE Healthcare** (patient monitoring, healthcare diagnostics, ultrasound). Also developed large-scale digital challenge platforms used by Disney
   - **Joshua "Josh" Kim** (CTO and Co-Founder) - the same Joshua Kim from the 2019 BBComp Qardiac team; **UCI Materials Science and Engineering PhD with Prof. Michelle Khine as faculty advisor**; developed the underlying technology for his PhD; lead author on seminal papers
   - **Prof. Michelle Khine** - the recurring BBComp faculty mentor (also of 2014's Spero Diagnostics and A Hundred Tiny Hands); her lab developed the underlying soft, stretchable electronics technology
 - **Team:** 14 employees total; 9 UCI alumni including 5 PhDs.
@@ -60,6 +60,17 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Product:** next-generation syringe that increases nurses' chance of success by eliminating priming-related dosage errors.
 - **Recognition beyond BBComp:** **2nd place + $750 in the Elevator Pitch category at Texas Christian University's 2018 Values and Ventures Competition**.
 - **Press:** [innovation.uci.edu, October 2018](http://innovation.uci.edu/2018/10/a-little-goes-a-long-way-with-the-student-startup-fund/), [LinkedIn company page](https://www.linkedin.com/company/humbleinc).
+
+### Wing AI Technologies (Wing Assistant) - 2017 Butterworth 3rd place (Pippy) → 2018 Wing
+
+- **Status:** active VC-backed company. Founded 2018 immediately after the BBComp Pippy cycle.
+- **Site:** [wingassistant.com](https://wingassistant.com/), [Crunchbase](https://www.crunchbase.com/organization/wing-assistant), [The Org](https://theorg.com/org/wing-assistant/org-chart/karan-kanwar).
+- **Founders:** **Karan Kanwar (CEO)**, Martin Gomez. Both came directly out of the 2017 Pippy team and the broader BBComp / NVC pipeline (the Wing team won the 2018 Stella Zhang NVC Consumer Services 1st place, $10K).
+- **Product:** cloud-based contract-workforce platform for virtual assistants powered by AI plus real human operators - handles tasks ranging from booking flights and ordering Uber rides to executive scheduling and customer support.
+- **Scale:** grew from Karan Kanwar's college dorm room to **over 1,000 employees in 8 countries**.
+- **Accelerator:** **UC Berkeley SkyDeck Spring 2020 cohort**.
+- **Investors named:** **Berkeley SkyDeck and Troy Labs** (per Crunchbase / Tracxn).
+- **Press:** [Merage School alumni feature, April 2020](https://merage.uci.edu/news/2020/04/merage-school-alumni-launch-wingyour-new-personal-assistant.html), [innovation.uci.edu, June 2019](https://innovation.uci.edu/2019/06/wing-takes-flight-with-smart-technology/), [Karan Kanwar's "Yippee for Pippy" Medium post](https://medium.com/@karankanwar_/yippee-for-pippy-butterworth-product-development-competition-7257d45dd67d).
 
 ### Palmplug - 2017 Butterworth 2nd place (AirNotes)
 
@@ -269,7 +280,9 @@ These are individual-level signals, not company outcomes - but they help future 
 | Yurina Tamura | Florence, 2025 Butterworth 1st | UCI Paul Merage School BBA student (2023-2026) - the Florence team is cross-disciplinary (ICS + Merage Business) |
 | Derek Yazan | Vision Board, 2025 Butterworth 3rd (lead) | Computer Science at UCI Bren School; **Founder and Lead Experience Designer of Vision Board** |
 | Lukas Hauge | Vision Board, 2025 Butterworth 3rd | Member of UCI Video Game Development Club |
-| Mehrnaz Motamed | AINGELX, 2025 Butterworth 2nd | Graduate Research Assistant at UCI Bren School of ICS |
+| Mehrnaz Motamed | AINGELX, 2025 Butterworth 2nd | UCI Bren ICS PhD student in deep generative models and time series; previously Data Scientist at Endura Technologies and Software Engineer at Ubtech Robotics (computer vision R&D) |
+| Karan Kanwar | Pippy, 2017 Butterworth 3rd (lead) | **Co-founder and CEO of Wing AI Technologies / Wing Assistant** (Berkeley SkyDeck Spring 2020 cohort, 1,000+ employees in 8 countries); UCI CS bachelor's; speaks 5 languages; built earlier UCI Class of 2018 social-networking tool that grew to ~8,000 users across UCs |
+| Martin Gomez | Pippy, 2017 Butterworth 3rd | Co-founder of Wing AI Technologies / Wing Assistant (with Karan Kanwar) |
 | Christine Linh Nguyen | NeoMold, 2024 Beall 1st | At **PROCEPT BioRobotics** (medical-device company); UCI BME B.S. June 2024 + minor in Biological Sciences |
 | Ke Jing | CrewView, 2018 Butterworth 2nd | At **ByteDance** (San Jose); UCI Informatics PhD via the Transformative Play Lab; "inventing the spatial medium" |
 | Hengji Chen | CenSyn, 2019 Beall 2nd | DCP Associate at **Duke Capital Partners** (early-stage venture investments) |
@@ -303,6 +316,7 @@ These are individual-level signals, not company outcomes - but they help future 
 | Lakshmi Vibhu Narke | Eupnea, 2023 Butterworth 1st | At Microsoft (per LinkedIn); attended Microsoft Build conference |
 | Christine Ly | NeoMold, 2024 Beall 1st | PhD student, USC BioMEMS lab (since Aug 2024) |
 | Andrew Cai | Florence, 2025 Butterworth 1st | At **Virio** ("the AI marketer for vertical SaaS"; New York, NY; PitchBook profile); relationship to Florence team itself unverified |
+| Nathan Che | Florence, 2025 Butterworth 1st | **Software Engineer at TwelveLabs**; UCI CS; previously Blackstone, Microsoft, LA Metro, ROBLOX, Monitour.AI |
 | Shushrruth Sai Srinivasan | Two Cube, 2024 Butterworth 2nd | PhD student in UCI's **Mathematical, Computational, and Systems Biology (MCSB) Program**; research in Bioinformatics, Genomics, and Applied Machine Learning; peer-reviewed publications in Science Advances, Alzheimer's & Dementia, scENCORE chromatin conformation work; speaker at 2025 Health Care Forecast Conference for Two Cube |
 | Michael Ross | Thrust Aeronautics 2022 Beall 3rd + Sentinel 2024 Butterworth 1st | **Materials Scientist and Aerospace Engineer**; founder of Thrust Aeronautics (aerospike engine development); for Sentinel: graduated from **NSF I-Corps Regional Program** + won $30K total at UCI Stella Zhang NVC. Research areas: aerospike nozzles, aerospace alloys, additive manufacturing |
 | Ayushi Hitesh Patel | CenSyn, 2019 Beall 2nd | Co-founder & CEO of CenSyn Inc. (active) |

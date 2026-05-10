@@ -49,7 +49,7 @@ Aggregated statistics computed from [data/bbcomp.json](../data/bbcomp.json) (las
 
 ## Companies Confirmed Active
 
-Twelve teams or founder follow-ons from the BBComp archive have a verifiable, currently operating commercial entity or nonprofit:
+Thirteen teams or founder follow-ons from the BBComp archive have a verifiable, currently operating commercial entity or nonprofit:
 
 | Team | Year | Company | Funding signal |
 |------|------|---------|----------------|
@@ -57,6 +57,7 @@ Twelve teams or founder follow-ons from the BBComp archive have a verifiable, cu
 | **BottleRocket** (2016 Butterworth finalist) | 2015+ | BottleRocket | Founded May 2015; $240K MuckerLab + $20K Dorm Room Fund = $260K+ total raised |
 | **Red Lion Robotics** (2016 + 2017 Beall 2nd) | 2016+ | Red Lion Robotics | Won Aging 2.0 OC regional business competition (2017) + advanced nationally; product **GRAM** (Gait Rehab Adaptive Machine) low-cost wheelchair attachment |
 | **Palmplug** (2017 Butterworth 2nd, AirNotes) | 2017+ | Palmplug | Active Pacific Northwest startup focused on Spatial Computing, Wearables, Health, Robotics, and AI; founder Adesanya also at Meta |
+| **Wing AI Technologies / Wing Assistant** (founder of 2017 Butterworth 3rd, Pippy) | 2018 | Wing Assistant (wingassistant.com) | VC-backed; UC Berkeley SkyDeck Spring 2020 cohort; institutional investors Berkeley SkyDeck and Troy Labs; **scaled to 1,000+ employees in 8 countries**; cloud-based AI + human virtual-assistant platform |
 | **Syntr Health Technologies** (2017 Beall 3rd) | 2016+ | Syntr Health (syntrhealth.com) | **$10M raise announced March 2023** + $2.2M seed (Aug 2021) + $300K Phase I SBIR/NIH grant (Oct 2017); active commercial company at University Lab Partners (UCI Research Park); Syntrfuge fat-processing platform for facial fat loss, knee osteoarthritis, diabetic foot ulcers |
 | **HUMBLE Technologies** (2018 Beall 2nd) | 2018 | HUMBLE Technologies (Delaware C corp) | TCU Values & Ventures 2nd place + $750 (2018); 100% UCI/SDSU undergraduate-owned; medical-device startup |
 | **Mechanodontics → BRIUS** (2018 Beall 3rd) | 2006+ | **BRIUS Technologies** (HQ Carrollton, TX) | **$46.2M total raised across 19 investors** including a **$19.5M Series B led by View Ventures (May 6, 2025)** with Sonder Capital, Invus, SUM Ventures, Tech Wildcatters, Cheyenne Partners, GT Healthcare Capital Partners, plus institutional investors SeedFolio, Startup UCLA, QB3. CEO: Lea Ellermeier. The Brava™ Independent Mover CAD/CAM orthodontic system. **Highest-funded BBComp-traceable venture on record.** |
