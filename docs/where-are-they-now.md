@@ -20,6 +20,26 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Press:** [TechCrunch coverage, March 2023](https://techcrunch.com/2023/03/13/123-baby-box-subscription-commerce/), [OC Business Journal](https://www.ocbj.com/oc-homepage/123-baby-box-raises-1-2m-pre-seed/), [Femtech Insider](https://femtechinsider.com/123-baby-box-re-seed/), [Authority Magazine interview](https://medium.com/authority-magazine/fresh-founders-zarina-bahadur-of-123-baby-box-on-the-unique-challenges-of-building-a-business-from-86dbe289b2e4), [Crunchbase profile](https://www.crunchbase.com/organization/123-baby-box).
 - **Sources for the BBComp/NVC trajectory:** [merage.uci.edu, June 2020](https://merage.uci.edu/news/2020/06/baby-box-wins-25,000-grand-prize-at-2020-new-venture-competition.html), [merage.uci.edu, April 2023 - $1.2M raise](https://merage.uci.edu/news/2023/04/123-Baby-Box-raises-oversubscribed-round-of-1.2-million.html).
 
+### BottleRocket - founder of 2016 Butterworth finalist BottleRocket
+
+- **Status:** active venture-backed company.
+- **Original BBComp team:** 2016 Butterworth finalist BottleRocket (Brian Leung as solo / lead).
+- **Commercial team:** **Arthur Avetisov** (CEO and Co-Founder), **Brian Leung** (COO and Co-Founder), **Malik Ahmad** (Co-Founder and CMO).
+- **Product:** the first on-demand pickup service that rewards users for recycling at home.
+- **Funding:** **$240,000 from MuckerLab** (Santa Monica) plus **$20,000 from Dorm Room Fund** = **$260,000+ total raised**.
+- **Incubator:** Cove Share (now Wayfinder) at UCI Beall Applied Innovation.
+- **Recognition:** Brian Leung received the "Best Alumni ANTrepreneur" award (UCI ANTrepreneur Awards). Featured in the UCI School of Social Sciences "Ready for Liftoff" alumni profile.
+- **Sources:** [innovation.uci.edu, March 2017](https://innovation.uci.edu/2017/03/201731uci-based-startup-bottlerocket-secures-over-200000-in-recent-funding/), [Irvine Standard](https://www.irvinestandard.com/2018/uci-launches-some-of-americas-top-college-startups/), [UCI School of Social Sciences "Ready for Liftoff"](https://www.socsci.uci.edu/newsevents/news/2018/2018-08-22-bottlerocket.php).
+
+### A Hundred Tiny Hands - 2014 Beall 2nd place
+
+- **Status:** active academic nonprofit co-op.
+- **Site:** [100tinyhands.org](http://100tinyhands.org/).
+- **Founders:** academic nonprofit co-op formed by engineering graduate students at UCI under Prof. Michelle Khine. Sophia Lin (chemical engineering doctoral student) invented the "SuperHydro-Tension" kit on surface tension. Other named founders include Eugene Lee, Nicole Mendoza, Jolie McLane, Danny Greene.
+- **Product:** educational toy kits ("Inventor's Toolboxes") teaching engineering and science concepts to children, plus a children's book series. Notable book: **"EUREKA! Eugene and Ellie's Quest to Save ElectriCITY"** (Khine, Nemeth, Lin) - available on Amazon.
+- **Funding:** successfully Kickstarter-funded in 2014 with $4,000 over the $50,000 goal.
+- **Sources:** [engineering.uci.edu, February 2014](https://engineering.uci.edu/news/2014/2/hundred-tiny-hands-hopes-inspire-young-scientists), [Kickstarter campaign](https://www.kickstarter.com/projects/2084593011/a-hundred-tiny-hands-toys-for-your-brilliant-lil-i), [Amazon book listing](https://www.amazon.com/EUREKA-Eugene-Ellies-Quest-ElectriCITY-ebook/dp/B018R9L1CQ).
+
 ### CenSyn Inc. - 2019 Beall 2nd place (CenSyn)
 - **Status:** active incorporated company.
 - **Founded:** 2019, immediately after the BBComp 2nd-place placement.

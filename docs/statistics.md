@@ -49,14 +49,18 @@ Aggregated statistics computed from [data/bbcomp.json](../data/bbcomp.json) (las
 
 ## Companies Confirmed Active
 
-Four teams or founder follow-ons from the joint era have a verifiable, currently operating commercial entity:
+Six teams or founder follow-ons from the BBComp archive have a verifiable, currently operating commercial entity or nonprofit:
 
 | Team | Year | Company | Funding signal |
 |------|------|---------|----------------|
+| **A Hundred Tiny Hands** (2014 Beall 2nd) | 2014 | 100tinyhands.org (nonprofit co-op) | Kickstarter funded ($54K+); published children's book series |
+| **BottleRocket** (2016 Butterworth finalist) | 2016 | BottleRocket | $240K MuckerLab + $20K Dorm Room Fund = $260K+ total raised |
 | **123 Baby Box** (founder of 2018 Butterworth 1st ZOOT) | 2018 | 123 Baby Box (123babybox.com) | **$1.2M+ pre-seed (oversubscribed)** + $1.3M total; investors XRC Labs, Sunstone Fund, SLC Angels, VC California Crescent, ex-Steve Madden CFO Mark Friedman, ex-Barnes & Noble CEO Demos Parneros |
 | **CenSyn** (2019 Beall 2nd) | 2019 | CenSyn Inc. | $105K Berkeley SkyDeck Seed (2021); pursuing FDA 510(k) |
 | **Leprendo** (2022 Butterworth 1st) | 2022 | Leprendo (leprendo.com) | $250K USDA grant (Dec 2024); ~$400K Y1 sales |
 | **Sentinel** (2024 Butterworth 1st) | 2024 | Sentinel by Spotter AI (sentinel.spotter.ai) | Commercial product; multiple competition wins |
+
+Total documented external capital across these ventures: **~$1.9M+** (excluding ongoing operational revenue and grants).
 
 Two more teams have documented partial commercialization or possible commercialization:
 
