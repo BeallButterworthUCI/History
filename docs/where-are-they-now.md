@@ -201,7 +201,9 @@ These are individual-level signals, not company outcomes - but they help future 
 
 | Founder | BBComp team / year | Subsequent role |
 |---------|--------------------|-----------------|
-| Karan Sekhri | Sparky / Blueberry, 2014 Butterworth 1st | Member of Technical Staff at OpenAI |
+| Karan Sekhri | Sparky / Blueberry, 2014 Butterworth 1st | Member of Technical Staff at OpenAI (Redwood City); previously Kiva and Course Hero |
+| Cesar Ghali | BeatPool, 2014 Butterworth 2nd | Software Engineer at Google; UCI CS PhD (April 2012-June 2016) on content-centric networking security and privacy |
+| Bao Pham | FWMAV, 2018 Beall 1st | Mechanical Engineer at Cellens Inc |
 | Khwaja Hassan Ahmad | Tag Team, 2016 Beall 1st | Engineer at Qualcomm |
 | Spike O'Carroll | Sentinel, 2024 Butterworth 1st | Software Engineer at SpaceX |
 | Caitlyn Yang | Grasshopperfund, 2021 Butterworth 1st | Performance Engineer at SpaceX |
