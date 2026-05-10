@@ -191,8 +191,14 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 
 ### The Blue Box - 2021 Beall 3rd place
 - **Original BBComp team:** Diego Esparza, Lauren Hoshiko (per the official 2021 bbcomp page).
-- **Possible related company:** **The Blue Box Biomedical Solutions, S.L.** ([thebluebox.ai](https://thebluebox.ai/)), founded by Judit Giró Benet (CEO) and Billy Chen - UCI Master of Embedded Cyber-physical Systems graduates. The product (at-home breast-cancer detection inspired by dogs' olfactory systems) matches the 2021 BBComp description very closely. **The exact relationship between the BBComp 2021 team and the operating Spanish company is unverified** - they may be (a) the same project under different names, (b) a successor company built on the same UCI research, or (c) a name and concept collision.
-- **The operating company's signals:** TOP 9 of ~100 startups in the **EIT Health & Roche #Accelerator 2024**; pursuing CE marking and FDA clearance; targets 2024 US market entry.
+- **Likely commercial successor:** **The Blue Box Biomedical Solutions, S.L.** ([thebluebox.ai](https://thebluebox.ai/)), founded by Judit Giró Benet (CEO) and Billy Chen - UCI Master of Embedded Cyber-physical Systems graduates. The product (at-home breast-cancer detection using a urine sample and AI algorithm to detect early signs of late-stage breast cancer; inspired by dogs' olfactory systems) matches the 2021 BBComp description very closely. **The exact relationship between the BBComp 2021 team and Giró/Chen's commercial company is unverified** - they may be (a) the same project with different student attribution at different stages, (b) sequential teams in the same Khine-lab pipeline, or (c) parallel projects with similar concepts.
+- **The operating company's signals:**
+  - **Berkeley SkyDeck Hotdesk incubator** (May 2021)
+  - **TechCrunch named one of 20 most disruptive startups in the world** (July 2021)
+  - UCI Beall Applied Innovation Wayfinder program member
+  - Global Grad Show startup accelerator (March 2021)
+  - **TOP 9 of ~100 startups in the EIT Health & Roche #Accelerator 2024**
+  - Pursuing CE marking and FDA clearance; targets 2024 US market entry
 - **2020 James Dyson Award** winner (Judit Giró Benet, UCI graduate).
 
 ## Founders moving to notable industry roles
@@ -229,6 +235,7 @@ These are individual-level signals, not company outcomes - but they help future 
 | Forest Agostinelli | WeGroove, 2016 Butterworth 2nd (lead) | **Assistant Professor at University of South Carolina** (Computer Science and Engineering); research in AI, Deep Learning, Reinforcement Learning, Heuristic Search; 2,100+ citations |
 | Roger Lloret-Batlle | Waytrade, 2015 Beall finalist | Assistant Professor at MIT Global SCALE Network (Ningbo Institute for Supply Chain Innovation); UCI PhD in Transportation Engineering; previously Algorithm Engineer at DiDi Smart Transportation |
 | Yurina Tamura | Florence, 2025 Butterworth 1st | UCI Paul Merage School BBA student (2023-2026) - the Florence team is cross-disciplinary (ICS + Merage Business) |
+| Lucas Erb | UnMail 2018 Butterworth finalist + Giv 2019 Butterworth 2nd | Founder of AIExperts.com (AI automation platform for SMBs); AI Fellow at Every; Top Voice in AI on LinkedIn |
 | Christine Ly | NeoMold, 2024 Beall 1st | PhD student, USC BioMEMS lab (since Aug 2024) |
 | Andrew Cai | Florence, 2025 Butterworth 1st | At Virio (per LinkedIn); relationship to Florence unverified |
 | Shushrruth Sai Srinivasan | Two Cube, 2024 Butterworth 2nd | PhD student in CS at UCI; peer-reviewed publications in single-cell epigenetics |
