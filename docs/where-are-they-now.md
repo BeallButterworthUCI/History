@@ -136,13 +136,15 @@ Several teams whose names appear prominently in the BBComp record do not have a 
 - **PetPointDx** (2024 Beall 3rd)
 - **Pulsera** (2023 Beall 1st) - team likely dispersed; no follow-on company found.
 - **Encephalopod** (2023 Beall 2nd)
-- **WEngineers / Lengage Ware** (2023 Beall 3rd)
+- **WEngineers / Lengage Ware** (2023 Beall 3rd) - CEO Kristin Hagen stated at the 2023 awards ceremony "I want to continue working on the prototype until I'm ready to start a company"; status unverified.
+- **Nibble** (2023 Butterworth 2nd) - co-founder Kimia Yazdani returned in 2025 with AINGELX (Butterworth 2nd again); company status of Nibble itself unverified.
+- **ChewRank** (2023 Butterworth 3rd) - **named one of the 10 finalists at the 2023 Stella Zhang NVC** (19th annual). Status as standalone company unverified.
 - **VANTAMASK** (2022 Beall 2nd)
 - **Thrust Aeronautics** (2022 Beall 3rd) - Michael Ross moved to Sentinel/Spotter AI.
 - **FoodPool** (2022 Butterworth 2nd)
 - **Consense** (2022 Butterworth 3rd)
 - **Phoraptor** (2021 Beall 2nd)
-- **Nutripair** (2021 Butterworth 2nd) - listed as a UCI startup in the Beall Applied Innovation directory but no recent activity confirmed.
+- **Nutripair** (2021 Butterworth 2nd) - listed as a UCI startup in the Beall Applied Innovation directory; **won 2022 Stella Zhang NVC Business Products & Services 1st ($10,000)** as food-pairing technology for restaurants. Co-founder Catlin Tran '23 named as winner. No recent operational activity confirmed beyond 2022.
 - **Armory** (2021 Butterworth 3rd)
 - **Qardiac** (2019 Beall 1st)
 - **HemaDynamics** (2019 Beall 3rd)

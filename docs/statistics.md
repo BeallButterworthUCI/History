@@ -87,17 +87,21 @@ Two more teams have documented partial commercialization or possible commerciali
 
 ## Cross-Competition Performance (Stella Zhang NVC)
 
-Documented BBComp teams that also placed at the UCI Stella Zhang New Venture Competition:
+Documented BBComp teams that also placed or finalled at the UCI Stella Zhang New Venture Competition:
 
 | BBComp team | BBComp year | Stella Zhang result |
 |-------------|-------------|---------------------|
-| **Sentinel** | 2024 Butterworth 1st | 2024 NVC Grand Finale Winner ($20K + $10K Business Products & Services track) |
-| **Two Cube** | 2024 Butterworth 2nd | 2024 NVC Life Science track 1st ($10K) |
-| **NeoMold** | 2024 Beall 1st | 2024 NVC Top 10 of 125 teams; top 2 in Life Sciences track |
-| **Leprendo** | 2022 Butterworth 1st | 2022 NVC Consumer Products 1st, 2nd overall |
-| **forMED Technologies** | 2021 Beall 1st | 2022 NVC Life Sciences track 1st |
+| **Sentinel** | 2024 Butterworth 1st | **2024 NVC Grand Prize Winner ($20K + $10K Business Products & Services 1st)** |
+| **Two Cube** | 2024 Butterworth 2nd | 2024 NVC Life Sciences track 1st ($10K) |
+| **NeoMold** | 2024 Beall 1st | 2024 NVC Life Sciences runner-up (top 10 of 125 teams from 400+ applicants) |
+| **ChewRank** | 2023 Butterworth 3rd | 2023 NVC finalist (10-team finals) |
+| **Leprendo** | 2022 Butterworth 1st | 2022 NVC Consumer Products 1st, 2nd overall; 2023 NVC Second Prize $5,000 |
+| **Nutripair** | 2021 Butterworth 2nd | 2022 NVC Business Products & Services 1st ($10K) |
+| **forMED Technologies** | 2021 Beall 1st | 2022 NVC Life Sciences track 1st ($10K) |
 
 The 2024 cycle is the only year on record where all three top-tier BBComp joint-track winners (Sentinel, Two Cube, NeoMold) all placed in the Stella Zhang NVC.
+
+**March 2025 NVC expansion:** Stella Zhang gave a $750,000 five-year gift that raised the NVC annual prize pool from $100,000 to $150,000, locked in through approximately 2030.
 
 ## Geographic and Institutional Distribution
 

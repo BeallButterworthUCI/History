@@ -42,16 +42,24 @@ The Beall Butterworth Competition is one node in a much larger UCI student-innov
 
 ## Stella Zhang New Venture Competition (UCI NVC)
 
-- **What:** UCI's flagship business-plan competition, runs in parallel with BBComp; >$100,000 prize pool.
-- **Tracks:** Business Products & Services, Consumer Products, Consumer Services, Life Sciences, Social Enterprise.
-- **Cadence:** kickoff in October, concept papers due in March, Grand Finale in May (mirrors BBComp's calendar).
-- **Joint kickoff:** UCI NVC and BBComp held a **joint kickoff event** in October 2025 for the 2026 cycle.
-- **BBComp pipeline:** multiple BBComp teams have won both competitions in the same cycle:
-  - **Sentinel** (2024 Butterworth 1st) - won the 2024 UCI Stella Zhang NVC Grand Finale ($20K + $10K track).
-  - **Leprendo** (2022 Butterworth 1st) - won the 2022 UCI Stella Zhang NVC.
-  - **forMED Technologies** (2021 Beall 1st) - won the 2022 UCI Stella Zhang NVC life-sciences track.
+- **What:** UCI's flagship business-plan competition, runs in parallel with BBComp.
+- **Tracks:** Business Products & Services, Consumer Products, Consumer Services, Life Sciences, Social Enterprise. Plus Grand Prize ($20,000) and Audience Favorite ($5,000).
+- **Cadence:** seven months. Kickoff in October, concept papers due in March, Grand Finale in May (mirrors BBComp's calendar).
+- **Naming:** the competition is named after Stella Zhang, MBA '05 alumna. **2023 was the first year branded as the "Stella Zhang" NVC** (the 19th annual edition).
+- **March 2025 expansion:** Stella Zhang pledged **$750,000 total over five years** to expand the annual prize pool from $100K to **$150K per year**. Quote: "I'm honored to help student entrepreneurs make their dreams a reality. It's very inspiring."
+- **Faculty director:** Dr. Imran Currim.
+- **Joint kickoff:** UCI NVC and BBComp held a **joint kickoff event** in October 2023 (for the 2024 cycle) and again in October 2025 (for the 2026 cycle).
+- **BBComp pipeline:** multiple BBComp teams have won both competitions in the same or following cycle:
+  - **Sentinel** (2024 BBComp Butterworth 1st) - won the **2024 NVC Grand Prize ($20K + $10K Business Products & Services track)**.
+  - **Two Cube** (2024 BBComp Butterworth 2nd) - won the **2024 NVC Life Sciences track 1st ($10K)**.
+  - **NeoMold** (2024 BBComp Beall 1st) - **2024 NVC Life Sciences track 2nd / runner-up** (top 10 of 125 teams from 400+ applicants).
+  - **ChewRank** (2023 BBComp Butterworth 3rd) - 2023 NVC finalist (10-team finals).
+  - **Leprendo** (2022 BBComp Butterworth 1st) - 2022 NVC Consumer Products 1st, 2nd overall; **2023 NVC Second Prize $5,000**.
+  - **Nutripair** (2021 BBComp Butterworth 2nd) - **2022 NVC Business Products & Services 1st ($10K)**. Catlin Tran '23 specifically named as winner.
+  - **forMED Technologies** (2021 BBComp Beall 1st) - **2022 NVC Life Sciences 1st ($10K)**.
+- **2024 NVC was BBComp's biggest sweep:** all three top-tier joint-track winners (Sentinel, Two Cube, NeoMold) placed at NVC in the same cycle.
 - **Companion archive:** the [StellaZhangUCI/History](https://github.com/StellaZhangUCI/History) repository documents the NVC in the same format this archive uses for BBComp.
-- **Source:** [merage.uci.edu - Stella Zhang NVC](https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/new-venture-competiton.html).
+- **Source:** [merage.uci.edu - Stella Zhang NVC](https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/new-venture-competiton.html), [March 2025 $750K gift announcement](https://merage.uci.edu/press-releases/2025/03/Stella-Zhang-Gives-750K-to-UC-Irvine-New-Venture-Competition.html), [2022 winners (Beckman Laser Institute)](https://bli.uci.edu/stella_zhang/), [2023 winners (OC Startup Council)](http://ocstartupcouncil.org/oc-startups-news/uci-new-venture-competition-winners).
 
 ## Beall Center for Art + Technology
 
