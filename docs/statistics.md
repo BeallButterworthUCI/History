@@ -1,0 +1,120 @@
+# Archive Statistics
+
+[← Back to main archive](../README.md)
+
+Aggregated statistics computed from [data/bbcomp.json](../data/bbcomp.json) (last regenerated against the JSON in this commit). For the raw flat table see [data/winners.csv](../data/winners.csv).
+
+## Coverage
+
+| Metric | Value |
+|--------|-------|
+| First documented year | 2012 (9th annual Butterworth) |
+| Most recent complete year | 2025 |
+| Joint-era complete years | 11 (2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025) |
+| Cancelled years | 1 (2020, COVID-19) |
+| In-progress years | 1 (2026, Demo Day May 15) |
+| Pre-joint editions documented | 4 (2010, 2011, 2012, 2013) |
+| Of which no public placement record | 2 (2010, 2011) |
+| Total award rows in archive | 75 (joint-era) + 6 (pre-joint placements) = 81 |
+| Pre-joint finalist rows documented | 13 (across 2012, 2013) |
+
+## Track Distribution (Joint Era 2014-2025)
+
+| Track | Award rows |
+|-------|------------|
+| Butterworth (ICS / software) | 39 |
+| Beall (Engineering / hardware) | 33 |
+| International / Brazilian Collaboration | 3 |
+
+## People
+
+| Metric | Value |
+|--------|-------|
+| Unique team members named | 358 |
+| Founders profiled in [where-are-they-now.md](where-are-they-now.md) | 30+ |
+| Recurring faculty mentors profiled | 5 |
+| Current judges roster (Beall + Butterworth) | 25 (13 Beall, 12 Butterworth) |
+
+## Money
+
+| Metric | Value |
+|--------|-------|
+| Total disclosed prize money (sum of `prize_amount_usd` across all years) | **$350,000** |
+| Annual cycle purse 2018-present | $40,000+ per year (3 placements x 2 tracks at $10K/$6.5K/$3.5K) |
+| Largest single placement | $10,000 (every 1st place since 2018) |
+| Cumulative prize estimate including unspecified years (2021, 2023+, 2024+, 2025+) | Approximately $400K-$500K cash awarded across the full joint era |
+| Largest single donor commitment | $35.5M Butterworth pledge to ICS, 2023 |
+
+## Companies Confirmed Active
+
+Three teams from the joint era have a verifiable, currently operating commercial entity:
+
+| Team | Year | Company | Funding signal |
+|------|------|---------|----------------|
+| **CenSyn** (2019 Beall 2nd) | 2019 | CenSyn Inc. | $105K Berkeley SkyDeck Seed (2021); pursuing FDA 510(k) |
+| **Leprendo** (2022 Butterworth 1st) | 2022 | Leprendo (leprendo.com) | $250K USDA grant (Dec 2024); ~$400K Y1 sales |
+| **Sentinel** (2024 Butterworth 1st) | 2024 | Sentinel by Spotter AI (sentinel.spotter.ai) | Commercial product; multiple competition wins |
+
+Two more teams have documented partial commercialization or possible commercialization:
+
+| Team | Year | Status |
+|------|------|--------|
+| **forMED Technologies** (2021 Beall 1st) | 2021 | Pursued through 2022 Stella Zhang NVC; founder now at Medtronic; product not commercialized as standalone |
+| **The Blue Box** (2021 Beall 3rd) | 2021 | Possible Spanish commercial successor (The Blue Box Biomedical Solutions S.L.); relationship unverified |
+
+## Repeat Appearances
+
+| Metric | Value |
+|--------|-------|
+| Individuals with placements in two or more years | 7+ confirmed (Adrian Bahani, Naren Sathiya, Candace Wu, Neeraj Kumar, Ali Shahbaz, Dylan Riffle, Kanu Chandra, Kimia Yazdani, Michael Ross) |
+| Teams with the same name appearing in two years | 1 (Red Lion Robotics, 2016 + 2017 Beall 2nd, only confirmed back-to-back placement) |
+| Teams that returned with a new pitch and won | 2 confirmed (Krobotech 2016 finalist → 2017 1st Beall; Memorlane 2016 finalist → 2017 1st Butterworth) |
+| Teams that returned with a new pitch and won (different team name) | 1 confirmed (AllerChain 2019 finalist → forMED 2021 1st Beall) |
+| Most prolific multi-entry duo | Ahmad Razavi & Nazanin Ghasemian (4 finalist teams across 2016 and 2017) |
+| Most prolific individual across years | Michael Bryant (3 cycles: 2014 HydroTrack 3rd Beall, 2015 HelioTeq finalist Beall, 2016 Munch combined finalist) |
+
+## Theme Evolution
+
+| Era | Years | Dominant themes |
+|-----|-------|-----------------|
+| Butterworth-only | 2012-2013 | Vertical social networks, mobile utilities, RFID/IoT precursors, photo/image understanding, indoor positioning |
+| Inaugural joint | 2014 | Bluetooth networking, bedside diagnostics |
+| IoT / BLE / AR / VR | 2015-2017 | Crowd-GPS Bluetooth tags, prosthetics, photo-sharing, AR navigation, VR therapy |
+| Higher stakes | 2018-2019 | AR for everyday workflows, mobile health, wearable cardiology, microfluidics |
+| Pandemic disruption | 2020-2022 | Cancelled 2020; at-home diagnostics, youth fintech, marketplaces, assistive hardware |
+| Brazil / international | 2023+ | Maternal-health AI, wearable health sensors, real-time translation hardware |
+| Deep tech | 2024-2025 | AI safety in trucking, autonomous bioinformatics, additive manufacturing, AI-native medicine, specialized medical devices |
+
+## Cross-Competition Performance (Stella Zhang NVC)
+
+Documented BBComp teams that also placed at the UCI Stella Zhang New Venture Competition:
+
+| BBComp team | BBComp year | Stella Zhang result |
+|-------------|-------------|---------------------|
+| **Sentinel** | 2024 Butterworth 1st | 2024 NVC Grand Finale Winner ($20K + $10K Business Products & Services track) |
+| **Two Cube** | 2024 Butterworth 2nd | 2024 NVC Life Science track 1st ($10K) |
+| **NeoMold** | 2024 Beall 1st | 2024 NVC Top 10 of 125 teams; top 2 in Life Sciences track |
+| **Leprendo** | 2022 Butterworth 1st | 2022 NVC Consumer Products 1st, 2nd overall |
+| **forMED Technologies** | 2021 Beall 1st | 2022 NVC Life Sciences track 1st |
+
+The 2024 cycle is the only year on record where all three top-tier BBComp joint-track winners (Sentinel, Two Cube, NeoMold) all placed in the Stella Zhang NVC.
+
+## Geographic and Institutional Distribution
+
+| Track | Source institution(s) |
+|-------|------------------------|
+| Butterworth | Donald Bren School of Information and Computer Sciences (ICS) |
+| Beall | Henry Samueli School of Engineering (with strong representation from Biomedical Engineering, Mechanical Engineering, Computer Engineering) |
+| International Collaboration | UCI + Pontifical Catholic University of Rio Grande do Sul (PUCRS), Brazil |
+
+## Data Integrity Flags
+
+| Flag | Affected years | Status |
+|------|----------------|--------|
+| bbcomp 2014/2015 page duplication | 2014, 2015 | 2014 page is the incorrect duplicate (showing 2015 winners); 2015 placements verified independently. The 2014 placements come from the Samueli July 2014 press release. |
+| Legacy ICS news archive HTTP 500 | 2012, 2013 | Content was recovered via the live ics.uci.edu/archive-news redirector and Google snippets; both years now fully verified. |
+| Missing public placement records | 2010, 2011 | The competition was held (per the "11th annual" 2014 framing and Kevin Kinsey's "nine years" 2012 quote), but placements are not publicly accessible. Stub files in `years/2010.md` and `years/2011.md`. |
+
+## How These Statistics Are Generated
+
+The numbers above are computed by walking [data/bbcomp.json](../data/bbcomp.json) directly. To re-generate after editing the JSON, run a one-liner Python script that loads the file and counts the relevant fields. (See the bottom of `scripts/validate_data.py` for an example of how to walk the structure.)

@@ -402,8 +402,9 @@ These files extend the README with material that doesn't fit cleanly into the pe
 - [docs/connected-programs.md](docs/connected-programs.md) - the broader UCI student-innovation graph (Wayfinder, Blackstone LaunchPad at UCI, ANTrepreneur Center, the Stella Zhang New Venture Competition, the PUCRS partnership, and external follow-on competitions).
 - [docs/where-are-they-now.md](docs/where-are-they-now.md) - verified post-competition outcomes for BBComp teams and individual founders, with explicit gaps for teams whose status we couldn't confirm.
 - [docs/glossary.md](docs/glossary.md) - definitions of terms, sentinel values, prize-tier history, and acronyms used throughout this archive, written for readers new to UCI or BBComp.
+- [docs/statistics.md](docs/statistics.md) - aggregated numbers computed from the JSON: track distribution, total documented people (358 unique members), confirmed companies, repeat appearances, theme evolution, and Stella Zhang NVC cross-competition performance.
 
-The structured machine-readable mirror of all per-year data lives in [data/bbcomp.json](data/bbcomp.json).
+The structured machine-readable mirror of all per-year data lives in [data/bbcomp.json](data/bbcomp.json), with a flat-row spreadsheet export at [data/winners.csv](data/winners.csv) (91 rows covering all winners, finalists, and cancelled / no-record years).
 
 ## Sources & Notes
 
