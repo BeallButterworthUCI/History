@@ -49,19 +49,23 @@ Aggregated statistics computed from [data/bbcomp.json](../data/bbcomp.json) (las
 
 ## Companies Confirmed Active
 
-Seven teams or founder follow-ons from the BBComp archive have a verifiable, currently operating commercial entity or nonprofit:
+Eight teams or founder follow-ons from the BBComp archive have a verifiable, currently operating commercial entity or nonprofit:
 
 | Team | Year | Company | Funding signal |
 |------|------|---------|----------------|
 | **A Hundred Tiny Hands** (2014 Beall 2nd) | 2014 | 100tinyhands.org (nonprofit co-op) | Kickstarter funded ($54K+); published children's book series |
 | **BottleRocket** (2016 Butterworth finalist) | 2016 | BottleRocket | $240K MuckerLab + $20K Dorm Room Fund = $260K+ total raised |
+| **Mechanodontics** (2018 Beall 3rd) | 2016+ | Mechanodontics | 2018 NVC Life Sciences 1st ($10K) + **2019 UIUC Cozad New Venture Challenge Grand Prize ($25K)** = $35K+ direct competition wins; active commercial venture |
 | **123 Baby Box** (founder of 2018 Butterworth 1st ZOOT) | 2018 | 123 Baby Box (123babybox.com) | **$1.2M+ pre-seed (oversubscribed)** + $1.3M total; investors XRC Labs, Sunstone Fund, SLC Angels, VC California Crescent, ex-Steve Madden CFO Mark Friedman, ex-Barnes & Noble CEO Demos Parneros |
 | **Vena Vitals** (2019 Beall 1st, Qardiac) | 2019 | Vena Vitals (Y Combinator) | **Y Combinator-backed**, Morado Ventures, Founders Inc., MedTech Innovator, EvoNexus; **14 employees**, 600+ patients tested, FDA clearance 2026 |
 | **CenSyn** (2019 Beall 2nd) | 2019 | CenSyn Inc. | $105K Berkeley SkyDeck Seed (2021); pursuing FDA 510(k) |
 | **Leprendo** (2022 Butterworth 1st) | 2022 | Leprendo (leprendo.com) | $250K USDA grant (Dec 2024); ~$400K Y1 sales |
 | **Sentinel** (2024 Butterworth 1st) | 2024 | Sentinel by Spotter AI (sentinel.spotter.ai) | Commercial product; multiple competition wins |
 
-Notable: the 2019 cycle alone produced two of the seven confirmed active ventures (Vena Vitals and CenSyn) - **both Beall track, both medical hardware, both founded the same year as the BBComp competition**. This is the densest year-to-outcome ratio in the archive.
+Notable patterns:
+- The 2019 cycle alone produced two of the eight confirmed active ventures (Vena Vitals and CenSyn) - **both Beall track, both medical hardware, both founded the same year as the BBComp competition**. This is the densest year-to-outcome ratio in the archive.
+- **Two BBComp-traceable ventures have won major out-of-state competitions:** Mechanodontics at the UIUC Cozad NVC ($25K Grand Prize, 2019) and Eupnea at Microsoft Imagine Cup (top 3 worldwide, 2023).
+- **Prof. Michelle Khine's lab is the single most prolific BBComp-faculty source of outcomes** - she mentored 2014's Spero Diagnostics, 2014's A Hundred Tiny Hands (now active), and co-founded Vena Vitals (Y Combinator) with the 2019 Qardiac team's Joshua Kim. She is also Scientific Founder of 6 startups in total.
 
 Total documented external capital across these ventures: **multiple millions** (Y Combinator-backed Vena Vitals plus 123 Baby Box's $1.3M plus the others' disclosed funding).
 

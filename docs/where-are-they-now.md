@@ -46,6 +46,18 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Recognition:** Brian Leung received the "Best Alumni ANTrepreneur" award (UCI ANTrepreneur Awards). Featured in the UCI School of Social Sciences "Ready for Liftoff" alumni profile.
 - **Sources:** [innovation.uci.edu, March 2017](https://innovation.uci.edu/2017/03/201731uci-based-startup-bottlerocket-secures-over-200000-in-recent-funding/), [Irvine Standard](https://www.irvinestandard.com/2018/uci-launches-some-of-americas-top-college-startups/), [UCI School of Social Sciences "Ready for Liftoff"](https://www.socsci.uci.edu/newsevents/news/2018/2018-08-22-bottlerocket.php).
 
+### Mechanodontics - 2018 Beall 3rd place
+
+- **Status:** active company, behind-the-teeth orthodontic braces.
+- **Founded:** 2016 (predates the BBComp placement, which came in 2018).
+- **Co-founder:** James Wratten (graduate mathematics student) and the rest of the BBComp team (Zahra Mardy, Mahdi Abbaspour, Mehdi Roein-Peikar). The 2018 NVC entry credits an extended roster including "Ishita."
+- **Product:** revolutionary behind-the-teeth braces that considerably shorten treatment time, allow easier cleaning than traditional braces, and are more comfortable than other behind-the-teeth braces. Initial target market: adult patients in the United States.
+- **Major competition wins beyond BBComp:**
+  - **2018 Stella Zhang NVC Life Sciences 1st** ($10,000)
+  - **2019 University of Illinois Cozad New Venture Challenge Grand Prize** ($25,000), April 10, 2019
+- **Press:** [Cozad press release](https://entrepreneurship.illinois.edu/news/30694), [News-Gazette coverage](https://www.news-gazette.com/news/mechanodontics-behind-the-teeth-braces-capture-cozad-challenge/article_13838ea9-a91d-51e9-947c-aa6078a7e840.html), [YouTube interview](https://www.youtube.com/watch?v=hBB8u4IJcRY), [Proactive Investors profile](https://www.proactiveinvestors.com/companies/news/311838/mechanodontics-trying-to-revolutionize-braces-11838.html).
+- **Note:** Mechanodontics is one of only two BBComp-traceable ventures to have won a major out-of-state university competition (the other being Eupnea at Microsoft Imagine Cup). Likely relocated some operations to the UIUC ecosystem after the Cozad win.
+
 ### A Hundred Tiny Hands - 2014 Beall 2nd place
 
 - **Status:** active academic nonprofit co-op.
