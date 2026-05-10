@@ -30,7 +30,9 @@ Aggregated statistics computed from [data/bbcomp.json](../data/bbcomp.json) (las
 
 | Metric | Value |
 |--------|-------|
-| Unique team members named | 358 |
+| Unique team members named in BBComp | 350 |
+| Unique team members named in NVC (sister archive) | 187 |
+| Exact-name shared founders BBComp / NVC | 33 (34 with normalization) |
 | Founders profiled in [where-are-they-now.md](where-are-they-now.md) | 30+ |
 | Recurring faculty mentors profiled | 5 |
 | Current judges roster (Beall + Butterworth) | 25 (13 Beall, 12 Butterworth) |
@@ -47,10 +49,11 @@ Aggregated statistics computed from [data/bbcomp.json](../data/bbcomp.json) (las
 
 ## Companies Confirmed Active
 
-Three teams from the joint era have a verifiable, currently operating commercial entity:
+Four teams or founder follow-ons from the joint era have a verifiable, currently operating commercial entity:
 
 | Team | Year | Company | Funding signal |
 |------|------|---------|----------------|
+| **123 Baby Box** (founder of 2018 Butterworth 1st ZOOT) | 2018 | 123 Baby Box (123babybox.com) | **$1.2M+ pre-seed (oversubscribed)** + $1.3M total; investors XRC Labs, Sunstone Fund, SLC Angels, VC California Crescent, ex-Steve Madden CFO Mark Friedman, ex-Barnes & Noble CEO Demos Parneros |
 | **CenSyn** (2019 Beall 2nd) | 2019 | CenSyn Inc. | $105K Berkeley SkyDeck Seed (2021); pursuing FDA 510(k) |
 | **Leprendo** (2022 Butterworth 1st) | 2022 | Leprendo (leprendo.com) | $250K USDA grant (Dec 2024); ~$400K Y1 sales |
 | **Sentinel** (2024 Butterworth 1st) | 2024 | Sentinel by Spotter AI (sentinel.spotter.ai) | Commercial product; multiple competition wins |

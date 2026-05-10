@@ -8,6 +8,18 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 
 ## Verified incorporated companies (with funding history)
 
+### 123 Baby Box - founder of 2018 Butterworth 1st place (ZOOT)
+
+- **Status:** active venture-backed company.
+- **Founder:** Zarina Bahadur (UCI MIE '20). She was on the 2018 ZOOT BBComp Butterworth 1st-place team; later founded 123 Baby Box as part of the inaugural Master of Innovation and Entrepreneurship (MIE) program at the Paul Merage School.
+- **Site:** [123babybox.com](https://123babybox.com); [LinkedIn](https://www.linkedin.com/company/123babybox).
+- **Product:** AI-powered monthly subscription delivering age-tailored baby products (0-3 years).
+- **Funding:** **$1.2M+ pre-seed round (oversubscribed)**, total raised over $1.3M to date. Investors: XRC Labs, Sunstone Fund, Salt Lake City Angels, VC California Crescent fund, plus angel investors Mark Friedman (former Steve Madden executive) and Demos Parneros (former CEO of Barnes & Noble).
+- **Earlier wins:** $25,000 at the 2020 UCI Stella Zhang NVC (Grand Prize + Consumer Products 1st) - first MIE student to win the NVC. Plus a $50,000 TV pitch contest win.
+- **Revenue target:** Series A metrics of $100K monthly recurring revenue and $1M ARR (per April 2023 reporting).
+- **Press:** [TechCrunch coverage, March 2023](https://techcrunch.com/2023/03/13/123-baby-box-subscription-commerce/), [OC Business Journal](https://www.ocbj.com/oc-homepage/123-baby-box-raises-1-2m-pre-seed/), [Femtech Insider](https://femtechinsider.com/123-baby-box-re-seed/), [Authority Magazine interview](https://medium.com/authority-magazine/fresh-founders-zarina-bahadur-of-123-baby-box-on-the-unique-challenges-of-building-a-business-from-86dbe289b2e4), [Crunchbase profile](https://www.crunchbase.com/organization/123-baby-box).
+- **Sources for the BBComp/NVC trajectory:** [merage.uci.edu, June 2020](https://merage.uci.edu/news/2020/06/baby-box-wins-25,000-grand-prize-at-2020-new-venture-competition.html), [merage.uci.edu, April 2023 - $1.2M raise](https://merage.uci.edu/news/2023/04/123-Baby-Box-raises-oversubscribed-round-of-1.2-million.html).
+
 ### CenSyn Inc. - 2019 Beall 2nd place (CenSyn)
 - **Status:** active incorporated company.
 - **Founded:** 2019, immediately after the BBComp 2nd-place placement.
