@@ -75,7 +75,9 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Funding:**
   - **$300,000 Phase I SBIR grant** from the U.S. Small Business Administration via the National Institutes of Health (October 2017).
   - **$2.2M seed round in August 2021**.
-- **Press:** [innovation.uci.edu, October 2017 - $300K NIH grant](https://innovation.uci.edu/2017/10/uci-startup-receives-300000-grant-from-national-institutes-of-health/), [news.uci.edu "Wound warriors"](https://news.uci.edu/2018/01/22/wound-warriors/), [innovation.uci.edu BioAccel Solutions Challenge profile](https://innovation.uci.edu/2016/11/20161129making-waves-syntr-health-technologies/).
+  - **$10M raise announced March 2023** (per Orange County Business Journal); funds support sales team hiring and marketing in 2023, expansion anticipated in 2024.
+- **Headquarters:** Irvine, at University Lab Partners (UCI Research Park).
+- **Press:** [innovation.uci.edu, October 2017 - $300K NIH grant](https://innovation.uci.edu/2017/10/uci-startup-receives-300000-grant-from-national-institutes-of-health/), [news.uci.edu "Wound warriors"](https://news.uci.edu/2018/01/22/wound-warriors/), [innovation.uci.edu BioAccel Solutions Challenge profile](https://innovation.uci.edu/2016/11/20161129making-waves-syntr-health-technologies/), [engineering.uci.edu "$10M raise" March 2023](https://engineering.uci.edu/syntr-health-raising-10m-fat-processing-device).
 
 ### Mechanodontics - 2018 Beall 3rd place
 
@@ -212,6 +214,13 @@ These are individual-level signals, not company outcomes - but they help future 
 | Ahmed Zobi | Syntr Health, 2017 Beall 3rd | CEO and Co-Founder of Syntr Health Technologies (active, $2.2M seed) |
 | Bien Gutierrez | HUMBLE Technologies, 2018 Beall 2nd | CEO and Principal Inventor of HUMBLE Technologies (active Delaware C corp) |
 | James Wratten | Mechanodontics, 2018 Beall 3rd | Co-founder of Mechanodontics (active; UIUC Cozad Grand Prize winner) |
+| Aryan Agarwal | forMED 2021 Beall 1st (and AllerChain 2019 finalist) | **R&D Engineer at Acorai** (Swedish heart-failure monitoring startup; €4.1M seed Jan 2024 + FDA Breakthrough Device Designation) |
+| Ruben Shakya | forMED 2021 Beall 1st (and AllerChain 2019 finalist) | R&D / Quality Engineer II at Edwards Lifesciences |
+| Ethan Kirkley | Krobotech 2017 Beall 1st (lead) | Mechanical Engineer II / R&D Engineering Manager at Thermo Fisher Scientific (also previously Cytiva, GE Healthcare, Grip6) |
+| Caitlyn Yang | Grasshopper Fund 2021 Butterworth 1st | Mechanical Engineer at SpaceX (Los Angeles); previously Lead Launch Vehicles Engineer at UCI Rocket Project (Liquids) |
+| Adrian Bahani | Syntr Health 2017 Beall 3rd + HemaDynamics 2019 Beall 3rd | Riordan MBA Fellow '24 at UCLA Anderson School of Management; patent inventor with Bernard Choi on laser-speckle imaging |
+| Ting-Wei Lin | ZOOT 2018 Butterworth 1st | UX Designer at Cathay Financial Holding (Taiwan) |
+| Sanghyun Byun | FoodPool 2022 Butterworth 2nd | AI Researcher at LG Electronics North America |
 | Christine Ly | NeoMold, 2024 Beall 1st | PhD student, USC BioMEMS lab (since Aug 2024) |
 | Andrew Cai | Florence, 2025 Butterworth 1st | At Virio (per LinkedIn); relationship to Florence unverified |
 | Shushrruth Sai Srinivasan | Two Cube, 2024 Butterworth 2nd | PhD student in CS at UCI; peer-reviewed publications in single-cell epigenetics |
