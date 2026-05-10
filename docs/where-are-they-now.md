@@ -239,6 +239,7 @@ These are individual-level signals, not company outcomes - but they help future 
 | Kausthub Raj Jadhav | FASHENDS 2016 + Pippy 2017 (3rd) + Float Robotics 2019 (multi-year) | **Product Engineering Manager at LILA Games (Bangalore)**; previously Meta, Pathrise, Varsity Tutors, Loop. **Co-founded SoCal's largest AI non-profit, AI@UCI; served as President** |
 | Felipe Augusto de Souza | Waytrade 2015 Beall finalist + SmartRide 2016 Butterworth finalist | **Postdoctoral Appointee at Argonne National Laboratory** researching Connected and Autonomous Vehicles (CAVs); UCI Transportation Systems Engineering PhD (2018) |
 | Dan Ta | Leprendo 2022 Butterworth 1st | Co-Founder at Leprendo (active); previously sold $300K in online dates business pre-Leprendo |
+| Yerlan Turekeshov | Ant-mApp 2014 Butterworth 3rd | Notre Dame ESTEEM (Engineering, Science, and Technology Entrepreneurship Excellence) Master's Program (2015 cohort); worked on Gailey Eye Clinics industry-sponsored project |
 | Christine Ly | NeoMold, 2024 Beall 1st | PhD student, USC BioMEMS lab (since Aug 2024) |
 | Andrew Cai | Florence, 2025 Butterworth 1st | At Virio (per LinkedIn); relationship to Florence unverified |
 | Shushrruth Sai Srinivasan | Two Cube, 2024 Butterworth 2nd | PhD student in CS at UCI; peer-reviewed publications in single-cell epigenetics |

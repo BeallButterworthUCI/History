@@ -43,7 +43,7 @@ Source: [bbcomp.tech.uci.edu/judges/](https://bbcomp.tech.uci.edu/judges/).
 | Jason Odden | IT Evangelist | Splunk |
 | Neil Sahota | IBM Master Inventor; United Nations AI Advisor; CIO at UCI | UCI B.S. '00 ICS, MBA '03 |
 | Arie Shen | Founder | Madas; UCI BSc '88 Math/ICS, MBA '93 |
-| Maor Aknin | Founder & CEO | Cyber Way Information Security; UCI B.S. '14 CS |
+| Maor Aknin | Founder & CEO | Cyber Way Information Security Ltd.; UCI B.S. '14 CS; **16+ years cybersecurity experience, started in IDF (Israeli Defense Forces) cyber unit as CERT team leader**; previously Cyber Security Consultant at PwC Israel; clients include PwC, Elmar, Tilly's |
 | Jojo Seva | CIO | Mission Federal Credit Union; UCI Data Science '21, Blockchain '19, MBA '12 |
 | Kevin Kinsey | VP Global Distribution Partnerships, ActiveVideo; founder of Netreo | - |
 
