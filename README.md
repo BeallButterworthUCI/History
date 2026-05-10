@@ -395,10 +395,13 @@ The BBComp does not exist in isolation. It is one of four flagship student compe
 
 These files extend the README with material that doesn't fit cleanly into the per-year tables but is still part of the BBComp record:
 
+- [docs/timeline.md](docs/timeline.md) - the chronological narrative arc of the competition from ~2003 through 2026, organized by era (Butterworth-only, the inaugural joint edition, IoT and AR / VR years, the higher-stakes era, pandemic disruption, the Brazil era, the deep-tech era).
 - [docs/patrons.md](docs/patrons.md) - full biographies and philanthropic timelines for Paul and Jo Butterworth and for Donald R. Beall and the Beall Family Foundation.
 - [docs/judges-and-mentors.md](docs/judges-and-mentors.md) - the current Beall and Butterworth judges roster, the 2014 inaugural panel, and the 2014 mentor list.
+- [docs/faculty-mentors.md](docs/faculty-mentors.md) - profiles of the recurring UCI faculty mentors (Khine, Patterson, Jain, Harris, Nenadic) and their BBComp mentoring history.
 - [docs/connected-programs.md](docs/connected-programs.md) - the broader UCI student-innovation graph (Wayfinder, Blackstone LaunchPad at UCI, ANTrepreneur Center, the Stella Zhang New Venture Competition, the PUCRS partnership, and external follow-on competitions).
 - [docs/where-are-they-now.md](docs/where-are-they-now.md) - verified post-competition outcomes for BBComp teams and individual founders, with explicit gaps for teams whose status we couldn't confirm.
+- [docs/glossary.md](docs/glossary.md) - definitions of terms, sentinel values, prize-tier history, and acronyms used throughout this archive, written for readers new to UCI or BBComp.
 
 The structured machine-readable mirror of all per-year data lives in [data/bbcomp.json](data/bbcomp.json).
 
