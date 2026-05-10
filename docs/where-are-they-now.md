@@ -223,6 +223,12 @@ These are individual-level signals, not company outcomes - but they help future 
 | Adrian Bahani | Syntr Health 2017 Beall 3rd + HemaDynamics 2019 Beall 3rd | Riordan MBA Fellow '24 at UCLA Anderson School of Management; patent inventor with Bernard Choi on laser-speckle imaging |
 | Ting-Wei Lin | ZOOT 2018 Butterworth 1st | UX Designer at Cathay Financial Holding (Taiwan) |
 | Sanghyun Byun | FoodPool 2022 Butterworth 2nd | AI Researcher at LG Electronics North America |
+| Sophia Lin | A Hundred Tiny Hands, 2014 Beall 2nd | **Clinical Affairs and Project Manager at Vena Vitals** (Khine's later startup) - likely tracing the same Khine-lab pipeline that produced Vena Vitals from Qardiac |
+| Cesar Ghali | BeatPool, 2014 Butterworth 2nd | Software Engineer at Google; UCI CS PhD (April 2012-June 2016) on content-centric networking |
+| Bao Pham | FWMAV, 2018 Beall 1st | Mechanical Engineer at Cellens Inc |
+| Forest Agostinelli | WeGroove, 2016 Butterworth 2nd (lead) | **Assistant Professor at University of South Carolina** (Computer Science and Engineering); research in AI, Deep Learning, Reinforcement Learning, Heuristic Search; 2,100+ citations |
+| Roger Lloret-Batlle | Waytrade, 2015 Beall finalist | Assistant Professor at MIT Global SCALE Network (Ningbo Institute for Supply Chain Innovation); UCI PhD in Transportation Engineering; previously Algorithm Engineer at DiDi Smart Transportation |
+| Yurina Tamura | Florence, 2025 Butterworth 1st | UCI Paul Merage School BBA student (2023-2026) - the Florence team is cross-disciplinary (ICS + Merage Business) |
 | Christine Ly | NeoMold, 2024 Beall 1st | PhD student, USC BioMEMS lab (since Aug 2024) |
 | Andrew Cai | Florence, 2025 Butterworth 1st | At Virio (per LinkedIn); relationship to Florence unverified |
 | Shushrruth Sai Srinivasan | Two Cube, 2024 Butterworth 2nd | PhD student in CS at UCI; peer-reviewed publications in single-cell epigenetics |
