@@ -21,6 +21,13 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Incubator:** UCI Beall Applied Innovation Wayfinder.
 - **Sources:** [innovation.uci.edu profile, Jan 2021](https://innovation.uci.edu/2021/01/censyn-brings-brain-health-to-front-of-mind/), [innovation.uci.edu, Aug 2019](https://innovation.uci.edu/2019/08/dont-forget-the-brain-censyn-aims-to-commercialize-neuro-medtech-device/), [Crunchbase](https://www.crunchbase.com/organization/censyn), [PitchBook profile](https://pitchbook.com/profiles/company/438447-61).
 
+### Two Cube — 2024 Butterworth 2nd place
+- **Status:** active follow-on competition track; commercialization path being explored.
+- **Team:** Dylan Riffle (also of 2022 Leprendo), Shushrruth Sai Srinivasan.
+- **Follow-on win:** **1st place + $10,000 in the Stella Zhang NVC 2024 Life Science track** ("the autonomous bioinformatician" — Large Language Models for scRNA code generation and analysis).
+- **Founder profile:** Shushrruth Sai Srinivasan is a PhD student in Computer Science at UCI; has published peer-reviewed research in single-cell epigenetic data analysis (scEpiLock, scENCORE) and presented at the 2025 Health Care Forecast Conference.
+- **Sources:** the 2024 Stella Zhang NVC results, the [2025 Health Care Forecast Conference YouTube presentation](https://www.youtube.com/watch?v=Rl6FrnNE_k4).
+
 ### Sentinel → Spotter AI Sentinel — 2024 Butterworth 1st place (Sentinel)
 - **Status:** **commercialized as Spotter AI's "Sentinel" platform** at [sentinel.spotter.ai](https://sentinel.spotter.ai/).
 - **Original team:** Cody He, Kevin Wu, Kyle Deck, Michael Ross, Natán Ampudia, Spike O'Carroll.
@@ -79,8 +86,9 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 ### NeoMold — 2024 Beall 1st place
 - **Site:** [neomold.uci.design](http://neomold.uci.design/).
 - **Publication:** UC eScholarship — [escholarship.org/uc/item/5fs7b1cr](https://escholarship.org/uc/item/5fs7b1cr); also a Samueli BME poster PDF at [engineering.uci.edu/files/1_bme_neomold.pdf](https://engineering.uci.edu/files/1_bme_neomold.pdf).
+- **Follow-on:** Stella Zhang NVC **top 10 of 125 teams** (400+ applicants); **top 2 in the Life Sciences track**.
 - **Signals:** product targets ~1 in 6,000 newborns with congenital ear deformities; affects up to 30% of newborns at birth in some form; disproportionately affects Hispanic, Native American, and Asian-Pacific Islander communities.
-- **Team backgrounds:** four BME students with diverse industry/research backgrounds. **Christine Ly** is now at the University of Southern California.
+- **Team backgrounds:** four BME students with diverse industry/research backgrounds. **Christine Ly** graduated UCI BME in June 2024 and is now a **PhD student at the USC BioMEMS lab** (August 2024 onward).
 
 ### Idene Medical — 2022 Beall 1st place
 - **Publication:** UC eScholarship — [escholarship.org/uc/item/7b9348x2](https://escholarship.org/uc/item/7b9348x2).
@@ -105,7 +113,9 @@ These are individual-level signals, not company outcomes — but they help futur
 | Claire Livengood | Pulsera, 2023 Beall 1st | R&D Engineer / Project Engineer at Inari Medical |
 | Chidroop Iyyhappan | Eupnea, 2023 Butterworth 1st | Engineer at Meta |
 | Lily McGrale | forMED, 2021 Beall 1st | R&D Engineer II at Medtronic |
-| Christine Ly | NeoMold, 2024 Beall 1st | University of Southern California |
+| Christine Ly | NeoMold, 2024 Beall 1st | PhD student, USC BioMEMS lab (since Aug 2024) |
+| Andrew Cai | Florence, 2025 Butterworth 1st | At Virio (per LinkedIn); relationship to Florence unverified |
+| Shushrruth Sai Srinivasan | Two Cube, 2024 Butterworth 2nd | PhD student in CS at UCI; peer-reviewed publications in single-cell epigenetics |
 | Ayushi Hitesh Patel | CenSyn, 2019 Beall 2nd | Co-founder & CEO of CenSyn Inc. (active) |
 | Anirudh "Andy" Bhushan | CenSyn, 2019 Beall 2nd | Co-founder & business strategist of CenSyn Inc. |
 | Trevor Gray Silence | CenSyn, 2019 Beall 2nd | Co-founder of CenSyn Inc. |
@@ -116,12 +126,11 @@ These are individual-level signals, not company outcomes — but they help futur
 
 Several teams whose names appear prominently in the BBComp record do not have a verifiable public outcome at the time of writing — they may have shut down, never incorporated, pivoted privately, or simply not generated press. Listing them here so future contributors know what to dig into:
 
-- **Florence** (2025 Butterworth 1st) — name collision with the Generated Health "Florence AI Nurse" company (different entity); BBComp team's own status unverified.
+- **Florence** (2025 Butterworth 1st) — name collision with the Generated Health "Florence AI Nurse" company (different entity); BBComp team's own status unverified. Andrew Cai's LinkedIn lists current affiliation with **Virio**; whether this is a Florence-derived venture is unverified. Audrey Lu remains at UCI as ICS Student Council Events Chair.
 - **AINGELX** (2025 Butterworth 2nd)
 - **Vision Board** (2025 Butterworth 3rd)
 - **VeinGuard** (2025 Beall 2nd)
 - **REACH** (2025 Beall 3rd)
-- **Two Cube** (2024 Butterworth 2nd) — Dylan Riffle continues to compete; status as a separate company unverified.
 - **Biru** (2024 Butterworth 3rd)
 - **Instinct** (2024 Beall 2nd)
 - **PetPointDx** (2024 Beall 3rd)

@@ -36,6 +36,7 @@ ALLOWED_STATUSES = {
     "complete_unverified",
     "partial",
     "upcoming",
+    "in_progress",
     "cancelled",
 }
 

@@ -157,16 +157,18 @@ This repository exists because the institutional memory for student competitions
 ## 2026 Competition (Upcoming)
 
 **Edition:** 22nd annual Butterworth, 13th annual Beall.
-**Demo Day & Awards:** scheduled for May 2026.
-**Venue:** to be announced (recent ceremonies have alternated between the Calit2 Auditorium and The Cove @ UCI Beall Applied Innovation, 5270 California Ave, Irvine, CA 92617).
+**Demo Day & Awards:** **May 15, 2026, 10:00 AM – 3:00 PM PT.**
+**Venue:** The Cove @ UCI Beall Applied Innovation, 5270 California Ave, Irvine, CA 92617.
+**Submissions closed:** May 6, 2026.
 
 ### Confirmed structure (2026)
 
 - Two competitive tracks: **Butterworth Product Development** (ICS) and **Beall Student Design** (Engineering).
 - An **International Collaboration Prize** continuing the partnership with Pontifical Catholic University of Rio Grande do Sul (PUCRS), Brazil.
 - Standard placement prizes: $10,000 (1st) / $6,500 (2nd) / $3,500 (3rd) per track.
+- Workshop facilitators (winter–spring 2026): Jeff Kunzelman, Kurt Busch, Justin Sanders, Cynthia Kirkeby, Tony Crisp, plus Emma Bardin's "Science to Stories" bonus session.
 
-> Full results will be added after the May 2026 Grand Finale.
+> Full results will be added after the May 15, 2026 Grand Finale. See [years/2026.md](years/2026.md) for the complete 2026 cycle calendar.
 
 ## 2025 Competition
 
