@@ -17,6 +17,9 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Funding:** **$1.2M+ pre-seed round (oversubscribed)**, total raised over $1.3M to date. Investors: XRC Labs, Sunstone Fund, Salt Lake City Angels, VC California Crescent fund, plus angel investors Mark Friedman (former Steve Madden executive) and Demos Parneros (former CEO of Barnes & Noble).
 - **Earlier wins:** $25,000 at the 2020 UCI Stella Zhang NVC (Grand Prize + Consumer Products 1st) - first MIE student to win the NVC. Plus a $50,000 TV pitch contest win.
 - **Revenue target:** Series A metrics of $100K monthly recurring revenue and $1M ARR (per April 2023 reporting).
+- **2024-2025 growth metrics:** **grew 245% over the last year**, **quadrupled revenue**, average **14% monthly growth rate**. **Signed a deal with one of the largest breast pump distributors in the country to send boxes to 1 million customers.**
+- **Next round:** plans to launch a **~$10M fundraising round** over the next 18-20 months.
+- **Founder quote:** "2025 was our build year" (Bahadur).
 - **Press:** [TechCrunch coverage, March 2023](https://techcrunch.com/2023/03/13/123-baby-box-subscription-commerce/), [OC Business Journal](https://www.ocbj.com/oc-homepage/123-baby-box-raises-1-2m-pre-seed/), [Femtech Insider](https://femtechinsider.com/123-baby-box-re-seed/), [Authority Magazine interview](https://medium.com/authority-magazine/fresh-founders-zarina-bahadur-of-123-baby-box-on-the-unique-challenges-of-building-a-business-from-86dbe289b2e4), [Crunchbase profile](https://www.crunchbase.com/organization/123-baby-box).
 - **Sources for the BBComp/NVC trajectory:** [merage.uci.edu, June 2020](https://merage.uci.edu/news/2020/06/baby-box-wins-25,000-grand-prize-at-2020-new-venture-competition.html), [merage.uci.edu, April 2023 - $1.2M raise](https://merage.uci.edu/news/2023/04/123-Baby-Box-raises-oversubscribed-round-of-1.2-million.html).
 
@@ -93,9 +96,17 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 
 ### Mechanodontics → BRIUS - 2018 Beall 3rd place
 
-- **Status:** active company, **rebranded as BRIUS**.
-- **Now operating as:** the BRIUS System - a CAD/CAM orthodontic treatment system that moves teeth independently and autonomously. Reduces overall treatment time by half, cuts the number of visits from 25 to 3, and reduces pain while increasing oral hygiene.
-- **Co-founder Mehdi Peikar** (BBComp Mehdi Roein-Peikar): completed a three-year orthodontics residency at UCLA in 2019; named "Wired In" entrepreneur by News-Gazette.
+- **Status:** active company, **rebranded as BRIUS Technologies**. **Now the highest-funded BBComp-traceable venture on record at $46.2M total raised.**
+- **Now operating as:** the BRIUS System - a CAD/CAM orthodontic treatment system with the patented **Brava™ Independent Mover** that enables independent, programmed, simultaneous tooth movements. Reduces overall treatment time by half, cuts the number of visits from 25 to 3, and reduces pain while increasing oral hygiene.
+- **Headquarters:** Carrollton, TX.
+- **Founder:** Mehdi R. Peikar (BBComp Mehdi Roein-Peikar) in 2006 (so the company actually predates the BBComp placement by 12 years - Mechanodontics was the team name UCI students used for the 2018 BBComp; BRIUS is the corporate vehicle that has existed since 2006).
+- **CEO:** Lea Ellermeier - serial entrepreneur, previously co-founded Lingualcare (acquired by 3M in November 2007).
+- **Co-founder Mehdi Peikar:** completed a three-year orthodontics residency at UCLA in 2019; named "Wired In" entrepreneur by News-Gazette.
+- **Funding ($46.2M total, 19 investors):**
+  - **Series B: $19.5M** announced May 6, 2025, led by **View Ventures** with participation from **Sonder Capital, Invus, SUM Ventures, Tech Wildcatters**
+  - Other investors: Cheyenne Partners, Evolution VC Partners, GT Healthcare Capital Partners
+  - Institutional investors include **SeedFolio, Startup UCLA, QB3**
+- **Press:** [BRIUS press release on $19.5M Series B](https://bravabraces.com/brius-technologies-raises-19-point-5-million-in-initial-closing-of-series-b-financing/), [PitchBook profile](https://pitchbook.com/profiles/company/227480-59), [Crunchbase profile](https://www.crunchbase.com/organization/brius-e502).
 - **Founded:** 2016 (predates the BBComp placement, which came in 2018).
 - **Co-founder:** James Wratten (graduate mathematics student) and the rest of the BBComp team (Zahra Mardy, Mahdi Abbaspour, Mehdi Roein-Peikar). The 2018 NVC entry credits an extended roster including "Ishita."
 - **Product:** revolutionary behind-the-teeth braces that considerably shorten treatment time, allow easier cleaning than traditional braces, and are more comfortable than other behind-the-teeth braces. Initial target market: adult patients in the United States.
@@ -197,7 +208,9 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Publication:** UC eScholarship - [escholarship.org/uc/item/5fs7b1cr](https://escholarship.org/uc/item/5fs7b1cr); also a Samueli BME poster PDF at [engineering.uci.edu/files/1_bme_neomold.pdf](https://engineering.uci.edu/files/1_bme_neomold.pdf).
 - **Follow-on:** Stella Zhang NVC **top 10 of 125 teams** (400+ applicants); **top 2 in the Life Sciences track**.
 - **Signals:** product targets ~1 in 6,000 newborns with congenital ear deformities; affects up to 30% of newborns at birth in some form; disproportionately affects Hispanic, Native American, and Asian-Pacific Islander communities.
-- **Team backgrounds:** four BME students with diverse industry/research backgrounds. **Christine Ly** graduated UCI BME in June 2024 and is now a **PhD student at the USC BioMEMS lab** (August 2024 onward).
+- **Team backgrounds:** four BME students with diverse industry/research backgrounds.
+  - **Christine Ly** - UCI BME B.S. (June 2024) + Biological Sciences minor; **Regents' and Deans' Scholar**; specializations in Biophotonics + Micro and Nano Biomedical Engineering. Selected out of **300+ applicants to USC BME PhD program** with prestigious USC Annenberg/Viterbi Fellowship; joined USC BioMEMS lab; focus on neural medical device development. Won the **2024 Chancellor's Award for Excellence in Undergraduate Research**, the UCI **NSF I-Corps Award**, and the UCI ANTrepreneur Center Student Startup Fund. Earlier: 1st place in Consumer Services at the 2021 UCI New Venture Competition.
+  - **Christine Linh Nguyen** - now at PROCEPT BioRobotics (medical device company).
 
 ### Idene Medical - 2022 Beall 1st place
 - **Publication:** UC eScholarship - [escholarship.org/uc/item/7b9348x2](https://escholarship.org/uc/item/7b9348x2).
