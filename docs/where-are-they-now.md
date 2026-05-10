@@ -56,6 +56,18 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Recognition beyond BBComp:** **2nd place + $750 in the Elevator Pitch category at Texas Christian University's 2018 Values and Ventures Competition**.
 - **Press:** [innovation.uci.edu, October 2018](http://innovation.uci.edu/2018/10/a-little-goes-a-long-way-with-the-student-startup-fund/), [LinkedIn company page](https://www.linkedin.com/company/humbleinc).
 
+### Syntr Health Technologies - 2017 Beall 3rd place
+
+- **Status:** **active commercial company with $2.5M+ in disclosed funding**.
+- **Founded:** 2016. The Syntrfuge concept was conceived during a senior-year class in 2015.
+- **Site:** [syntrhealth.com](https://syntrhealth.com/about/our-team/); [LinkedIn](https://www.linkedin.com/in/ahmedzobi/); [Preqin profile](https://www.preqin.com/data/profile/asset/syntr-health-technologies-inc-/511496).
+- **Founders:** **Ahmed Zobi (CEO)**, Hugo Salas, Justin Stovner (the original 2017 BBComp Beall 3rd team).
+- **Product:** **Syntrfuge** - an automated fat-processing system. A patient's own fat cells are extracted, activated, and re-injected near a damaged area in under an hour, spurring growth of healthy new tissue. Targeted indications: facial fat loss, knee osteoarthritis, and diabetic foot ulcers.
+- **Funding:**
+  - **$300,000 Phase I SBIR grant** from the U.S. Small Business Administration via the National Institutes of Health (October 2017).
+  - **$2.2M seed round in August 2021**.
+- **Press:** [innovation.uci.edu, October 2017 - $300K NIH grant](https://innovation.uci.edu/2017/10/uci-startup-receives-300000-grant-from-national-institutes-of-health/), [news.uci.edu "Wound warriors"](https://news.uci.edu/2018/01/22/wound-warriors/), [innovation.uci.edu BioAccel Solutions Challenge profile](https://innovation.uci.edu/2016/11/20161129making-waves-syntr-health-technologies/).
+
 ### Mechanodontics - 2018 Beall 3rd place
 
 - **Status:** active company, behind-the-teeth orthodontic braces.
@@ -185,6 +197,11 @@ These are individual-level signals, not company outcomes - but they help future 
 | Claire Livengood | Pulsera, 2023 Beall 1st | R&D Engineer / Project Engineer at Inari Medical |
 | Chidroop Iyyhappan | Eupnea, 2023 Butterworth 1st | Engineer at Meta |
 | Lily McGrale | forMED, 2021 Beall 1st | R&D Engineer II at Medtronic |
+| Louai Labanieh | CeleriBio, 2016 Beall 3rd (lead) | **Siebel Scholar at Stanford (Cochran Lab); co-founder of CARGO Therapeutics; now at Mount Sinai Icahn School of Medicine** |
+| Erick Kusnadi | Sonder VR, 2016 Butterworth 1st (lead) | Software Engineer at Capital Group / American Funds |
+| Ahmed Zobi | Syntr Health, 2017 Beall 3rd | CEO and Co-Founder of Syntr Health Technologies (active, $2.2M seed) |
+| Bien Gutierrez | HUMBLE Technologies, 2018 Beall 2nd | CEO and Principal Inventor of HUMBLE Technologies (active Delaware C corp) |
+| James Wratten | Mechanodontics, 2018 Beall 3rd | Co-founder of Mechanodontics (active; UIUC Cozad Grand Prize winner) |
 | Christine Ly | NeoMold, 2024 Beall 1st | PhD student, USC BioMEMS lab (since Aug 2024) |
 | Andrew Cai | Florence, 2025 Butterworth 1st | At Virio (per LinkedIn); relationship to Florence unverified |
 | Shushrruth Sai Srinivasan | Two Cube, 2024 Butterworth 2nd | PhD student in CS at UCI; peer-reviewed publications in single-cell epigenetics |
