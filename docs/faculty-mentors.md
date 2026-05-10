@@ -21,6 +21,10 @@ A handful of UCI faculty members have mentored multiple BBComp teams - some acro
   - 2014 Beall 2nd - **A Hundred Tiny Hands** (children's Inventor's Toolboxes; now active nonprofit at 100tinyhands.org)
 - **BBComp founder co-foundings:**
   - **Vena Vitals** (2019 Beall 1st Qardiac team Joshua Kim) - this is the only confirmed instance of a BBComp faculty mentor going on to co-found a venture-backed company with a BBComp competitor.
+- **BBComp competitors who became Khine Lab PhD alumni** (per the published Khine Lab alumni page):
+  - From the 2014 A Hundred Tiny Hands team: **Sophia Lin** (Chemical Engineering PhD; now Clinical Affairs and Project Manager at Vena Vitals); **Eugene Lee**; **Jolie McLane** (now **Jolie Nokes**)
+  - From the 2019 Qardiac team: **Joshua "Josh" Kim** (Materials Science and Engineering PhD; now CTO and Co-Founder of Vena Vitals); **Lancy Lin** (BME PhD); **En-Fan "Sophia" Chou** (BME PhD)
+  - This makes six BBComp competitors documented as Khine Lab PhD alumni - the densest faculty-to-PhD pipeline in the BBComp archive.
 - **Sources:** [engineering.uci.edu profile](https://engineering.uci.edu/users/michelle-khine), [Khine Lab Group site](https://shrink.eng.uci.edu/), [Wikipedia](https://en.wikipedia.org/wiki/Michelle_Khine), [Novoheart advisory board](https://www.novoheart.com/michelle-khine-phd).
 
 ## Prof. Don Patterson (Informatics)

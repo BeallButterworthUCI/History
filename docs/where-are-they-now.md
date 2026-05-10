@@ -232,7 +232,9 @@ These are individual-level signals, not company outcomes - but they help future 
 | Adrian Bahani | Syntr Health 2017 Beall 3rd + HemaDynamics 2019 Beall 3rd | Riordan MBA Fellow '24 at UCLA Anderson School of Management; patent inventor with Bernard Choi on laser-speckle imaging |
 | Ting-Wei Lin | ZOOT 2018 Butterworth 1st | UX Designer at Cathay Financial Holding (Taiwan) |
 | Sanghyun Byun | FoodPool 2022 Butterworth 2nd | AI Researcher at LG Electronics North America |
-| Sophia Lin | A Hundred Tiny Hands, 2014 Beall 2nd | **Clinical Affairs and Project Manager at Vena Vitals** (Khine's later startup) - likely tracing the same Khine-lab pipeline that produced Vena Vitals from Qardiac |
+| Sophia Lin | A Hundred Tiny Hands, 2014 Beall 2nd | **Clinical Affairs and Project Manager at Vena Vitals** (Khine's later startup); **Khine Lab PhD alumna** per published lab alumni page |
+| Eugene Lee | A Hundred Tiny Hands, 2014 Beall 2nd | **Khine Lab PhD alumnus** per published lab alumni page |
+| Jolie McLane (now **Jolie Nokes**) | A Hundred Tiny Hands, 2014 Beall 2nd | **Khine Lab PhD alumna** per published lab alumni page (name change to Nokes) |
 | Cesar Ghali | BeatPool, 2014 Butterworth 2nd | Software Engineer at Google; UCI CS PhD (April 2012-June 2016) on content-centric networking |
 | Bao Pham | FWMAV, 2018 Beall 1st | Mechanical Engineer at Cellens Inc |
 | Forest Agostinelli | WeGroove, 2016 Butterworth 2nd (lead) | **Assistant Professor at University of South Carolina** (Computer Science and Engineering); research in AI, Deep Learning, Reinforcement Learning, Heuristic Search; 2,100+ citations |
