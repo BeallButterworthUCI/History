@@ -44,7 +44,7 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 
 - **Status:** active venture-backed company.
 - **Original BBComp team:** 2016 Butterworth finalist BottleRocket (Brian Leung as solo / lead).
-- **Commercial team:** **Arthur Avetisov** (CEO and Co-Founder), **Brian Leung** (COO and Co-Founder), **Malik Ahmad** (Co-Founder and CMO).
+- **Commercial team:** **Arthur Avetisov** (CEO and Co-Founder, UCI Political Science and Economics '15), **Brian Leung** (COO and Co-Founder, UCI International Studies '16), **Malik Ahmad** (Co-Founder and CMO). Leung and Avetisov met through UCI's **Delta Sigma Pi** business fraternity. **Won the 2015 ANTrepreneur of the Year Award** from the ANTrepreneur Center (then Blackstone LaunchPad).
 - **Product:** the first on-demand pickup service that rewards users for recycling at home.
 - **Funding:** **$240,000 from MuckerLab** (Santa Monica) plus **$20,000 from Dorm Room Fund** = **$260,000+ total raised**.
 - **Incubator:** Cove Share (now Wayfinder) at UCI Beall Applied Innovation.
@@ -312,6 +312,10 @@ These are individual-level signals, not company outcomes - but they help future 
 | Christine Linh Nguyen | NeoMold, 2024 Beall 1st | **Quality Engineer NPI at PROCEPT BioRobotics** (commercial-stage surgical-robotics company, AQUABEAM System for minimally-invasive urology); UCI BME B.S. June 2024 + minor in Biological Sciences; **Stanford MS in Bioengineering (2024-2025)**; prior internships/co-ops at Terumo Neuro, UC Irvine, Medtronic |
 | Ke Jing | CrewView, 2018 Butterworth 2nd | **Product Manager at PICO at ByteDance** (XR developer technologies and tools); UCI Informatics PhD via the Transformative Play Lab (research in AR/MR/Game Design/HCI); previously **Software Engineer at Unity on the XR Interaction Toolkit** and Tech Lead at **Genies** (avatar applications); speaker at HarvardXR Conference 2023; also developed *Magia Transformo: The Dance of Transformation*, a real-world multiplayer witchcraft game using mixed reality |
 | Sky Faber | BeatPool (Team Sprout), 2014 Butterworth 2nd | At **Grab** (Southeast Asian super-app / mobility tech); UCI CS BS |
+| Ekin Oguz | BeatPool (Team Sprout), 2014 Butterworth 2nd | At **Google** (LinkedIn `ekinoguz`); UCI CS PhD-track in 2014 with research in security and privacy; published 2014 work on authorship linkability and stylometric analysis of tweets |
+| Derek Omuro | Sparky / Blueberry 2014 Butterworth 1st + ARIS 2015 Beall finalist | Personal portfolio at [domuro.com](http://www.domuro.com); also won **2013 UCI Med AppJam 1st place ($1K)** with team Berry (diabetes-logging app); shipped multiple iOS/Django/Node.js/Java side projects during the 2014 cycle |
+| Aaron Soto | COMPAS + Bottles, 2017 Butterworth finalists | **UCI MHCID graduate (2017)**; was **Chief Experience Officer** on the COMPAS NVC pitch; now at **SHI International Corp.** |
+| Tushar Dhadiwal | NP-Compete, 2017 combined-track finalist (lead) | **At Microsoft**; previously Senior Software Development Specialist at Tata Communications; built a tf-idf + PageRank search engine for ics.uci.edu (B+ tree inverted index, query latency 80s → 0.28s) |
 | Adelanwa Adesanya | AirNotes, 2017 combined-track finalist | **HealthTech Entrepreneur and Lecturer of Entrepreneurship at USC** |
 | Hengji Chen | CenSyn, 2019 Beall 2nd | DCP Associate at **Duke Capital Partners** (early-stage venture investments) |
 | Raj Parekh | CenSyn, 2019 Beall 2nd | At **Bain & Company** + **LBS '25** (London Business School). UCI 2019 triple major: quantitative economics, data science, mathematics + innovation/entrepreneurship minor. Co-founded UCI Undergraduate Data Science Association (UDSA); founded UCI's 180 Degrees Consulting branch; won **Distinguished Anteater Award** |
