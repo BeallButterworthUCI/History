@@ -254,7 +254,7 @@ These are individual-level signals, not company outcomes - but they help future 
 | Bao Pham | FWMAV, 2018 Beall 1st | Mechanical Engineer at Cellens Inc |
 | Khwaja Hassan Ahmad | Tag Team, 2016 Beall 1st | Engineer at Qualcomm |
 | Spike O'Carroll | Sentinel, 2024 Butterworth 1st | **Software Engineer at SpaceX** building Starlink payments infrastructure; UCI CS grad (3.95 GPA); **Founder of Dispatch AI** (grants from OpenAI, Intel, Skydeck, Mistral); creator of **Libreddit / Redlib** (4M+ monthly active users); built Peacock Browser (30K downloads); **$130K+ in prize winnings** across hackathons and startup competitions |
-| Caitlyn Yang | Grasshopperfund, 2021 Butterworth 1st | Performance Engineer at SpaceX |
+| Caitlyn Yang | Grasshopperfund, 2021 Butterworth 1st | **Mechanical Engineer at SpaceX (Los Angeles)**, PE-licensed; UCI ME undergrad; founded **two startups** (Grasshopperfund and StartSmart); UCI Rocket Project (Liquids) Solids Engineer (2020-21), Operations Lead (2021-22), and **Lead Launch Vehicles Engineer (2022-23)** |
 | Claire Livengood | Pulsera, 2023 Beall 1st | R&D Engineer / Project Engineer at Inari Medical |
 | Chidroop Iyyhappan | Eupnea, 2023 Butterworth 1st | Engineer at Meta |
 | Lakshmi Vibhu Narke | Eupnea, 2023 Butterworth 1st | **Software Engineer at Microsoft**; UCI MS in Computer Science (2022-2023); previously SDE Intern at Amazon; UCI Data & Technology Fellow (Web3 / metaverse class); attended Microsoft Build conference |
