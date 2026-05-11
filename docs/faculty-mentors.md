@@ -13,7 +13,7 @@ A handful of UCI faculty members have mentored multiple BBComp teams - some acro
   - **Fluxion Biosciences** (San Francisco; spun from her graduate-school dissertation work on single-cell electroporation)
   - **Novoheart** (also serves as Scientific Advisory Board Member; cardiac modeling technology)
   - **Vena Vitals** (Y Combinator-backed; co-founded 2019 with Joshua Kim and Ray Liu; commercialized the Qardiac BBComp 2019 winner technology)
-  - **Makani Science** (co-founded 2019 with her former doctoral student **Michael Chu**; bandage-sized respiratory monitor patch made from Shrinky Dinks; **first-generation device under FDA review as of June 2024**, preparing for commercial launch by end of 2025)
+  - **Makani Science** (co-founded 2019 with her former doctoral student **Michael Chu**, who now serves as CTO; bandage-sized respiratory monitor patch made from Shrinky Dinks; **FDA 510(k) clearance received April 2, 2025** for the Makani Respiratory Monitor; **$1.1M NIH Catalyze grant** awarded; **commercial launch targeted by end of 2025**; origin story: Khine conceived the wearable respiratory sensor after her newborn son had a collapsed lung that went unmonitored)
   - Plus 1-2 additional startups not yet publicly identified.
 - **Honors:** 2009 MIT Technology Review TR35 Award (Top 35 Innovators Under 35 in the world); 2011 Marie Claire Magazine Women on Top Awards.
 - **BBComp mentees:**
