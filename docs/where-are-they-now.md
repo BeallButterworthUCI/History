@@ -263,6 +263,8 @@ These are individual-level signals, not company outcomes - but they help future 
 | Erick Kusnadi | Sonder VR, 2016 Butterworth 1st (lead) | **Solutions Engineer III at Capital Group / American Funds** (Irvine); CS degree from Fullerton College; previously Senior Digital Analyst at Accenture (Oracle BPM, Java Spring) |
 | Sadaf Mirnia | CeleriBio, 2016 Beall 3rd | **Senior Supplier Quality Engineer at Medtronic** |
 | Brandon Tsuge | Red Lion Robotics, 2016 Beall 2nd | **Lecturer in UCI's Department of Mechanical and Aerospace Engineering**; Doctor of Engineering; PE-licensed Senior Mechanical Engineer; published research on linkage systems for gait-cycle rehabilitation robotics; also at Zymo Research Corp |
+| Kyle Deck | Sentinel, 2024 Butterworth 1st | **Project Manager of UCI Rocket Project (Liquids)** for three years; led the team toward launching the second liquid rocket, **MOCH4 (May 2025)**, pursuing the collegiate methalox world record |
+| Dave Soliven | NasoCoustics, 2025 Beall 1st | 4th-year UCI BME undergraduate with a Management minor; **Activities Coordinator at BMES at UC Irvine** |
 | Olaoluwa Adesanya | AirNotes, 2017 Butterworth 2nd (lead) | Founder & CEO of Palmplug; also at Meta (P.Eng) |
 | Ahmed Zobi | Syntr Health, 2017 Beall 3rd | CEO and Co-Founder of Syntr Health Technologies (active, $2.6M total raised); EMBA; **8+ years in microfluidics and biomechanics**; April 2025 speaker at Sunstone Management grant workshop on SBIR/SBA grants |
 | Bien Gutierrez | HUMBLE Technologies, 2018 Beall 2nd | CEO and Principal Inventor of HUMBLE Technologies (active Delaware C corp) |
