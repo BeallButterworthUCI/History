@@ -72,6 +72,8 @@ A handful of UCI faculty members have mentored multiple BBComp teams - some acro
 - **BBComp mentees:**
   - 2024 Beall 1st - **NeoMold** (3D-printable customizable ear mold for neonates with congenital ear deformities)
   - 2025 Beall 2nd - **VeinGuard** (non-compressive cervical collar; co-medical-advisor with Dr. Yama Akbari)
+  - 2025 Beall 3rd - **REACH** (Andrew Eck is an Undergraduate Researcher in her lab)
+- **Density note:** King's lab is the documented faculty origin for **three Beall placements across the 2024-2025 cycle** (NeoMold 2024 1st, VeinGuard 2025 2nd, REACH 2025 3rd) - the densest two-year faculty-mentor BBComp run in this archive.
 - **Sources:** [UCI faculty profile](https://engineering.uci.edu/users/christine-king), [engineering.uci.edu AIMBE announcement, March 2025](https://engineering.uci.edu/news/2025/3/king-and-nenadic-named-aimbe-fellows).
 
 ## Other Recurring Mentors (Industry, Not Faculty)
