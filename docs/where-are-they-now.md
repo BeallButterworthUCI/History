@@ -264,12 +264,14 @@ These are individual-level signals, not company outcomes - but they help future 
 | Sadaf Mirnia | CeleriBio, 2016 Beall 3rd | **Senior Supplier Quality Engineer at Medtronic** |
 | Brandon Tsuge | Red Lion Robotics, 2016 Beall 2nd | **Lecturer in UCI's Department of Mechanical and Aerospace Engineering**; Doctor of Engineering; PE-licensed Senior Mechanical Engineer; published research on linkage systems for gait-cycle rehabilitation robotics; also at Zymo Research Corp |
 | Kyle Deck | Sentinel, 2024 Butterworth 1st | **Project Manager of UCI Rocket Project (Liquids)** for three years; led the team toward launching the second liquid rocket, **MOCH4 (May 2025)**, pursuing the collegiate methalox world record |
+| Kevin Wu | Sentinel, 2024 Butterworth 1st | UCI CS BS; based in Los Angeles; **previously at Stripe and Mercury**; Projects Committee Chair at UCI ICS Student Council |
+| Zarya Rajestari | PetPointDx, 2024 Beall 3rd | UCI MAE doctoral student in the Kulinsky BiNoM Lab; **research focus: centrifugal microfluidic (CD) diagnostic platforms**; 2023-24 UCI Graduate Innovation Fellow; co-author of papers on alginate fibers (Journal of Micro Nano-Manufacturing, 2023) and electrokinetic biological-cell manipulation (Micromachines, 2024) |
 | Dave Soliven | NasoCoustics, 2025 Beall 1st | 4th-year UCI BME undergraduate with a Management minor; **Activities Coordinator at BMES at UC Irvine** |
 | Patrick Wang | Foodpool, 2022 Butterworth 2nd | At **Voyage AI** (LinkedIn `wangpatrick57`) |
 | Arthur Lafrance | Foodpool, 2022 Butterworth 2nd | At **Meta** (San Francisco Bay Area); UCI CS; systems engineering, programming languages and compilers; experience with Rust, python-capi, C++ variadic templates (LinkedIn `a-lafrance`) |
 | Daryosh Vatanparvar | 3Drone / Smart Needle / Beauty Advisor, 2017 combined-track finalists | **Staff MEMS Design Engineer at TDK/InvenSense**; UCI PhD March 2022 in navigational-grade gyroscopes under Prof. Andrei Shkel; 2017 Holmes Fellowship recipient |
 | Hugo Salas | Syntr Health, 2017 Beall 3rd | **Co-Founder and VP of Business Development at Syntr Health Technologies** (active commercial company); UCI BME B.S. with micro/nano-technology specialization + Business Management minor |
-| Olaoluwa Adesanya | AirNotes, 2017 Butterworth 2nd (lead) | Founder & CEO of Palmplug; also at Meta (P.Eng) |
+| Olaoluwa Adesanya | AirNotes, 2017 Butterworth 2nd (lead) | Founder & CEO of Palmplug; also at Meta (P.Eng); **UCI CS BS, 2015-2017** |
 | Ahmed Zobi | Syntr Health, 2017 Beall 3rd | CEO and Co-Founder of Syntr Health Technologies (active, $2.6M total raised); EMBA; **8+ years in microfluidics and biomechanics**; April 2025 speaker at Sunstone Management grant workshop on SBIR/SBA grants |
 | Bien Gutierrez | HUMBLE Technologies, 2018 Beall 2nd | CEO and Principal Inventor of HUMBLE Technologies (active Delaware C corp) |
 | James Wratten | Mechanodontics, 2018 Beall 3rd | Co-founder of Mechanodontics (active; UIUC Cozad Grand Prize winner) |
@@ -316,6 +318,7 @@ These are individual-level signals, not company outcomes - but they help future 
 | Derek Omuro | Sparky / Blueberry 2014 Butterworth 1st + ARIS 2015 Beall finalist | Personal portfolio at [domuro.com](http://www.domuro.com); also won **2013 UCI Med AppJam 1st place ($1K)** with team Berry (diabetes-logging app); shipped multiple iOS/Django/Node.js/Java side projects during the 2014 cycle |
 | Aaron Soto | COMPAS + Bottles, 2017 Butterworth finalists | **UCI MHCID graduate (2017)**; was **Chief Experience Officer** on the COMPAS NVC pitch; now at **SHI International Corp.** |
 | Tushar Dhadiwal | NP-Compete, 2017 combined-track finalist (lead) | **At Microsoft**; previously Senior Software Development Specialist at Tata Communications; built a tf-idf + PageRank search engine for ics.uci.edu (B+ tree inverted index, query latency 80s → 0.28s) |
+| Maharshi Patel | Ant-mApp, 2014 Butterworth 3rd | **At Airbnb** (LinkedIn `maharshi-patel-7a2bb395`) |
 | Adelanwa Adesanya | AirNotes, 2017 combined-track finalist | **HealthTech Entrepreneur and Lecturer of Entrepreneurship at USC** |
 | Hengji Chen | CenSyn, 2019 Beall 2nd | DCP Associate at **Duke Capital Partners** (early-stage venture investments) |
 | Raj Parekh | CenSyn, 2019 Beall 2nd | At **Bain & Company** + **LBS '25** (London Business School). UCI 2019 triple major: quantitative economics, data science, mathematics + innovation/entrepreneurship minor. Co-founded UCI Undergraduate Data Science Association (UDSA); founded UCI's 180 Degrees Consulting branch; won **Distinguished Anteater Award** |
