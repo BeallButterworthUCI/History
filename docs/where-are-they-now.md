@@ -257,12 +257,12 @@ These are individual-level signals, not company outcomes - but they help future 
 | Caitlyn Yang | Grasshopperfund, 2021 Butterworth 1st | Performance Engineer at SpaceX |
 | Claire Livengood | Pulsera, 2023 Beall 1st | R&D Engineer / Project Engineer at Inari Medical |
 | Chidroop Iyyhappan | Eupnea, 2023 Butterworth 1st | Engineer at Meta |
-| Lakshmi Vibhu Narke | Eupnea, 2023 Butterworth 1st | At Microsoft (per LinkedIn); attended Microsoft Build conference |
+| Lakshmi Vibhu Narke | Eupnea, 2023 Butterworth 1st | **Software Engineer at Microsoft**; UCI MS in Computer Science (2022-2023); previously SDE Intern at Amazon; UCI Data & Technology Fellow (Web3 / metaverse class); attended Microsoft Build conference |
 | Lily McGrale | forMED, 2021 Beall 1st | R&D Engineer II at Medtronic |
 | Louai Labanieh | CeleriBio, 2016 Beall 3rd (lead) | **Siebel Scholar at Stanford (Cochran Lab); co-founder of CARGO Therapeutics; now at Mount Sinai Icahn School of Medicine** |
 | Erick Kusnadi | Sonder VR, 2016 Butterworth 1st (lead) | Software Engineer at Capital Group / American Funds |
 | Olaoluwa Adesanya | AirNotes, 2017 Butterworth 2nd (lead) | Founder & CEO of Palmplug; also at Meta (P.Eng) |
-| Ahmed Zobi | Syntr Health, 2017 Beall 3rd | CEO and Co-Founder of Syntr Health Technologies (active, $2.2M seed) |
+| Ahmed Zobi | Syntr Health, 2017 Beall 3rd | CEO and Co-Founder of Syntr Health Technologies (active, $2.6M total raised); EMBA; **8+ years in microfluidics and biomechanics**; April 2025 speaker at Sunstone Management grant workshop on SBIR/SBA grants |
 | Bien Gutierrez | HUMBLE Technologies, 2018 Beall 2nd | CEO and Principal Inventor of HUMBLE Technologies (active Delaware C corp) |
 | James Wratten | Mechanodontics, 2018 Beall 3rd | Co-founder of Mechanodontics (active; UIUC Cozad Grand Prize winner) |
 | Aryan Agarwal | forMED 2021 Beall 1st (and AllerChain 2019 finalist) | **R&D Engineer at Acorai** (Swedish heart-failure monitoring startup; **$13.1M total raised across 44 investors** including Bayer, KHP Ventures, Solardis Health Ventures, MedTech Innovator; €2.3M EIC grant + €10M follow-on offer; SAVE Sensor System for non-invasive intracardiac pressure monitoring; FDA Breakthrough Device Designation) |
@@ -323,7 +323,7 @@ These are individual-level signals, not company outcomes - but they help future 
 | Trevor Silence | CenSyn 2019 Beall 2nd | **CTO and Co-Founder of CenSyn Inc.** (active Berkeley SkyDeck-funded company); UCI BME 2019 graduate |
 | Raphael Francis Aguas | AllerChain 2019 finalist + forMED 2021 Beall 1st | **NSF Graduate Research Fellow** + 1st-year PhD student in BME at UCI focused on ocular devices and vision science. As undergrad, researched in Christine King's lab (suturing) and Khine's lab (SARS-CoV-2 electrochemical sensor). Co-founder of forMED Technologies |
 | Joshua "Josh" Kim | Qardiac 2019 Beall 1st | **CTO and Co-Founder of Vena Vitals**; UCI Materials Science and Engineering PhD with Prof. Michelle Khine as faculty advisor |
-| Ryan Hsu | Pulsera 2023 Beall 1st | At MicroVention-Terumo (medical device company); UCI BME B.S. magna cum laude + Master of Engineering in BME; previously interned at Wonderful Pistachios & Almonds |
+| Ryan Hsu | Pulsera 2023 Beall 1st | At MicroVention-Terumo (medical device company); UCI BME B.S. magna cum laude + Master of Engineering in BME; **R&D Intern at MicroVention-Terumo (June 2022 - April 2023)** before full-time conversion; previously interned at Wonderful Pistachios & Almonds |
 | Lakshmi Vibhu Narke | Eupnea, 2023 Butterworth 1st | At Microsoft (per LinkedIn); attended Microsoft Build conference |
 | Christine Ly | NeoMold, 2024 Beall 1st | PhD student, USC BioMEMS lab (since Aug 2024) |
 | Andrew Cai | Florence, 2025 Butterworth 1st | At **Virio** ("the AI marketer for vertical SaaS"; New York, NY; PitchBook profile); relationship to Florence team itself unverified |
