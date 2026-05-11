@@ -321,6 +321,12 @@ These are individual-level signals, not company outcomes - but they help future 
 | Aaron Soto | COMPAS + Bottles, 2017 Butterworth finalists | **UCI MHCID graduate (2017)**; was **Chief Experience Officer** on the COMPAS NVC pitch; now at **SHI International Corp.** |
 | Tushar Dhadiwal | NP-Compete, 2017 combined-track finalist (lead) | **At Microsoft**; previously Senior Software Development Specialist at Tata Communications; built a tf-idf + PageRank search engine for ics.uci.edu (B+ tree inverted index, query latency 80s → 0.28s) |
 | Maharshi Patel | Ant-mApp, 2014 Butterworth 3rd | **At Airbnb** (LinkedIn `maharshi-patel-7a2bb395`) |
+| Ahmed Gorashi | FASHENDS 2016 + KaamLo 2017 + Pippy-era teammate | **At Qualcomm** (LinkedIn `ahmed--gorashi`); collaborated with Kausthub Jadhav on the "Callenge" mobile exercise app featured on the STEMbility show in 2016 |
+| Andrew Tec | HyperXite, 2018 Beall finalist | **Control Lead** for HyperXite III (UCI's hyperloop pod team); UCI Electrical Engineering |
+| Mark Mekkittikul | HyperXite, 2018 Beall finalist | **Navigation Lead** for HyperXite III (UCI's hyperloop pod team) |
+| Krishen Bhan | SAFELY, 2018 Butterworth finalist | **At Uber** |
+| Lucas Erb | UnMail 2018 + Giv 2019 Butterworth 2nd | **Founder of AIExperts.com** (GenAI & AI-agent automation); LinkedIn "Top Voice in AI"; UCI CS specialized in Big Data; previously VP Blockchain at UCI |
+| Nisarg Shah | UnMail 2018 + Giv 2019 Butterworth 2nd | **Associate Software Engineer at Veeva Systems**; Master of Computer Science student at UCI |
 | Adelanwa Adesanya | AirNotes, 2017 combined-track finalist | **HealthTech Entrepreneur and Lecturer of Entrepreneurship at USC** |
 | Hengji Chen | CenSyn, 2019 Beall 2nd | DCP Associate at **Duke Capital Partners** (early-stage venture investments) |
 | Raj Parekh | CenSyn, 2019 Beall 2nd | At **Bain & Company** + **LBS '25** (London Business School). UCI 2019 triple major: quantitative economics, data science, mathematics + innovation/entrepreneurship minor. Co-founded UCI Undergraduate Data Science Association (UDSA); founded UCI's 180 Degrees Consulting branch; won **Distinguished Anteater Award** |
