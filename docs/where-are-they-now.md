@@ -272,8 +272,9 @@ These are individual-level signals, not company outcomes - but they help future 
 | Adrian Bahani | Syntr Health 2017 Beall 3rd + HemaDynamics 2019 Beall 3rd | Riordan MBA Fellow '24 at UCLA Anderson School of Management; patent inventor with Bernard Choi on laser-speckle imaging |
 | Ting-Wei Lin | ZOOT 2018 Butterworth 1st | UX Designer at Cathay Financial Holding (Taiwan) |
 | Sanghyun Byun | FoodPool 2022 Butterworth 2nd | AI Researcher at LG Electronics North America |
-| Sophia Lin | A Hundred Tiny Hands, 2014 Beall 2nd | **Clinical Affairs and Project Manager at Vena Vitals** (Khine's later startup); **Khine Lab PhD alumna** per published lab alumni page |
-| Eugene Lee | A Hundred Tiny Hands, 2014 Beall 2nd | **Khine Lab PhD alumnus** per published lab alumni page |
+| Sophia Lin | A Hundred Tiny Hands, 2014 Beall 2nd | **Clinical Affairs and Project Manager at Vena Vitals** (Khine's later startup); UCI PhD in **Chemical Engineering and Materials Science** (Khine Lab); **BS in Chemical and Biomolecular Engineering from UCLA**; **invented "SuperHydro-Tension"** kit on surface tension while a doctoral student |
+| Eugene Lee | A Hundred Tiny Hands, 2014 Beall 2nd | **Khine Lab PhD alumnus** per published lab alumni page; UCI BME doctoral student who **invented the "Polytropolis" kit** (electricity & circuits fundamentals for kids) as part of A Hundred Tiny Hands |
+| Brandt Bucher | CounterAttack, 2018 Beall finalist | **Python core developer at Microsoft**, working on improving the CPython interpreter's speed; **helped design and lead the implementation of structural pattern matching in Python 3.10**; eligible voter and core team member in multiple Python Steering Council elections |
 | Jolie McLane (now **Jolie Nokes**) | A Hundred Tiny Hands, 2014 Beall 2nd | **Khine Lab PhD alumna** per published lab alumni page (name change to Nokes) |
 | Cesar Ghali | BeatPool, 2014 Butterworth 2nd | Software Engineer at Google; UCI CS PhD (April 2012-June 2016) on content-centric networking |
 | Bao Pham | FWMAV, 2018 Beall 1st | Mechanical Engineer at Cellens Inc |
@@ -310,7 +311,7 @@ These are individual-level signals, not company outcomes - but they help future 
 | Tim Oh | REACH 2025 Beall 3rd | B.S. in Computer Science & Engineering at UCI |
 | Edmund Totah | REACH 2025 Beall 3rd | UCI Engineering Student Council member |
 | Sophia (E.F.) Chou | Qardiac, 2019 Beall 1st | UCI BME alum; co-author on 2019 Khine-lab publication on soft wearable pressure sensors for beat-to-beat blood pressure monitoring (the underlying research that became Vena Vitals) |
-| Lancy Lin | Qardiac, 2019 Beall 1st | UCI BME PhD in conformal wearable electronics, Shrinky-Dink thermoplastic fabrication, non-invasive physiological monitoring; Khine lab alum |
+| Lancy Lin | Qardiac, 2019 Beall 1st | UCI BME PhD in **conformal wearable electronics, Shrinky-Dink thermoplastic fabrication, non-invasive physiological monitoring**; Khine lab alum; **dissertation: "Conformal Wearable Electronics: Towards Ubiquitous Physiological Monitoring"**; lead author of "Paint-On Epidermal Electronics for On-Demand Sensors and Circuits" (Advanced Electronic Materials, 2021); developed skin-safe conductive ink (from school glue) for NFC-linked battery-free temporary-tattoo electronics |
 | Nnaoma Agwu | VANTAMASK, 2022 Beall 2nd | At UCI's **Kheradvar Lab** (Engineering); VANTAMASK has an active site at [vantamask.com](https://www.vantamask.com/) |
 | Rahul Sreedasyam | UniSAFE 2019 finalist + Phoraptor 2021 Beall 2nd | UCI BME PhD student; invented noninvasive concussion-severity device using ultrasonic optic nerve sheath measurements (managed team of 6 engineers driving Class II medical device development); **2nd place at 2020 BMES-Medtronic Design Competition**; **1st among master's students at 7th Annual City of Hope Biomedical Research Graduate Student Symposium**; SURP Fellow 2021 |
 | Lucas Erb | UnMail 2018 Butterworth finalist + Giv 2019 Butterworth 2nd | Founder of AIExperts.com (AI automation platform for SMBs); AI Fellow at Every; Top Voice in AI on LinkedIn |
