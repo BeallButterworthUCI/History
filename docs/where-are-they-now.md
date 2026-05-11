@@ -327,6 +327,7 @@ These are individual-level signals, not company outcomes - but they help future 
 | Tushar Dhadiwal | NP-Compete, 2017 combined-track finalist (lead) | **At Microsoft**; previously Senior Software Development Specialist at Tata Communications; built a tf-idf + PageRank search engine for ics.uci.edu (B+ tree inverted index, query latency 80s → 0.28s) |
 | Maharshi Patel | Ant-mApp, 2014 Butterworth 3rd | **At Airbnb** (LinkedIn `maharshi-patel-7a2bb395`) |
 | Yerlan Turekeshov | Ant-mApp, 2014 Butterworth 3rd | At **University College Dublin**, then joined **Notre Dame ESTEEM** (Engineering, Science, and Technology Entrepreneurship Excellence Masters Program) in 2015; **Naughton Fellowship recipient** |
+| Khwaja Hassan Ahmad | Tag Team, 2016 Beall 1st | **At Qualcomm** (LinkedIn `khwajahassanahmad`); subsequent graduate work at UC San Diego Jacobs School of Engineering |
 | Ahmed Gorashi | FASHENDS 2016 + KaamLo 2017 + Pippy-era teammate | **At Qualcomm** (LinkedIn `ahmed--gorashi`); collaborated with Kausthub Jadhav on the "Callenge" mobile exercise app featured on the STEMbility show in 2016 |
 | Andrew Tec | HyperXite, 2018 Beall finalist | **Control Lead** for HyperXite III (UCI's hyperloop pod team); UCI Electrical Engineering |
 | Mark Mekkittikul | HyperXite, 2018 Beall finalist | **Navigation Lead** for HyperXite III (UCI's hyperloop pod team) |
