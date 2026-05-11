@@ -125,7 +125,7 @@ These individuals are not exact-name matches in the cross-reference because thei
 
 - **Zarina Bahadur** - ZOOT (BBComp 2018) → Baby Box / 123 Baby Box (NVC 2020). Founded Baby Box during her MIE master's program; first MIE student to win NVC.
 - **Shifa Safeeq** - LEVELER (BBComp 2016 Butterworth finalist) → Element: B2B2C (NVC 2017 1st place). New team co-founders: Simon Loo, Brianne Pena, Scott Winter.
-- **Donny "Don" Magnuson** - COMPAS (BBComp 2017 Butterworth finalist) → Purist (NVC 2017 Grand Prize Winner). Magnuson also returned with the SAME COMPAS team in 2017 NVC (2nd place, Consumer Services), making him the only person documented to appear on TWO different 2017 NVC teams.
+- **Donny "Don" Magnuson** - COMPAS (BBComp 2017 Butterworth finalist) → COMPAS team at 2017 NVC (2nd place, Consumer Services). A prior entry in this archive also placed him on the NVC 2017 Grand Prize team **Purist** (UCI radioisotope startup); however the **Purist UCI Beall Applied Innovation profile** names only Leila Safavi-Tehrani (Co-founder/Lead) and Mikael Nilsson (UCI Professor of Chemical Engineering and Materials Science) - so the Magnuson-on-Purist claim is **flagged as unverified** pending a primary source.
 
 ## BBComp Finalists That Also Competed at NVC
 
@@ -136,7 +136,7 @@ Beyond the placement-level matches above, several BBComp finalist teams also com
 | LEVELER | 2016 Butterworth | Element: B2B2C | 2017 NVC 1st | Shifa Safeeq |
 | Memorlane | 2016 Butterworth | Memorlane | 2017 NVC 1st | Evan Schein, Yocelyn Recinos |
 | COMPAS | 2017 Butterworth | COMPAS | 2017 NVC 2nd (Consumer Services) | Curtis Hendrick, Michael Glover, Don Magnuson |
-| COMPAS | 2017 Butterworth | Purist | 2017 NVC Grand Prize Winner | Don Magnuson |
+| COMPAS | 2017 Butterworth | Purist | 2017 NVC Grand Prize Winner | Don Magnuson (**unverified** - the UCI Beall Applied Innovation Purist profile names only Leila Safavi-Tehrani and Mikael Nilsson) |
 | Failsafe | 2017 Butterworth | Failsafe | 2017 NVC 2nd | Natalie Sweis (NVC version added Issa Sweis and Jasmine Yu) |
 | AllerChain | 2019 Combined | forMED Technologies | 2022 NVC Life Sciences 1st | Ruben Shakya, Aryan Agarwal |
 
