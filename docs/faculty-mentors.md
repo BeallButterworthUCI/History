@@ -59,8 +59,20 @@ A handful of UCI faculty members have mentored multiple BBComp teams - some acro
 
 - **Position:** Associate Professor, UCI Biomedical Engineering, Henry Samueli School of Engineering.
 - **Research areas:** brain-computer interfaces, neural signal processing.
+- **Honors:** Inducted into the **2025 Class of AIMBE Fellows** (American Institute for Medical and Biological Engineering, March 2025).
 - **BBComp mentees:**
   - 2014 Beall 1st - **Spero Diagnostics** (co-mentored with Prof. Michelle Khine)
+
+## Dr. Christine King (Biomedical Engineering)
+
+- **Position:** Associate Teaching Professor of Biomedical Engineering, Henry Samueli School of Engineering, UCI.
+- **Education:** BS and MS in Mechanical Engineering from Manhattan College; PhD in Biomedical Engineering from UCI (developed brain-computer interface systems for neurorehabilitation).
+- **Research areas:** engineering and STEM education, active learning, wireless health systems, rehabilitation, brain-computer interfaces, robotics, and **women's health medical devices**.
+- **Honors:** Inducted into the **2025 Class of AIMBE Fellows** (March 2025) for **"pioneering and impactful contributions in biomedical engineering education and engineering design for women's health"**.
+- **BBComp mentees:**
+  - 2024 Beall 1st - **NeoMold** (3D-printable customizable ear mold for neonates with congenital ear deformities)
+  - 2025 Beall 2nd - **VeinGuard** (non-compressive cervical collar; co-medical-advisor with Dr. Yama Akbari)
+- **Sources:** [UCI faculty profile](https://engineering.uci.edu/users/christine-king), [engineering.uci.edu AIMBE announcement, March 2025](https://engineering.uci.edu/news/2025/3/king-and-nenadic-named-aimbe-fellows).
 
 ## Other Recurring Mentors (Industry, Not Faculty)
 
