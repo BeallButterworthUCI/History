@@ -33,9 +33,14 @@ Aggregated statistics computed from [data/bbcomp.json](../data/bbcomp.json) (las
 | Unique team members named in BBComp | 350 |
 | Unique team members named in NVC (sister archive) | 187 |
 | Exact-name shared founders BBComp / NVC | 33 (34 with normalization) |
-| Founders profiled in [where-are-they-now.md](where-are-they-now.md) | 30+ |
-| Recurring faculty mentors profiled | 5 |
+| Founders profiled in [where-are-they-now.md](where-are-they-now.md) industry-roles table | **134** |
+| Verified active incorporated companies traceable to BBComp | **13** |
+| First documented BBComp-traceable M&A exit | **CARGO Therapeutics → Concentra Biosciences, $170.7M, Aug 18, 2025** (Louai Labanieh, 2016 CeleriBio Beall 3rd lead) |
+| Documented FDA-cleared products from BBComp-traceable companies | **2 confirmed** (Makani Science Respiratory Monitor, April 2, 2025; Syntr Health Syntrfuge, per company site) + 2 anticipated within 2026 (CenSyn PenEEG; Vena Vitals) |
+| Recurring faculty mentors profiled | 6 (Khine, Patterson, Jain, Harris, Nenadic, King) |
+| 2025 AIMBE Fellow inductees among BBComp faculty | 2 (Christine King, Zoran Nenadic) |
 | Current judges roster (Beall + Butterworth) | 25 (13 Beall, 12 Butterworth) |
+| 2026 workshop facilitators | 6 (Kunzelman, Busch, Sanders, Bardin, Kirkeby, Crisp) |
 
 ## Money
 
@@ -71,9 +76,10 @@ Notable patterns:
 - **First documented BBComp-traceable M&A exit:** **CARGO Therapeutics** (co-founded by 2016 CeleriBio Beall 3rd lead Louai Labanieh) was acquired by Concentra Biosciences for **$4.379/share + CVR (~$170.7M total)** in a deal signed July 8, 2025 and completed August 18, 2025 (delisted from Nasdaq). This is the highest-value BBComp-traceable exit on record.
 - **The 2018 cycle and the 2019 cycle each produced multiple verified active ventures.** 2018: ZOOT->123 Baby Box (founder trajectory), HUMBLE Technologies (incorporated as Delaware C corp), Mechanodontics. 2019: Vena Vitals (Y Combinator) and CenSyn Inc. (Berkeley SkyDeck) - both Beall medical hardware, both founded the same year as the BBComp competition. The 2018-2019 stretch is the densest two-year run in the archive.
 - **Two BBComp-traceable ventures have won major out-of-state competitions:** Mechanodontics at the UIUC Cozad NVC ($25K Grand Prize, 2019) and Eupnea at Microsoft Imagine Cup (top 3 worldwide, 2023).
-- **Prof. Michelle Khine's lab is the single most prolific BBComp-faculty source of outcomes** - she mentored 2014's Spero Diagnostics, 2014's A Hundred Tiny Hands (now active), and co-founded Vena Vitals (Y Combinator) with the 2019 Qardiac team's Joshua Kim. She is also Scientific Founder of 6 startups in total.
+- **Prof. Michelle Khine's lab is the single most prolific BBComp-faculty source of outcomes** - she mentored 2014's Spero Diagnostics and 2014's A Hundred Tiny Hands (now active), co-founded Vena Vitals (Y Combinator) with the 2019 Qardiac team's Joshua Kim, and co-founded **Makani Science** with her former PhD student Michael Chu (CTO). Makani's respiratory monitor received **FDA 510(k) clearance on April 2, 2025** plus a **$1.1M NIH Catalyze grant**. Khine is also Scientific Founder of multiple other startups (count varies by source - Wikipedia lists ~6+). Six BBComp competitors became Khine Lab PhD alumni: Sophia Lin, Eugene Lee, Jolie McLane (Nokes), Joshua Kim, Lancy Lin, En-Fan Sophia Chou.
+- **Dr. Christine King's lab is the densest two-year faculty-mentor BBComp run** in the archive - she mentored **NeoMold (2024 Beall 1st)**, **VeinGuard (2025 Beall 2nd)**, and **REACH (2025 Beall 3rd)**. She and Prof. Zoran Nenadic were both inducted into the **2025 Class of AIMBE Fellows** in March 2025.
 
-Total documented external capital across these ventures: **multiple millions** (Y Combinator-backed Vena Vitals plus 123 Baby Box's $1.3M plus the others' disclosed funding).
+Total documented external capital across these ventures: **multiple tens of millions** when CARGO Therapeutics' $170.7M acquisition value, BRIUS' $46.2M total raised, Spotter AI's $37.7M, and the smaller named rounds are aggregated.
 
 Two more teams have documented partial commercialization or possible commercialization:
 
