@@ -2449,6 +2449,20 @@
           2011
         ],
         "description": "The competition ran in 2010 (7th annual) and 2011 (8th annual) but no public records of winners surfaced during research, despite direct fetches against the live ICS news system and the legacy archive subdomain. Contributions welcome."
+      },
+      {
+        "type": "unverified_team_attribution",
+        "affected_years": [
+          2017
+        ],
+        "description": "An earlier note in this archive claimed Donny 'Don' Magnuson was on the 2017 Stella Zhang NVC Grand Prize Winner team Purist (UCI radioisotope startup). Re-verification against the official UCI Beall Applied Innovation Purist profile (innovation.uci.edu/2018/05/purist-cooking-up-radioisotopes-that-can-save-lives/) names only Leila Safavi-Tehrani (Co-founder/Lead) and Mikael Nilsson (UCI Professor of Chemical Engineering and Materials Science, Co-founder). The Magnuson-on-Purist claim is therefore flagged as UNVERIFIED pending a primary source. Magnuson's COMPAS-team participation at the 2017 NVC (2nd place, Consumer Services) is verified separately."
+      },
+      {
+        "type": "roster_discrepancy",
+        "affected_years": [
+          2025
+        ],
+        "description": "Two 2025 teams have project-site rosters that exceed the official BBComp roster. (a) VeinGuard: the official BBComp 2025 winners page lists 5 members; the project site at veinguard.uci.design lists 7 (additionally Raveena Atwal and Marlena Ramanis). (b) Vision Board: the official BBComp 2025 page lists 3 members; the archive also retains Phillip Peterson as a 4th from prior research that may have come from a project-site/cycle-broader roster. Contributions to confirm or remove the additional names are welcome."
       }
     ]
   }
