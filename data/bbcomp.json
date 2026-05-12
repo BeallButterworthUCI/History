@@ -794,7 +794,11 @@
             "Lancy Lin",
             "Sophia Chou",
             "Uuanke Zhang"
-          ]
+          ],
+          "follow_on": "Now operating as Vena Vitals (founded 2019; Y Combinator-backed). Co-founders: Joshua Kim (CTO; UCI Materials Science PhD 2013-2018 in Khine Lab; UIUC Chemistry BS 2013), Michelle Khine (UCI BME professor and recurring BBComp faculty mentor), Ray Liu (CEO; Harvard MBA + UC Berkeley MS + UIUC BS; previously head of product at two acquired healthtech startups). Total raised: $1.43M; investors include Y Combinator, MedTech Innovator, NSF, Morado Ventures, Founders Inc., HealthTech Arkansas, EvoNexus, plus a Beall Applied Innovation PoP grant. 14 employees, 600+ patients tested in operating rooms. Won 2023 University Lab Partners Pitch.Launch.Grow. Orange County competition (MedTech Track). MARCH 2026: opened new R&D laboratory at the Roseman University of Nevada Summerlin campus, taking lab space inside the new 120,000-square-foot Roseman Bioventures life-science incubator (~60 jobs forecast). FDA clearance anticipated within 2026; market launch targeted late 2027 for individuals with hypertension. Future product roadmap: expand the device to monitor heart rate variability and oxygen saturation. Khine Lab PhD alumni on the team: Joshua Kim (Materials Science PhD), Lancy Lin (BME PhD; dissertation 'Conformal Wearable Electronics: Towards Ubiquitous Physiological Monitoring'; lead author of 'Paint-On Epidermal Electronics for On-Demand Sensors and Circuits' Advanced Electronic Materials 2021), Sophia Chou (BME PhD).",
+          "company_name": "Vena Vitals",
+          "company_status": "active",
+          "y_combinator": true
         },
         {
           "track": "Beall",
@@ -1125,7 +1129,8 @@
             "Louai Labanieh (lead)",
             "Binh Le",
             "Sadaf Mirnia"
-          ]
+          ],
+          "follow_on": "Same year (2016): team also won 2nd place + $5,000 at the UCI Business Plan Competition Life Sciences/Clean Tech track and participated in the UCI BioAccel Solutions Challenge med-tech start-up program. CeleriBio itself did not commercialize. Team lead Louai Labanieh went on to a Stanford PhD (Crystal Mackall Lab + Parker Scholar) in synthetic biology and protein engineering for CAR-T cells (drug-regulated switches and logic-gated protein circuits). In 2021 he co-founded CARGO Therapeutics with Crystal Mackall, Nancy Goodman, and Robbie Majzner; his technologies were licensed to CARGO and supported a Phase I clinical trial of the SNIP CAR platform in relapsed/refractory solid cancers at Stanford. CARGO Therapeutics agreed to be acquired by Concentra Biosciences on July 8, 2025 at $4.379/share cash + CVR (~$170.7M total); acquisition completed August 18, 2025; delisted from Nasdaq. This is the FIRST DOCUMENTED BBComp-traceable M&A exit. Labanieh is now Assistant Professor at the Icahn School of Medicine at Mount Sinai. Other team members: Sadaf Mirnia is now Senior Supplier Quality Engineer at Medtronic."
         }
       ],
       "source_urls": [
