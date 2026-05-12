@@ -97,13 +97,13 @@ When a piece of information cannot be sourced, this archive uses fixed sentinel 
 
 **EEG** - Electroencephalogram. Brain-wave monitoring. Featured in 2019's CenSyn (now CenSyn Inc., commercial), 2019's CenSyn precursor research from Trevor Silence et al, and 2023's Encephalopod.
 
-**FDA 510(k)** - the U.S. Food and Drug Administration's premarket-notification clearance pathway for medical devices. CenSyn Inc. is currently pursuing 510(k) clearance.
+**FDA 510(k)** - the U.S. Food and Drug Administration's premarket-notification clearance pathway for medical devices. **Makani Science** (Khine-co-founded follow-on of multiple BBComp BME teams) received 510(k) clearance for the Makani Respiratory Monitor on April 2, 2025. **Syntr Health Technologies** (2017 Beall 3rd founder Ahmed Zobi) is FDA-cleared per the company's site for the Syntrfuge automated microfat-processing system. **CenSyn Inc.** (2019 Beall 2nd) is pursuing 510(k) clearance for the CenSyn PenEEG. **Vena Vitals** (2019 Beall 1st Qardiac follow-on) anticipates FDA clearance within 2026.
 
 **ICS** - the Donald Bren School of Information and Computer Sciences (the abbreviation predates the 2003 Bren naming gift, when the school was simply the "School of Information and Computer Science").
 
 **IoT** - Internet of Things. Theme of multiple BBComp years, especially 2016 and 2022 (Consense).
 
-**LLM** - Large Language Model. Two Cube (2024 Butterworth 2nd) uses LLMs for autonomous bioinformatics analysis.
+**LLM** - Large Language Model. Two Cube (2024 Butterworth 2nd) uses LLMs for autonomous bioinformatics analysis. **Florence (2025 Butterworth 1st)** uses a custom fine-tuned **Vision LLM** for real-time hospital patient monitoring. Dylan Riffle's 2025 OLAF (Open Life Science Analysis Framework) paper is also LLM-based.
 
 **NVC** - New Venture Competition. UCI's Stella Zhang NVC.
 
@@ -112,3 +112,15 @@ When a piece of information cannot be sourced, this archive uses fixed sentinel 
 **TonoLase** - the at-home non-invasive intraocular-pressure monitoring device built by 2021's forMED Technologies (Beall 1st).
 
 **USDA** - U.S. Department of Agriculture. Awarded a $250K Farmers Market Promotion Program grant to Leprendo (2022 Butterworth 1st) in December 2024.
+
+**AIMBE Fellow** - American Institute for Medical and Biological Engineering Fellow. **Dr. Christine King** (UCI BME, recurring BBComp faculty mentor for NeoMold 2024, VeinGuard 2025, REACH 2025) and **Prof. Zoran Nenadic** (UCI BME, 2014 Spero Diagnostics co-mentor) were both inducted into the **2025 Class** in March 2025.
+
+**BiNoM Lab** - Bio-Nano-Micro-manufacturing Lab at UCI MAE, directed by **Prof. Lawrence Kulinsky**. Faculty home of the 2024 Beall 3rd-place team **PetPointDx** (Zarya Rajestari et al).
+
+**HERO Lab** - UCI Computer Engineering research lab focused on embedded systems and machine learning for medical devices. Home lab of **Floranne Ellington (WatchDog 2018 Beall finalist)**, who built a wearable fetal-HR extraction abdominal patch + paired smartwatch maternal-BP system, published in IEEE Sensors Letters.
+
+**Khine Lab** - Prof. Michelle Khine's research lab at UCI BME. Khine is the densest faculty-to-PhD pipeline in the BBComp archive: at least six BBComp competitors became Khine Lab PhD alumni (Sophia Lin, Eugene Lee, Jolie McLane/Nokes, Joshua Kim, Lancy Lin, En-Fan Sophia Chou). Lab's "Shrinky Dink microfluidics" technology underpins both Vena Vitals and Makani Science.
+
+**Roseman Bioventures** - 120,000-square-foot life-science incubator on the Roseman University of Nevada Summerlin campus. **Vena Vitals** (2019 Beall 1st Qardiac follow-on) opened a new R&D lab there in March 2026 with ~60 jobs forecast.
+
+**Concentra Biosciences** - serial-acquirer biotech that **acquired CARGO Therapeutics** on August 18, 2025 at $4.379/share + CVR (~$170.7M total) - the first documented BBComp-traceable M&A exit (CARGO co-founded by 2016 CeleriBio Beall 3rd lead Louai Labanieh).
