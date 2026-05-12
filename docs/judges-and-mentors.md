@@ -110,6 +110,19 @@ The Butterworth-only era (2012-2013) used a much larger mentor pool than the pos
 | Amir Banifatemi | Entrepreneur, Product Strategist, Investor | 2013 | My Salon (2013 finalist) |
 | Ray Chan | Founder, K5 Venture Partners | 2013 (mentor), 2014 (mentor) | My Salon (2013 finalist), HydroTrack (2014 Beall 3rd) |
 
+## 2026 Workshop Facilitators
+
+The 2026 cycle expanded the workshop series to six pre-Demo-Day sessions. Facilitators (per the bbcomp.tech.uci.edu/schedule/ calendar):
+
+| Facilitator | Affiliation | Workshop |
+|-------------|-------------|----------|
+| Jeff Kunzelman | Arcules CTO | Workshop #1 - "Founders - Stop talking and start listening" (Jan 12) |
+| Kurt Busch | Industry executive | Workshop #2 - "On the Edge of Innovation" (Jan 26) |
+| Justin Sanders | IP attorney | Workshop #3 - "Protecting Innovation" (Feb 2) |
+| Emma Bardin | Science storytelling | Workshop #3 bonus - "Science to Stories" (Feb 2) |
+| Cynthia Kirkeby | Industry consultant | Workshop #4 - "Pretotyping" (Feb 9) |
+| Tony Crisp | CEO, CRISPx; UCI BS Bio; longtime BBComp judge since 2013 | Workshop #6 - "Designing Experiences" (Mar 2) |
+
 ## Pre-2012 Judges and Mentors
 
 *No public record found.* The competition was running 2003-2011 but no judges or mentors from that era have surfaced beyond Kevin Kinsey's nine-year tenure cited in 2012. Contributions welcome.
