@@ -1034,7 +1034,11 @@
             "Yasemin Sarigul-Klijn",
             "Peter Wang",
             "Hwan Heo"
-          ]
+          ],
+          "follow_on": "See 2016 Red Lion Robotics entry; this is the same team returning in 2017 with Hwan Heo replacing Brandon Tsuge - the only confirmed back-to-back Beall 2nd-place team in the joint era. Same active company (Red Lion Robotics, product GRAM wheelchair attachment).",
+          "company_name": "Red Lion Robotics",
+          "company_status": "active",
+          "see_other_row": "2016 Beall 2nd Red Lion Robotics"
         },
         {
           "track": "Beall",
@@ -1134,7 +1138,10 @@
             "Yasemin Sarigul-Klijn (lead)",
             "Peter Wang",
             "Brandon Tsuge"
-          ]
+          ],
+          "follow_on": "Active company. Product: GRAM (Gait Rehab Adaptive Machine) - a low-cost wheelchair attachment that provides motivational mobility and therapy for patients healing from walking disability. Named in honor of Yasemin Sarigul-Klijn's grandmother (whose immobility inspired the project). Yasemin Sarigul-Klijn is Founder; UCI BME PhD student in rehab robotics. Won the 2017 Aging 2.0 Orange County regional business competition and advanced to the national competition. Same team returned in 2017 (Beall 2nd, the only confirmed back-to-back placement of any team in the joint era; Hwan Heo replaced Brandon Tsuge). Peter L. Wang served as Lead Design Engineer (Oct 2015 - Oct 2017); UCI PhD 2018 in robot kinematics; now Research Staff Scientist at Oak Ridge National Laboratory in the Disruptive Manufacturing Systems Development Group. Brandon Tsuge is now Lecturer in UCI's Department of Mechanical and Aerospace Engineering with a Doctor of Engineering and PE license; published research on linkage systems for gait-cycle rehabilitation robotics; also at Zymo Research Corp.",
+          "company_name": "Red Lion Robotics",
+          "company_status": "active"
         },
         {
           "track": "Beall",
@@ -1156,6 +1163,17 @@
       "source_urls": [
         "https://bbcomp.tech.uci.edu/past/2016-participants-and-results/",
         "https://engineering.uci.edu/news/2016/6/beall-butterworth-student-design-competition-winners-announced"
+      ],
+      "notable_finalist_followons": [
+        {
+          "team": "BottleRocket",
+          "members": [
+            "Brian Leung (lead/solo on BBComp roster)"
+          ],
+          "follow_on": "First on-demand pickup service that rewards users for recycling at home. Founded May 2015 (predating the BBComp placement by ~1 year). Commercial team: Arthur Avetisov (CEO and Co-Founder, UCI Political Science and Economics '15), Brian Leung (COO and Co-Founder, UCI International Studies '16), Malik Ahmad (Co-Founder and CMO). Leung and Avetisov met through UCI's Delta Sigma Pi business fraternity. Funding: $240K from MuckerLab (Santa Monica; also accepted into the 2017 cohort) + $20K from Dorm Room Fund = $260K+ total raised; last seed round closed December 28, 2016. Won the 2015 ANTrepreneur of the Year Award from the ANTrepreneur Center (then Blackstone LaunchPad).",
+          "company_name": "BottleRocket",
+          "company_status": "active"
+        }
       ]
     },
     {
