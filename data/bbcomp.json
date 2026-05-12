@@ -980,12 +980,15 @@
           "team": "AirNotes",
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "Motion Analytic System (AirTouch) - wearable hand computer with haptic feedback for note-taking and gesture input.",
+          "project": "Motion Analytic System (AirTouch) - wearable hand computer with haptic feedback for note-taking and gesture input. Originally an interactive glove for visually impaired students learning piano/woodwind, inspired by a music instructor's method of tapping fingers to indicate notes.",
           "members": [
             "Olaoluwa Adesanya",
             "Laura Beken",
             "Brandon Cabrera"
-          ]
+          ],
+          "follow_on": "Evolved into Palmplug Inc., an active Pacific Northwest startup focused on Spatial Computing, Wearables, Health, Robotics, and AI. Palmplug's wearable delivers hand-and-finger tracking with 13ms latency, combining hand tracking, haptic feedback, and visual cues. Targets robotics, VR/AR, healthcare, and sports. Founder & CEO: Olaoluwa Adesanya (UCI CS BS 2015-2017), who is also at Meta (P.Eng).",
+          "company_name": "Palmplug Inc.",
+          "company_status": "active"
         },
         {
           "track": "Butterworth",
@@ -1001,7 +1004,10 @@
             "Martin Gomez",
             "Antonio Lopez",
             "Sam Chen"
-          ]
+          ],
+          "follow_on": "Co-founders Karan Kanwar and Martin Gomez incorporated Wing AI Technologies (commonly Wing Assistant) in 2018; the Wing team won the 2018 Stella Zhang NVC Consumer Services 1st place ($10K). Wing is a cloud-based contract-workforce platform for virtual assistants powered by AI plus real human operators. Scaled to 1,000+ employees in 8 countries. UC Berkeley SkyDeck Spring 2020 cohort. Institutional investors: Berkeley SkyDeck and Troy Labs (per Crunchbase/Tracxn). Kausthub Raj Jadhav is now Product Engineering Manager at LILA Games (Bangalore); previously ContractKen, Loop, Pathrise, Meta Platforms, Varsity Tutors, Wing Assistant, BeWo Technologies. He also co-founded SoCal's largest AI non-profit, AI@UCI.",
+          "company_name": "Wing AI Technologies (Wing Assistant) - founder follow-on",
+          "company_status": "active"
         },
         {
           "track": "Beall",
@@ -1043,7 +1049,11 @@
             "Justin Stovner",
             "Jade Tassey",
             "Adrain Bahani"
-          ]
+          ],
+          "follow_on": "Active commercial company at University Lab Partners (UCI Research Park). Founded 2016 (Syntrfuge concept conceived during senior-year class in 2015). Funding: $10M raise announced March 2023; $2.2M seed (Aug 2021); $300K Phase I SBIR/NIH grant (Oct 2017). Product: Syntrfuge - the world's first and only Automated Microfat Processing System (per company marketing). FDA-cleared per the company site. Single-use disposable medical device that processes fat in under 10 minutes; targets facial fat loss, knee osteoarthritis, and diabetic foot ulcers. Co-founders: Ahmed Zobi (CEO, EMBA, 8+ years in microfluidics/biomechanics; April 2025 speaker at Sunstone Management grant workshop), Hugo Salas (VP Business Development, UCI BME B.S. with micro/nano specialization + Business Management minor), Justin Stovner (VP Engineering, UCI BME B.S. and M.S. Class of 2016 specializing in additive/subtractive manufacturing; lead engineer of the SyntrFuge System).",
+          "company_name": "Syntr Health Technologies, Inc.",
+          "company_status": "active",
+          "company_url": "https://syntrhealth.com/"
         }
       ],
       "source_urls": [
@@ -1336,7 +1346,11 @@
             "Eugene Lee",
             "Danny Greene"
           ],
-          "mentor": "Prof. Michelle Khine (UCI BME)"
+          "mentor": "Prof. Michelle Khine (UCI BME)",
+          "follow_on": "Active academic nonprofit co-op at 100tinyhands.org. Kickstarter funded ($54K+); published children's book series. Founders are Khine Lab PhD alumni at UCI BME. Sophia Lin (Chemical Engineering and Materials Science PhD; UCLA BS Chemical and Biomolecular Engineering; invented the SuperHydro-Tension surface-tension kit while a doctoral student) is now Clinical Affairs and Project Manager at Vena Vitals. Eugene Lee (UCI BME doctoral student) invented the Polytropolis kit for electricity and circuits. Jolie McLane (now Jolie Nokes) is a Khine Lab PhD alumna per the published lab alumni page. The team is documented as the first multi-year founder feeder into Vena Vitals (Khine's later Y Combinator company), making this BBComp team a primary node in the Khine Lab pipeline.",
+          "company_name": "A Hundred Tiny Hands",
+          "company_status": "active",
+          "company_url": "https://100tinyhands.org/"
         },
         {
           "track": "Beall",
