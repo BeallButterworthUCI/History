@@ -153,6 +153,12 @@ This repository exists because the institutional memory for student competitions
 | 2023 | Paul and Jo Butterworth pledge $35.5M to the Donald Bren School of ICS - the largest alumni gift to UCI at that time |
 | 2023 | Butterworths receive UCI Alumni Association Extraordinarius Award |
 | 2023 | First UCI / PUCRS (Brazil) joint cohort competes in BBComp |
+| 2025 | Stella Zhang pledges $750K over five years to expand the Stella Zhang NVC prize pool from $100K to $150K per year (March 2025) |
+| 2025 | Makani Science (Khine-co-founded follow-on) receives FDA 510(k) clearance for the Makani Respiratory Monitor (April 2, 2025) + $1.1M NIH Catalyze grant |
+| 2025 | Christine King and Zoran Nenadic both inducted into the 2025 Class of AIMBE Fellows (March 2025) |
+| 2025 | First documented BBComp-traceable M&A exit: CARGO Therapeutics (co-founded by 2016 CeleriBio lead Louai Labanieh) acquired by Concentra Biosciences for ~$170.7M (signed July 8, 2025; completed August 18, 2025) |
+| 2026 | Vena Vitals (2019 Beall 1st Qardiac follow-on) opens R&D lab at Roseman University of Nevada Summerlin (March 2026; ~60 jobs forecast) |
+| 2026 | Sentinel (2024 Butterworth 1st) publicly launched as Spotter AI's flagship platform on February 17, 2026; March 31, 2026 expansion adds digital driver application |
 
 ## 2026 Competition (Upcoming)
 
