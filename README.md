@@ -201,7 +201,7 @@ This repository exists because the institutional memory for student competitions
 | Butterworth | 3rd | Biru | $3,500 | A maid- and household-help-matching platform tailored to the Indonesian market. | Jessica Hardisurjo, Kevin Salim, Nicholas Chairnando, Pierre Theodorus, William Hartono |
 | Beall | 1st | NeoMold | $10,000 | A customizable, 3D-printable ear mold designed to correct newborn outer-ear deformities within 2-6 weeks of birth. Each mold is based on a 3D scan of the patient's unique anatomy, increasing efficacy while decreasing complications and patient readmittance. | Christine Ly, Christine Nguyen, Frida Sandoval, Kathy Duong |
 | Beall | 2nd | Instinct | $6,500 | A microfluidic chip that mimics brain function for neurological drug testing. | Edouard Aleman, Jay Tong, Milan Das, Nathaniel Green, Winston Doud |
-| Beall | 3rd | PetPointDx | $3,500 | At-home pet fecal testing kits that ship to a partner lab for analysis. | Lawrence Kulinsky, Luke Chavez, Will Janlaor, Zarya Rajestari |
+| Beall | 3rd | PetPointDx | $3,500 | At-home pet fecal testing kits that ship to a partner lab for analysis. | Luke Chavez, Will Janlaor, Zarya Rajestari (with faculty mentor Prof. Lawrence Kulinsky, UCI MAE BiNoM Lab) |
 | Brazilian Collaboration | Winner | Cartello | Not Listed | A B2B marketplace for corrugated cardboard pallets that streamlines the pallet procurement process. | UCI: Ariel Tjandra, Ariya Gowda, Felix Toffaneto Werner. PUCRS: Pedro Vaz Lorea, Thiago Borges de Souza |
 
 ## 2023 Competition
