@@ -89,3 +89,64 @@ Not a UCI program, but a notable downstream competition for BBComp winners. **Eu
 ## VentureWell E-Team (external follow-on)
 
 National program for student-led STEM startups. **Lily McGrale** (forMED, 2021 Beall 1st) was a Summer 2021 VentureWell E-Team participant.
+
+## NSF I-Corps Regional Program (external follow-on)
+
+National Science Foundation translational-research program. Confirmed BBComp alumni:
+- **Sentinel** (2024 Butterworth 1st) - selected for and graduated from NSF I-Corps; the team credits the program with technology-translation and market-validation training that directly preceded the Spotter AI commercialization.
+- **Christine Ly** (NeoMold 2024 Beall 1st co-founder) - **UCI NSF I-Corps Award** recipient.
+- **Vision Board** (2025 Butterworth 3rd) - active participant; Derek Yazan listed it as a current involvement on his UCI profile.
+
+## UC Berkeley SkyDeck (external follow-on)
+
+UC Berkeley's startup accelerator. Confirmed BBComp pipeline:
+- **Wing AI Technologies / Wing Assistant** (founded by 2017 Pippy team Karan Kanwar + Martin Gomez) - **Spring 2020 cohort**.
+- **CenSyn Inc.** (2019 Beall 2nd) - **$105K Berkeley SkyDeck Seed (September 28, 2021)**.
+
+## NIH Catalyze Grant (external follow-on)
+
+NIH commercialization-focused grant program. **Makani Science** (Khine-co-founded follow-on) won a **$1.1M NIH Catalyze grant** alongside its FDA 510(k) clearance in spring 2025.
+
+## James Dyson Award (external follow-on)
+
+Annual international design award. **VeinGuard** (2025 Beall 2nd) submitted to the **2025 James Dyson Award**.
+
+## TCU Values & Ventures (external follow-on)
+
+Texas Christian University Richards Barrentine Values and Ventures Competition. Confirmed BBComp alumni:
+- **HUMBLE Technologies** (2018 Beall 2nd) - **2nd place + $750** in the 2018 Elevator Pitch category.
+- **CenSyn Inc.** (2019 Beall 2nd) - achieved recognition at TCU Richards Barrentine Values and Ventures.
+
+## AthenaHacks (USC, external follow-on)
+
+USC women's hackathon. **WatchDog** (2018 Beall finalist) - four-woman team that **won the Best Big Data Hack prize at AthenaHacks (February 2018)**, sponsored by Neudesic.
+
+## Aging 2.0 Orange County
+
+Aging-tech business competition. **Red Lion Robotics** (2016 + 2017 Beall 2nd) **won the 2017 Orange County regional**, then advanced to the national competition.
+
+## UIUC Cozad New Venture Challenge (external follow-on)
+
+University of Illinois Urbana-Champaign student startup competition. **Mechanodontics → BRIUS** (2018 Beall 3rd team) **won the $25K Grand Prize at the 2019 UIUC Cozad NVC** - the first BBComp-traceable team to win a major out-of-state university competition.
+
+## UCLA Lowell Milken Institute - Sandler Prize for New Entrepreneurs (external follow-on)
+
+UCLA School of Law innovation prize. **Mehdi Peikar** (Mechanodontics 2018 Beall 3rd co-founder, founder/CTO/CMO of BRIUS Technologies) **won the 2017 Sandler Prize ($70K)** for BRIUS during his UCLA orthodontics residency.
+
+## UCI Med AppJam (sister UCI program)
+
+Medical-app hackathon at UCI. **Derek Omuro** (Sparky / Blueberry 2014 Butterworth 1st team lead) **won 2013 Med AppJam 1st place ($1K)** with team Berry (a diabetes-logging app), one BBComp cycle before Sparky.
+
+## UCI ANTrepreneur Center AI Innovation Challenge
+
+UCI's annual student AI-startup competition (launched 2024). Confirmed BBComp pipeline:
+- **Spike O'Carroll** (Sentinel 2024 Butterworth 1st) - **won 1st in the Student Experience track** with project Notive (AI note-taking tool, with Steven Cao, Sahas Kasuganti, Kevin Wu).
+- **Vision Board** (2025 Butterworth 3rd) - Derek Yazan participated.
+
+## UCI Cardiovascular Device Pitch
+
+Annual UCI BME-organized cardiovascular-device pitch competition. **Neha Muvvala** (NasoCoustics 2025 Beall 1st, BMES UCI President) was on the **winning Venaptic team in the 2024 edition ($20K prize)**.
+
+## UCI BME Senior Design Symposium
+
+Annual capstone showcase at the Henry Samueli School of Engineering. Many Beall track teams - including NeoMold (2024 Beall 1st), Instinct (2024 Beall 2nd), PetPointDx (2024 Beall 3rd), VeinGuard (2025 Beall 2nd), and REACH (2025 Beall 3rd) - originate as BME 180 senior-design projects mentored under Dr. Tibor Juhasz and Dr. Christine King (BioENGINE program). The symposium also hosts BioENGINE Fellowships and Capstone Design Awards adjacent to BBComp.
