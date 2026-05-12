@@ -162,9 +162,36 @@
         }
       ],
       "awards": [],
+      "related_events": [
+        {
+          "date": "2026-05-21",
+          "event": "Stella Zhang NVC Grand Finale + Awards at the Paul Merage School",
+          "note": "Six days after the BBComp Demo Day - the typical 5-7 day gap that BBComp-winning teams use to pivot pitch materials for the NVC.",
+          "source": "https://merage.uci.edu/events/2026/05/stella-zhang-grand-finale-052126.html"
+        }
+      ],
+      "concurrent_macro_events": [
+        {
+          "date": "2025-08-18",
+          "event": "CARGO Therapeutics → Concentra Biosciences acquisition completes (~$170.7M); first documented BBComp-traceable M&A exit (Louai Labanieh, 2016 CeleriBio Beall 3rd lead, co-founder)"
+        },
+        {
+          "date": "2026-02-17",
+          "event": "Sentinel (2024 Butterworth 1st) public commercial launch as Spotter AI's flagship platform"
+        },
+        {
+          "date": "2026-03-24",
+          "event": "Vena Vitals (2019 Beall 1st Qardiac follow-on) opens R&D lab at Roseman University of Nevada Summerlin (120,000-sqft Roseman Bioventures incubator; ~60 jobs forecast; late-2027 market launch target)"
+        },
+        {
+          "date": "2026-03-31",
+          "event": "Spotter AI Sentinel platform expansion adds digital driver application + branded multi-channel form distribution"
+        }
+      ],
       "source_urls": [
         "https://bbcomp.tech.uci.edu/schedule/",
-        "https://bbcomp.tech.uci.edu/"
+        "https://bbcomp.tech.uci.edu/",
+        "https://merage.uci.edu/events/2025/10/stella-zhang-nvc-kickoff-2026-102225.html"
       ]
     },
     {
