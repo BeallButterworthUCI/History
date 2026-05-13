@@ -71,7 +71,7 @@ Sponsorship of the Butterworth Product Development Competition (which the Butter
 
 Total approximately **$30 million** as of 2019, including:
 
-The Beall Family Foundation also funds the **UCI MIND Joan and Don Beall Scholar Award** ($50K/year × 5, renewable) and the **Beall Scholar Program to Inspire Future STEM Leaders** for high-school students; recent 990 filings show 30+ awards per year (31 awards in 2023).
+The Beall Family Foundation also funds the **UCI MIND Joan and Don Beall Scholar Award** ($50K/year × 5, renewable; inaugural 2023 recipient Dr. S. Ahmad Sajjadi MD PhD) and the **UCI MIND Beall Scholars Program** (high-school summer program in brain research, neuroscience, and geriatric medicine for students underrepresented in STEM); recent 990 filings show 30+ awards per year (31 awards in 2023).
 
 
 | Year | Gift | Result |
