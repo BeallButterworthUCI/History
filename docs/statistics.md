@@ -92,7 +92,7 @@ Two more teams have documented partial commercialization or possible commerciali
 
 | Metric | Value |
 |--------|-------|
-| Individuals with placements in two or more years | 7+ confirmed (Adrian Bahani, Naren Sathiya, Candace Wu, Neeraj Kumar, Ali Shahbaz, Dylan Riffle, Kanu Chandra, Kimia Yazdani, Michael Ross) |
+| Individuals with placements in two or more years | 9+ confirmed (Adrian Bahani, Naren Sathiya, Candace Wu, Neeraj Kumar, Ali Shahbaz, Dylan Riffle, Kanu Chandra, Kimia Yazdani, Michael Ross). Plus 5+ in finalist-or-placement combinations: Derek Omuro (2014 Sparky 1st + 2015 ARIS finalist), Michael Bryant (2014 HydroTrack 3rd + 2015 HelioTeq + 2016 Munch), Kausthub Raj Jadhav (2016 + 2017 + 2019), Ting-Wei Lin (2017 + 2018 ZOOT 1st), Venu Madhav Gundeti (2012 + 2013), Vishal Patel (2013 same-year double finalist), Lucas Erb / Nisarg Shah / Haven King (2018 UnMail finalist → 2019 Giv 2nd Butterworth as the same trio). |
 | Teams with the same name appearing in two years | 1 (Red Lion Robotics, 2016 + 2017 Beall 2nd, only confirmed back-to-back placement) |
 | Teams that returned with a new pitch and won | 2 confirmed (Krobotech 2016 finalist → 2017 1st Beall; Memorlane 2016 finalist → 2017 1st Butterworth) |
 | Teams that returned with a new pitch and won (different team name) | 1 confirmed (AllerChain 2019 finalist → forMED 2021 1st Beall) |
