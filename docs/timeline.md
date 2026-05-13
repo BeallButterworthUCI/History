@@ -83,7 +83,7 @@ The 2026 cycle is in its final week as this archive's last update. Submissions c
 
 Two adjacent macro events shape the cycle's outcome environment:
 - **Vena Vitals (2019 Beall 1st Qardiac follow-on)** opened a new R&D lab at Roseman University of Nevada Summerlin in March 2026 (~60 jobs forecast); FDA clearance anticipated within 2026, market launch targeted late 2027.
-- **Sentinel (2024 Butterworth 1st)** was publicly launched as Spotter AI's flagship hiring/screening/compliance platform on February 17, 2026, with a March 31, 2026 expansion adding the digital driver application.
+- **Sentinel (2024 Butterworth 1st)** was publicly launched as Spotter AI's flagship hiring/screening/compliance platform on February 18, 2026, with a March 31, 2026 expansion adding the digital driver application.
 - **CARGO Therapeutics (2016 CeleriBio lead Louai Labanieh, co-founder)** completed acquisition by Concentra Biosciences on August 19, 2025 at $4.379/share + CVR (~$170.7M) - the **first documented BBComp-traceable M&A exit**.
 
 Twenty-two annual cycles after Paul Butterworth's first sponsorship and twelve after Donald Beall's, the competition has become what it was always meant to be - a place where engineers and computer scientists ship something, in front of judges who ask hard product questions, and occasionally start companies.

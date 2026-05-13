@@ -158,7 +158,7 @@ This repository exists because the institutional memory for student competitions
 | 2025 | Christine King and Zoran Nenadic both inducted into the 2025 Class of AIMBE Fellows (March 2025) |
 | 2025 | First documented BBComp-traceable M&A exit: CARGO Therapeutics (co-founded by 2016 CeleriBio lead Louai Labanieh) acquired by Concentra Biosciences for ~$170.7M (signed July 8, 2025; tender offer closed August 18, 2025; merger completed August 19, 2025) |
 | 2026 | Vena Vitals (2019 Beall 1st Qardiac follow-on) opens R&D lab at Roseman University of Nevada Summerlin (March 2026; ~60 jobs forecast) |
-| 2026 | Sentinel (2024 Butterworth 1st) publicly launched as Spotter AI's flagship platform on February 17, 2026; March 31, 2026 expansion adds digital driver application |
+| 2026 | Sentinel (2024 Butterworth 1st) publicly launched as Spotter AI's flagship platform on February 18, 2026; March 31, 2026 expansion adds digital driver application |
 
 ## 2026 Competition (Upcoming)
 
