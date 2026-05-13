@@ -309,6 +309,7 @@ These are individual-level signals, not company outcomes - but they help future 
 | Peter Jang | AllerChain, 2019 combined-track finalist | UCI BME BS with **Micro and Nano Biomedical Engineering** specialization; AEMB (honors BME society) Vice President; **now Class of 2028 at Texas A&M EnMed**; undergraduate research on ultrafine aerosols, a COVID-19 temperature sensor, and a respiratory-health dental apparatus |
 | Edouard Aleman | Instinct, 2024 Beall 2nd | UCI BME Master's student; affiliated with the **Downing Lab** (Prof. Timothy L. Downing, UCI BME) |
 | Bora Keresteci | VeinGuard, 2025 Beall 2nd | UCI BME undergraduate (2021-2025); **Data Science Intern at Vena Vitals**; prior research at BEAMS Lab, UCI Cardiovascular Innovation and Research Center, Aureka Biotechnologies, and TRUE Lab |
+| Sujal Bobba | VeinGuard, 2025 Beall 2nd | UCI BME; **Quality Engineering Intern at MicroVention-Terumo**; UCI TRUE Lab |
 | Neha Muvvala | NasoCoustics, 2025 Beall 1st | **President of UCI BMES**; on winning Venaptic team in 2024 UCI Cardiovascular Device Pitch ($20K); previously BMES Outreach Coordinator |
 | Neharika Gopikrishnan | NasoCoustics, 2025 Beall 1st | UCI BME; **R&D Engineering Intern at Philips**; technical skills in MATLAB and SolidWorks |
 | Jordan Ulibarri | NasoCoustics, 2025 Beall 1st | UCI BME senior design student; presented NasoCoustics at the UCI Annual Design Review |
