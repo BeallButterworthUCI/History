@@ -16,12 +16,12 @@ The UCI Beall Butterworth Competition exists because two families chose to fund 
 | Stage | Company | Role |
 |-------|---------|------|
 | Early career | Ingres | Chief Systems Architect |
-| 1991-1999 | Forte Software | Founder, Chief Architect, SVP - acquired by Sun Microsystems in October 1999 (~$540M in stock) |
+| 1991-1999 | Forte Software | Founder, Chief Architect, SVP - acquired by Sun Microsystems in October 1999 ($540M stock-for-stock; announced Aug 23, 1999, closed Oct 19, 1999; ~$700M fully-diluted at closing). Butterworth is recognized as a pioneer of distributed enterprise application platforms. |
 | 1999-~2003 | Sun Microsystems | Distinguished Engineer, Chief Technologist (post-Forte acquisition) |
 | ~2003-~2005 | Oracle | Architect |
 | 2005-2010 | AmberPoint | Co-founder and CTO; SOA governance products; acquired by Oracle in 2010 |
 | 2010-~2014 | Emotive | Co-founder and CTO; cloud platform for enterprise mobile |
-| ~2014-present | VANTIQ Inc. | Co-founder and CTO |
+| ~2014-present | VANTIQ Inc. (Walnut Creek, CA) | Co-founder and CTO; total funding **$92.3M** through Series B (Dec 18, 2020); ~80-83 employees as of Feb 2026 |
 
 ### UCI service & honors
 
@@ -93,3 +93,14 @@ The Beall Family Foundation also funds the **UCI MIND Joan and Don Beall Scholar
 - [arts.uci.edu - Beall Center for Art + Technology](https://www.arts.uci.edu/venue/beall-center)
 - [beallcenter.uci.edu - mission and history](https://beallcenter.uci.edu/about/mission)
 - [bbcomp.tech.uci.edu/sponsors/](https://bbcomp.tech.uci.edu/sponsors/)
+
+## UCI Innovation Leadership (Current)
+
+- **Errol Arkilic** - Chief Innovation Officer + Executive Director, **UCI Beall Applied Innovation** (since October 1, 2021). PhD aero/astro engineering, MIT; nearly a decade at NSF where he founded the **I-Corps customer-discovery program in 2011**; co-founded **M34 Capital** (2014, seed/early-stage academic-research investing) and the nonprofit **RealIndustry.org** before UCI.
+- **Matthew Hanson** - Director of New Ventures, UCI Beall Applied Innovation (ongoing).
+
+## Henry Samueli School of Engineering Leadership (2026)
+
+- **Magnus Egerstedt** served as Stacey Nicholas Dean from 2021 until March 2, 2026, when he became Provost / EVC at UNC Chapel Hill. Egerstedt is a Swedish-American roboticist with prior tenure at Georgia Tech (Steve C. Chaddick School Chair, ECE) where he built the **Robotarium** swarm-robotics testbed; at UCI he founded the **Robot Ecology Lab**.
+- **Prof. Faryar Jabbari** (MAE) became **interim Dean effective March 1, 2026**. UCI faculty for 40+ years; Senior Associate Dean for Academic Affairs since 2011; 200+ publications in control theory applied to energy systems and structural control.
+- **Distinguished Prof. Lee Swindlehurst** (UCI EECS Dept Chair; **Nicolaos G. and Sue Curtis Alexopoulos Presidential Chair**; IEEE Fellow) chairs the permanent-dean search committee (announced May 4, 2026). Research areas: detection/estimation theory in signal processing, wireless communications, biomedicine; beamforming, DOA estimation, space-time processing, MIMO. BS/MS BYU (1985/86), PhD Stanford (1991).
