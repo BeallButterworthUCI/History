@@ -24,7 +24,7 @@ Terms used throughout this archive, defined for readers who are new to UCI or to
 
 ## UCI Schools and Centers
 
-**Donald Bren School of Information and Computer Sciences (Bren School / ICS)** - UCI's school for computer science, informatics, and statistics. Hosts the Butterworth track. Named for real-estate developer Donald Bren after his $20M naming gift (announced December 2003; formal school naming June 9, 2004).
+**Donald Bren School of Information and Computer Sciences (Bren School / ICS)** - UCI's school for computer science, informatics, and statistics. Hosts the Butterworth track. Named for real-estate developer Donald Bren after his $20M naming gift (announced December 2003; formal school naming June 3, 2004).
 
 **Henry Samueli School of Engineering (Samueli)** - UCI's engineering school. Hosts the Beall track. Named for Broadcom co-founder Henry Samueli.
 
