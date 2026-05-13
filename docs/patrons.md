@@ -113,7 +113,7 @@ The Beall Family Foundation also funds the **UCI MIND Joan and Don Beall Scholar
 
 The Stella Zhang New Venture Competition (NVC) is the sister competition that shares timing and many teams with BBComp. Background of its patron:
 
-- **Stella Zhang** - **UCI Paul Merage FEMBA '05** alumna; **co-founder / COO of American Lending Center** (EB-5 immigrant-investor financing); **partner at Sunstone Management** (early-stage VC for diverse founders). Emigrated from China in 1997; her immigrant experience drives her UCI sponsorship.
+- **Stella Zhang** - **UCI Paul Merage FEMBA '05** alumna; **COO of American Lending Center** (EB-5 immigrant-investor financing; founded June 2009 by John Shen); **partner at Sunstone Management** (early-stage VC for diverse founders). Emigrated from China in 1997; her immigrant experience drives her UCI sponsorship.
 - **March 2025 commitment:** $750K over five years, lifting the NVC prize pool from $100K to $150K per year and renewing her naming sponsorship through 2031.
 
 ## Brazilian Collaboration Founder: Rafael Prikladnicki
