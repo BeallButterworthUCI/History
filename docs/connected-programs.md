@@ -36,7 +36,7 @@ The Beall Butterworth Competition is one node in a much larger UCI student-innov
 ## Beall Center for Innovation and Entrepreneurship (Paul Merage School of Business)
 
 - **What:** entrepreneurship research and education center at the Merage School.
-- **Founded:** 2007, with a **$5 million** gift from the Beall Family Foundation.
+- **Founded:** 2007, with a **$6.6 million** gift from the Beall Family Foundation.
 - **Programs:** runs the **Stella Zhang New Venture Competition** (see below); also runs UCI's masters-level Master of Innovation and Entrepreneurship (MIE) program.
 - **Source:** [merage.uci.edu - Beall Center](https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/).
 

@@ -40,7 +40,7 @@ Terms used throughout this archive, defined for readers who are new to UCI or to
 
 **Wayfinder** - a no-cost incubator for UC-affiliated startups, run by UCI Beall Applied Innovation. Several BBComp winners (e.g., Grasshopperfund) have entered Wayfinder after their cycle.
 
-**Beall Center for Innovation and Entrepreneurship** - the Merage-school entrepreneurship center. Founded 2007 with a $5M gift from the Beall Family Foundation. Runs the Stella Zhang NVC.
+**Beall Center for Innovation and Entrepreneurship** - the Merage-school entrepreneurship center. Founded 2007 with a $6.6M gift from the Beall Family Foundation. Runs the Stella Zhang NVC.
 
 **Stella Zhang New Venture Competition (NVC)** - UCI's flagship business-plan competition, sister to BBComp. >$100K prize pool, five tracks (Business Products & Services, Consumer Products, Consumer Services, Life Sciences, Social Enterprise). The companion archive at [StellaZhangUCI/History](https://github.com/StellaZhangUCI/History) covers it in the same format used here for BBComp.
 

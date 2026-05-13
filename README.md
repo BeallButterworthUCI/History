@@ -147,7 +147,7 @@ This repository exists because the institutional memory for student competitions
 | Year | Event |
 |------|-------|
 | ~2003-2004 | Paul Butterworth begins sponsoring the Butterworth Product Development Competition in ICS |
-| 2007 | Beall Family Foundation funds the Beall Center for Innovation and Entrepreneurship at the Paul Merage School of Business with $5M |
+| 2007 | Beall Family Foundation funds the Beall Center for Innovation and Entrepreneurship at the Paul Merage School of Business with $6.6M |
 | 2014 | Inaugural Beall Student Design Competition launches in the Henry Samueli School of Engineering |
 | 2019 | UCI Applied Innovation renamed UCI Beall Applied Innovation following a multimillion-dollar Beall Family gift |
 | 2023 | Paul and Jo Butterworth pledge $35.5M to the Donald Bren School of ICS - the largest alumni gift to UCI at that time |
@@ -301,7 +301,7 @@ First year at the higher prize tier ($10,000 / $6,500 / $3,500).
 | Butterworth | 1st | Sonder VR | $7,500 | A VR-based therapy environment for Autism Spectrum Disorder social-skills practice. | Erick Kusnadi (lead), Joy Chen, Yolanda La, Anuj Shah, Tia Moore |
 | Butterworth | 2nd | WeGroove | $5,000 | A sensor-driven adaptive music app that responds to the listener's movement. | Forest Agostinelli (lead), Ameya Raje, Chaiyathorn Vachirakornwattana, Prakul Agarwal |
 | Butterworth | 3rd | Munchies | $2,500 | A homemade-cuisine dining platform connecting college students with local home cooks. | Jonnathan Petote (lead), Nicky Huynh, Saray Rodriguez, Alyssa Lingad, Chan Woo Park, Vincent Gentile |
-| Beall | 1st | Tag Team | $7,500 | A small Bluetooth Low Energy device - "Tag" - used with a smartphone to help users secure belongings; also sends distress signals to emergency contacts and leverages a crowd-GPS network for lost items. (Predates Apple AirTag by ~5 years.) | Ali Shahbaz (lead), Khwaja Hassan Ahmad, Neeraj Kumar |
+| Beall | 1st | Tag Team | $7,500 | A small Bluetooth Low Energy device - "Tag" - used with a smartphone to help users secure belongings; also sends distress signals to emergency contacts and leverages a crowd-GPS network for lost items. (Predates Apple AirTag by ~5 years.) | Ali Shahbaz (lead), Khwaja Hassan Ahmed, Neeraj Kumar |
 | Beall | 2nd | Red Lion Robotics | $5,000 | Accessible tools for physical rehabilitation and assistance. (See Red Lion Robotics 2017 for the follow-on team.) | Yasemin Sarigul-Klijn, Peter Wang, Brandon Tsuge |
 | Beall | 3rd | CeleriBio | $2,500 | A rapid, quantitative diagnostic test for bloodstream infections and antibiotic resistance. | Sean Freeman, Nikki Koe, Louai Labanieh (lead), Binh Le, Sadaf Mirnia |
 
@@ -381,7 +381,7 @@ Judge **Kevin Kinsey** (then CEO of Netreo) on the 2012 cohort: *"This was, by f
 - **Career:** 30-year career at Rockwell International; served as Chairman and CEO or President and COO for 20 of those years; retired 1998. Currently Chairman of the Beall Family Foundation, principal in Dartbrook Partners LLC, and a director of Rockwell Collins and CT Realty.
 - **Beall Family philanthropy at UCI:** approximately **$30 million** total as of 2019, including:
   - Founding the **Beall Center for Art + Technology** at the Claire Trevor School of the Arts (opened 2000, named on Donald Beall's retirement from Rockwell).
-  - **$5 million** to fund the **Beall Center for Innovation and Entrepreneurship** at the Paul Merage School of Business (founded 2007).
+  - **$6.6 million** to fund the **Beall Center for Innovation and Entrepreneurship** at the Paul Merage School of Business (founded 2007).
   - Sponsoring the **Beall Student Design Competition** since its 2014 launch.
   - A multimillion-dollar gift in 2019 that prompted UCI to rename **UCI Applied Innovation → UCI Beall Applied Innovation**.
 

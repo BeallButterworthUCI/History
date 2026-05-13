@@ -77,7 +77,7 @@ The Beall Family Foundation also funds the **UCI MIND Joan and Don Beall Scholar
 | Year | Gift | Result |
 |------|------|--------|
 | 2000 | Founding gift from Rockwell International (honoring Beall's retirement) | Beall Center for Art + Technology opens at the Claire Trevor School of the Arts |
-| 2007 | $5,000,000 | Beall Center for Innovation and Entrepreneurship founded at the Paul Merage School of Business |
+| 2007 | $6,600,000 | Beall Center for Innovation and Entrepreneurship founded at the Paul Merage School of Business |
 | 2014 | Sponsorship | Beall Student Design Competition launches at the Henry Samueli School of Engineering |
 | 2018 | Operational support | Son Kenneth Beall appointed chairman of UCI's entrepreneurial hub; helps launch a master's in innovation & entrepreneurship at Merage (the only such program in the UC system at the time) |
 | 2019 | Multimillion-dollar gift | UCI Applied Innovation renamed UCI Beall Applied Innovation |
@@ -102,7 +102,7 @@ The Beall Family Foundation also funds the **UCI MIND Joan and Don Beall Scholar
 ## Henry Samueli School of Engineering Leadership (2026)
 
 - **Magnus Egerstedt** served as Stacey Nicholas Dean from 2021 until March 2, 2026, when he became Provost / EVC at UNC Chapel Hill. Egerstedt is a Swedish-American roboticist with prior tenure at Georgia Tech (Steve C. Chaddick School Chair, ECE) where he built the **Robotarium** swarm-robotics testbed; at UCI he founded the **Robot Ecology Lab**.
-- **Prof. Faryar Jabbari** (MAE) became **interim Dean effective March 1, 2026**. UCI faculty for 40+ years; Associate Dean for Academic Affairs since Oct 1, 2011, later promoted to **Senior Associate Dean for Academic Affairs**; 200+ publications in control theory applied to energy systems and structural control.
+- **Prof. Faryar Jabbari** (MAE) became **interim Dean effective March 1, 2026**. UCI faculty for 40+ years; Associate Dean for Academic Affairs since 2011, later promoted to **Senior Associate Dean for Academic Affairs**; 200+ publications in control theory applied to energy systems and structural control.
 - **Distinguished Prof. Lee Swindlehurst** (UCI EECS Dept Chair; **Nicolaos G. and Sue Curtis Alexopoulos Presidential Chair**; IEEE Fellow) chairs the permanent-dean search committee (announced May 4, 2026). Research areas: detection/estimation theory in signal processing, wireless communications, biomedicine; beamforming, DOA estimation, space-time processing, MIMO. BS/MS BYU (1985/86), PhD Stanford (1991).
 
 ## BBComp Operations
@@ -114,7 +114,7 @@ The Beall Family Foundation also funds the **UCI MIND Joan and Don Beall Scholar
 The Stella Zhang New Venture Competition (NVC) is the sister competition that shares timing and many teams with BBComp. Background of its patron:
 
 - **Stella Zhang** - **UCI Paul Merage FEMBA '05** alumna; **COO of American Lending Center** (EB-5 immigrant-investor financing; founded June 2009 by John Shen); **partner at Sunstone Management** (early-stage VC for diverse founders). Emigrated from China in 1997; her immigrant experience drives her UCI sponsorship.
-- **March 2025 commitment:** $750K over five years, lifting the NVC prize pool from $100K to $150K per year and renewing her naming sponsorship through 2031.
+- **March 2025 commitment:** $750K over five years, lifting the NVC prize pool from $100K to $150K per year and renewing her naming sponsorship for the next five years (through approximately 2030).
 
 ## Brazilian Collaboration Founder: Rafael Prikladnicki
 

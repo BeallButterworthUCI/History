@@ -181,7 +181,7 @@
         },
         {
           "date": "2026-03-25",
-          "event": "Vena Vitals (2019 Beall 1st Qardiac follow-on) opens R&D lab at Roseman University of Nevada Summerlin (120,000-sqft Roseman Bioventures incubator;; late-2027 market launch target); broader Roseman Bioventures launch announcement was March 24"
+          "event": "Vena Vitals (2019 Beall 1st Qardiac follow-on) opens R&D lab at Roseman University of Nevada Summerlin (120,000-sqft Roseman Bioventures incubator; late-2027 market launch target); broader Roseman Bioventures launch announcement was March 24"
         },
         {
           "date": "2026-03-31",
@@ -334,7 +334,7 @@
             "Natán Ampudia",
             "Spike O'Carroll"
           ],
-          "follow_on": "Won 2024 UCI Stella Zhang New Venture Competition Grand Finale ($20K + $10K track) and placed 2nd in C&C Innovative Solutions SoCal Super Pitch. Now commercialized as Spotter AI's Sentinel platform at sentinel.spotter.ai - all-in-one fleet safety platform with real-time driver monitoring, DOT compliance alerts, and AI-powered hiring/screening. Spotter AI CEO/Co-Founder: Peidi Wu; Co-Founder, CTO and CEO/Co-Founder: Peidi Wu; Co-Founder, CTO and President: Gabriel Stonys.",
+          "follow_on": "Won 2024 UCI Stella Zhang New Venture Competition Grand Finale ($20K + $10K track) and placed 2nd in C&C Innovative Solutions SoCal Super Pitch. Now commercialized as Spotter AI's Sentinel platform at sentinel.spotter.ai - all-in-one fleet safety platform with real-time driver monitoring, DOT compliance alerts, and AI-powered hiring/screening. Spotter AI CEO/Co-Founder: Peidi Wu; Co-Founder, CTO and President: Gabriel Stonys.",
           "commercial_url": "https://sentinel.spotter.ai/",
           "parent_company": "Spotter AI"
         },
@@ -405,8 +405,8 @@
           "prize_text": "$3,500",
           "prize_amount_usd": 3500,
           "project": "At-home pet fecal testing kits that ship to a partner lab for analysis.",
+          "faculty_mentor": "Prof. Lawrence Kulinsky (UCI MAE)",
           "members": [
-            "Lawrence Kulinsky",
             "Luke Chavez",
             "Will Janlaor",
             "Zarya Rajestari"
@@ -676,7 +676,7 @@
             "Nathan Tisuela"
           ],
           "project_url": "https://www.grasshopperfund.com/",
-          "follow_on": "Caitlyn Yang founded sister venture StartSmart (startsmart.co); was a Blackstone LaunchPad / Techstars top-30 semifinalist (out of 900); joined Wayfinder. Now Performance Engineer at SpaceX."
+          "follow_on": "Caitlyn Yang founded sister venture StartSmart (startsmart.co); was a Blackstone LaunchPad / Techstars top-30 semifinalist (out of 900); joined Wayfinder. Now Mechanical Engineer at SpaceX."
         },
         {
           "track": "Butterworth",
@@ -1149,7 +1149,7 @@
           "project": "Tag - a small Bluetooth Low Energy device used with a smartphone for tracking belongings and sending distress signals; leverages a crowd-GPS network. Predates Apple AirTag by ~5 years.",
           "members": [
             "Ali Shahbaz (lead)",
-            "Khwaja Hassan Ahmad",
+            "Khwaja Hassan Ahmed",
             "Neeraj Kumar"
           ]
         },
@@ -1764,7 +1764,7 @@
             "members": [
               "Ethan Kirkley",
               "Cameron Hunt",
-              "Zepyoor Khechadoorian"
+              "Zepyour Khechadoorian"
             ]
           },
           {
