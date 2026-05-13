@@ -117,9 +117,9 @@ When a piece of information cannot be sourced, this archive uses fixed sentinel 
 
 **BiNoM Lab** - Bio-Nano-Micro-manufacturing Lab at UCI MAE, directed by **Prof. Lawrence Kulinsky**. Faculty home of the 2024 Beall 3rd-place team **PetPointDx** (Zarya Rajestari et al).
 
-**HERO Lab** - UCI Computer Engineering research lab focused on embedded systems and machine learning for medical devices. Home lab of **Floranne Ellington (WatchDog 2018 Beall finalist)**, who built a wearable fetal-HR extraction abdominal patch + paired smartwatch maternal-BP system, published in IEEE Sensors Letters.
+**HERO Lab** - UCI EECS research lab (Prof. Hung Cao) focused on embedded systems and machine learning for medical devices. Home lab of **Floranne Ellington (WatchDog 2018 Beall finalist)**, who built a wearable fetal-HR extraction abdominal patch with smartphone monitoring, published in IEEE Sensors Letters (Aug 2022).
 
-**Khine Lab** - Prof. Michelle Khine's research lab at UCI BME. Khine is the densest faculty-to-PhD pipeline in the BBComp archive: at least six BBComp competitors became Khine Lab PhD alumni (Sophia Lin, Eugene Lee, Jolie McLane/Nokes, Joshua Kim, Lancy Lin, En-Fan Sophia Chou). Lab's "Shrinky Dink microfluidics" technology underpins both Vena Vitals and Makani Science.
+**Khine Lab** - Prof. Michelle Khine's research lab at UCI BME. Khine is the densest faculty-to-PhD pipeline in the BBComp archive: at least six BBComp competitors became Khine Lab PhD alumni (Sophia Lin, Eugene Lee, Jolie Nokes, Joshua Kim, Lancy Lin, En-Fan Sophia Chou). Lab's "Shrinky Dink microfluidics" technology underpins both Vena Vitals and Makani Science. Earlier (pre-UCI) Khine spinoffs include **Shrink Nanotechnologies** (from UC Merced) and **Fluxion Biosciences** (single-cell electroporation, from her PhD work).
 
 **Roseman Bioventures** - 120,000-square-foot life-science incubator on the Roseman University of Nevada Summerlin campus. **Vena Vitals** (2019 Beall 1st Qardiac follow-on) opened a new R&D lab there in March 2026 with ~60 jobs forecast.
 

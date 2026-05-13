@@ -69,7 +69,7 @@ The 2023 Butterworth 1st-place team **Eupnea** (AI mobile / web app for tubercul
 
 2024 was the year BBComp's commercial track record stopped being theoretical:
 
-- **Sentinel** (Butterworth 1st) - the AI dashcam pitched at trucking-fleet drowsiness detection - is now the commercial product **Sentinel by Spotter AI** at sentinel.spotter.ai. President: Gabriel Stonys. The team also won the 20th Stella Zhang New Venture Competition Grand Finale ($20K + $10K), placed 2nd at the C&C Innovative Solutions SoCal Super Pitch, and won the UCI AI Innovation Challenge.
+- **Sentinel** (Butterworth 1st) - the AI dashcam pitched at trucking-fleet drowsiness detection - is now the commercial product **Sentinel by Spotter AI** at sentinel.spotter.ai. CEO/Co-Founder: Peidi Wu; Co-Founder, CTO and President: Gabriel Stonys. The team also won the 20th Stella Zhang New Venture Competition Grand Finale ($20K + $10K), placed 2nd at the C&C Innovative Solutions SoCal Super Pitch, and won the UCI AI Innovation Challenge.
 - **NeoMold** (Beall 1st) - 3D-printable corrective ear molds for newborns - reached the Stella Zhang NVC top 10 of 125 teams (top 2 in Life Sciences). Founder Christine Ly is now a PhD student at the USC BioMEMS lab.
 - **Two Cube** (Butterworth 2nd) - autonomous LLM-driven bioinformatics for single-cell RNA - won 1st in the Stella Zhang NVC Life Science track ($10K). Co-founder Shushrruth Sai Srinivasan is a UCI CS PhD student with peer-reviewed publications.
 
