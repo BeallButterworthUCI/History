@@ -119,7 +119,7 @@ Documented BBComp teams that also placed or finalled at the UCI Stella Zhang New
 |-------------|-------------|---------------------|
 | **Sentinel** | 2024 Butterworth 1st | **2024 NVC Grand Prize Winner ($20K + $10K Business Products & Services 1st)** |
 | **Two Cube** | 2024 Butterworth 2nd | 2024 NVC Life Sciences track 1st ($10K) |
-| **NeoMold** | 2024 Beall 1st | 2024 NVC Life Sciences runner-up (top 10 of 125 teams from 400+ applicants) |
+| **NeoMold** | 2024 Beall 1st | 2024 NVC Life Sciences runner-up (top 10 finalists) |
 | **ChewRank** | 2023 Butterworth 3rd | 2023 NVC finalist (10-team finals) |
 | **Leprendo** | 2022 Butterworth 1st | 2022 NVC Consumer Products 1st, 2nd overall; 2023 NVC Second Prize $5,000 |
 | **Nutripair** | 2021 Butterworth 2nd | 2022 NVC Business Products & Services 1st ($10K) |

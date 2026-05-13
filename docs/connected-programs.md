@@ -52,7 +52,7 @@ The Beall Butterworth Competition is one node in a much larger UCI student-innov
 - **BBComp pipeline:** multiple BBComp teams have won both competitions in the same or following cycle:
   - **Sentinel** (2024 BBComp Butterworth 1st) - won the **2024 NVC Grand Prize ($20K + $10K Business Products & Services track)**.
   - **Two Cube** (2024 BBComp Butterworth 2nd) - won the **2024 NVC Life Sciences track 1st ($10K)**.
-  - **NeoMold** (2024 BBComp Beall 1st) - **2024 NVC Life Sciences track 2nd / runner-up** (top 10 of 125 teams from 400+ applicants).
+  - **NeoMold** (2024 BBComp Beall 1st) - **2024 NVC Life Sciences track 2nd / runner-up** (top 10 finalists).
   - **ChewRank** (2023 BBComp Butterworth 3rd) - 2023 NVC finalist (10-team finals).
   - **Leprendo** (2022 BBComp Butterworth 1st) - 2022 NVC Consumer Products 1st, 2nd overall; **2023 NVC Second Prize $5,000**.
   - **Nutripair** (2021 BBComp Butterworth 2nd) - **2022 NVC Business Products & Services 1st ($10K)**. Catlin Tran '23 specifically named as winner.
