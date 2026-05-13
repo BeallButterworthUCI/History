@@ -169,7 +169,7 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 - **Status:** **commercialized as Spotter AI's "Sentinel" platform** at [sentinel.spotter.ai](https://sentinel.spotter.ai/).
 - **Original team:** Cody He, Kevin Wu, Kyle Deck, Michael Ross, Natán Ampudia, Spike O'Carroll.
 - **Commercial product:** an all-in-one fleet safety platform for trucking - real-time driver monitoring (the original BBComp pitch), DOT compliance alerts, AI-powered hiring/screening, and recruiter tools.
-- **Parent company:** Spotter AI ([spotter.ai](https://spotter.ai/sentinel)). Spotter AI CEO/Co-Founder: Peidi Wu; Co-Founder, CTO and CEO/Co-Founder: Peidi Wu; Co-Founder, CTO and President: Gabriel Stonys.
+- **Parent company:** Spotter AI ([spotter.ai](https://spotter.ai/sentinel)). **CEO and Co-Founder: Peidi Wu** (BA Mathematics and Economics, NYU; prior CTO at NaviData; co-founder of CabinFly; Director at Morgan Stanley). **Co-Founder, CTO and President: Gabriel Stonys** (University of Illinois Urbana-Champaign; prior Mx Group, XR Trading, Simplex Investments, Allstate). General Counsel: Ignacio Vera. Additional Spotter AI products: **FuelSeek** (fuel-optimization) and **Spotter TMS** (transportation management system; reached general availability after a 500-truck pilot).
 - **Follow-on competition wins (2024):**
   - 1st place + $20K + $10K Business Products & Services track at the **20th annual UCI Stella Zhang New Venture Competition Grand Finale**.
   - 2nd place at the **C&C Innovative Solutions SoCal Super Pitch** ($1,250).

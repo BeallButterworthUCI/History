@@ -71,6 +71,9 @@ Sponsorship of the Butterworth Product Development Competition (which the Butter
 
 Total approximately **$30 million** as of 2019, including:
 
+The Beall Family Foundation also funds the **UCI MIND Joan and Don Beall Scholar Award** ($50K/year × 5, renewable) and the **Beall Scholar Program to Inspire Future STEM Leaders** for high-school students; recent 990 filings show 30+ awards per year (31 awards in 2023).
+
+
 | Year | Gift | Result |
 |------|------|--------|
 | 2000 | Founding gift from Rockwell International (honoring Beall's retirement) | Beall Center for Art + Technology opens at the Claire Trevor School of the Arts |
