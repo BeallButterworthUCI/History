@@ -73,7 +73,7 @@ The Beall Butterworth Competition is one node in a much larger UCI student-innov
 - **Partnership launched:** 2023.
 - **Inaugural cohort:** 33 PUCRS students paired with 40+ UCI students across 17 international teams.
 - **Facilitator:** **Rafael Prikladnicki** - Associate Professor of Software Engineering at PUCRS School of Technology; UCI Visiting Scholar **August 2021 - February 2023**. Research focus: distributed software development, agile methods for software development, software startups. The PUCRS partnership emerged directly from his UCI residency.
-- **Brazil-side incubator:** **Garage Internacional** (TECNOPUC) - facilitates PUCRS student visits to California, including return trips to UCI by past Brazilian Collaboration Prize winners. Confirmed 2025 return visit by Felipe Cardona, Léo Falcão, and Thomas Mello (PUCRS-side of N3.AI 2023 winning team).
+- **Brazil-side incubator:** **Garage Internacional** (TECNOPUC) - facilitates PUCRS student visits to California, including return trips to UCI by past Brazilian Collaboration Prize winners. Confirmed 2024 return visit by Felipe Cardona, Léo Falcão, and Thomas Mello (PUCRS-side of N3.AI 2023 winning team), after a delay caused by the 2024 Rio Grande do Sul floods.
 - **Award structure:** the winning team receives a travel award for an exchange visit at the partner university.
 - **Award rebranding:** "Brazilian Collaboration Prize" (2023, 2024) → "International Collaboration Prize" (2025).
 - **Winners by year:**
