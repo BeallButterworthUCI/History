@@ -387,7 +387,7 @@ These are individual-level signals, not company outcomes - but they help future 
 | Ryan Hsu | Pulsera 2023 Beall 1st | At MicroVention-Terumo (medical device company); UCI BME B.S. magna cum laude + Master of Engineering in BME; **R&D Intern at MicroVention-Terumo (June 2022 - April 2023)** before full-time conversion; previously interned at Wonderful Pistachios & Almonds |
 | Lakshmi Vibhu Narke | Eupnea, 2023 Butterworth 1st | At Microsoft (per LinkedIn); attended Microsoft Build conference |
 | Christine Ly | NeoMold, 2024 Beall 1st | PhD student, USC BioMEMS lab (since Aug 2024) |
-| Andrew Cai | Florence, 2025 Butterworth 1st | At **Virio** ("the AI marketer for vertical SaaS"; New York, NY; PitchBook profile); relationship to Florence team itself unverified |
+| Andrew Cai | Florence, 2025 Butterworth 1st | At **Virio** ("the AI marketer for vertical SaaS / enterprise"; PitchBook profile + virio.ai); UCI CS; based in San Francisco Bay Area; personal site at [andrewc.ai](https://andrewc.ai/); Florence project is listed in his Devpost portfolio |
 | Nathan Che | Florence, 2025 Butterworth 1st | **Software Engineer Intern at TwelveLabs** (video-intelligence platform); UCI CS; previously Blackstone, Microsoft, LA Metro, ROBLOX, Monitour.AI; built AI-powered lecture-analysis platform for TwelveLabs technical assessment; also building a consumer-grade hardware company (10 paying customers + 80 waitlist as of 2025) |
 | Audrey Lu | Florence, 2025 Butterworth 1st | **Software Engineer at Uber (Sunnyvale)**; UCI CS; UCI ICS Student Council Events Co-Chair (progressed from Events Committee Organizer); served as a Learning Assistant at UCI Bren ICS supporting introductory programming courses |
 | Shushrruth Sai Srinivasan | Two Cube, 2024 Butterworth 2nd | PhD student in UCI's **Mathematical, Computational, and Systems Biology (MCSB) Program**; research in Bioinformatics, Genomics, and Applied Machine Learning; peer-reviewed publications in Science Advances, Alzheimer's & Dementia, scENCORE chromatin conformation work; speaker at 2025 Health Care Forecast Conference for Two Cube |
@@ -402,7 +402,7 @@ These are individual-level signals, not company outcomes - but they help future 
 
 Several teams whose names appear prominently in the BBComp record do not have a verifiable public outcome at the time of writing - they may have shut down, never incorporated, pivoted privately, or simply not generated press. Listing them here so future contributors know what to dig into:
 
-- **Florence** (2025 Butterworth 1st) - name collision with the Generated Health "Florence AI Nurse" company (different entity); BBComp team's own status unverified. Andrew Cai's LinkedIn lists current affiliation with **Virio**; whether this is a Florence-derived venture is unverified. Audrey Lu remains at UCI as ICS Student Council Events Chair.
+- **Florence** (2025 Butterworth 1st) - name collision with the Generated Health "Florence AI Nurse" company (different entity); BBComp team's own commercial status is unverified. Andrew Cai is at Virio (the project appears in his Devpost portfolio but Virio is a separate company / not a Florence spin-out). Audrey Lu is now Software Engineer at Uber (Sunnyvale). Nathan Che is Software Engineer Intern at TwelveLabs.
 - **AINGELX** (2025 Butterworth 2nd)
 - **Vision Board** (2025 Butterworth 3rd)
 - **VeinGuard** (2025 Beall 2nd)
