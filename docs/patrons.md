@@ -21,7 +21,7 @@ The UCI Beall Butterworth Competition exists because two families chose to fund 
 | ~2003-~2005 | Oracle | Architect |
 | 2005-2010 | AmberPoint | Co-founder and CTO; SOA governance products; acquired by Oracle in 2010 |
 | 2010-~2014 | Emotive | Co-founder and CTO; cloud platform for enterprise mobile |
-| ~2014-present | VANTIQ Inc. (Walnut Creek, CA) | Co-founder and CTO; total funding **$92.3M** through Series B (Dec 18, 2020); ~80-83 employees as of Feb 2026 |
+| ~2014-present | VANTIQ Inc. (Walnut Creek, CA) | Co-founder and CTO; total funding **$92.3M** through Series B (Dec 18, 2020); **~65 staff** with reported **$7.2M revenue** and two consecutive years of 100% YoY growth (per Latka, 2025); core product is the **Real-Time AI Orchestration Platform**; launched **Wound AI** (GenAI clinical decision support for wound care) in 2025 - **2025 CODiE finalist (Best AI Solution for Healthcare)** + **2025 IoT Infrastructure Innovation Award** |
 
 ### UCI service & honors
 
@@ -104,3 +104,18 @@ The Beall Family Foundation also funds the **UCI MIND Joan and Don Beall Scholar
 - **Magnus Egerstedt** served as Stacey Nicholas Dean from 2021 until March 2, 2026, when he became Provost / EVC at UNC Chapel Hill. Egerstedt is a Swedish-American roboticist with prior tenure at Georgia Tech (Steve C. Chaddick School Chair, ECE) where he built the **Robotarium** swarm-robotics testbed; at UCI he founded the **Robot Ecology Lab**.
 - **Prof. Faryar Jabbari** (MAE) became **interim Dean effective March 1, 2026**. UCI faculty for 40+ years; Associate Dean for Academic Affairs since Oct 1, 2011, later promoted to **Senior Associate Dean for Academic Affairs**; 200+ publications in control theory applied to energy systems and structural control.
 - **Distinguished Prof. Lee Swindlehurst** (UCI EECS Dept Chair; **Nicolaos G. and Sue Curtis Alexopoulos Presidential Chair**; IEEE Fellow) chairs the permanent-dean search committee (announced May 4, 2026). Research areas: detection/estimation theory in signal processing, wireless communications, biomedicine; beamforming, DOA estimation, space-time processing, MIMO. BS/MS BYU (1985/86), PhD Stanford (1991).
+
+## BBComp Operations
+
+- **David Ochi** - **Director of the Beall Butterworth Product Design Competition** at the Samueli School. UCI alumnus: BS Biological Sciences / Social Sciences and MBA from UCI; 25+ year entrepreneur; co-founder of **Alpha Sprouts**; former Executive Director of the **UCI ANTrepreneur Center**; active in Tech Coast Venture Network.
+
+## Adjacent Patron: Stella Zhang (Stella Zhang NVC)
+
+The Stella Zhang New Venture Competition (NVC) is the sister competition that shares timing and many teams with BBComp. Background of its patron:
+
+- **Stella Zhang** - **UCI Paul Merage FEMBA '05** alumna; **co-founder / COO of American Lending Center** (EB-5 immigrant-investor financing); **partner at Sunstone Management** (early-stage VC for diverse founders). Emigrated from China in 1997; her immigrant experience drives her UCI sponsorship.
+- **March 2025 commitment:** $750K over five years, lifting the NVC prize pool from $100K to $150K per year and renewing her naming sponsorship through 2031.
+
+## Brazilian Collaboration Founder: Rafael Prikladnicki
+
+- **Rafael Prikladnicki** - **Associate Professor of Software Engineering at PUCRS** (Porto Alegre, Brazil); former Director of the **Tecnopuc** science park; PhD in Computer Science from PUCRS. Served as a **UCI Visiting Scholar from August 2021 to February 2023**, during which he set up the international PUCRS track of the 2023 BBComp. His research on distributed / global software development motivated the cross-border collaboration framework that later became the International Collaboration Prize.
