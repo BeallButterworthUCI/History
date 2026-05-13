@@ -63,7 +63,7 @@ Sponsorship of the Butterworth Product Development Competition (which the Butter
 
 ### Donald R. Beall - biography
 
-- **Education:** B.S. Engineering, San Jose State University; M.B.A., University of Pittsburgh.
+- **Education:** B.S. Metallurgical Engineering, San Jose State University (1960); M.B.A. with honors, University of Pittsburgh (1961).
 - **Career:** 30-year career at Rockwell International, retired 1998. Served as either Chairman and CEO or President and COO for 20 of those years.
 - **Current roles:** Chairman of the Beall Family Foundation; principal in Dartbrook Partners LLC; board positions including Rockwell Collins and CT Realty.
 
