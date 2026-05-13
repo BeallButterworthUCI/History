@@ -20,7 +20,7 @@ The companion archive at [StellaZhangUCI/History](https://github.com/StellaZhang
 | Team | BBComp result | NVC result |
 |------|---------------|------------|
 | **NasoCoustics** | 2025 BBComp Beall 1st | **2025 NVC Life Sciences 1st** ($10K); overall 2025 NVC Grand Prize went to non-BBComp team **Grad2Go** ($20K) |
-| **Oslo** | 2025 BBComp International Collaboration 1st | **2025 NVC Life Sciences 2nd** ($5K) |
+| **Oslo** | 2025 BBComp International Collaboration 1st | **2025 NVC Life Sciences 2nd** ($5K) + **$1K EvoNexus Fan Favorite Award** |
 | **Sentinel** | 2024 BBComp Butterworth 1st | **2024 NVC Grand Prize Winner** + Business Products 1st |
 | **Two Cube** | 2024 BBComp Butterworth 2nd | 2024 NVC Life Sciences 1st |
 | **NeoMold** | 2024 BBComp Beall 1st | 2024 NVC Runner-Up + Life Sciences 2nd |
