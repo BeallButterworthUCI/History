@@ -180,8 +180,8 @@
           "event": "Sentinel (2024 Butterworth 1st) public commercial launch as Spotter AI's flagship platform"
         },
         {
-          "date": "2026-03-24",
-          "event": "Vena Vitals (2019 Beall 1st Qardiac follow-on) opens R&D lab at Roseman University of Nevada Summerlin (120,000-sqft Roseman Bioventures incubator; ~60 jobs forecast; late-2027 market launch target)"
+          "date": "2026-03-25",
+          "event": "Vena Vitals (2019 Beall 1st Qardiac follow-on) opens R&D lab at Roseman University of Nevada Summerlin (120,000-sqft Roseman Bioventures incubator; ~60 jobs forecast; late-2027 market launch target); broader Roseman Bioventures launch announcement was March 24"
         },
         {
           "date": "2026-03-31",
@@ -1184,7 +1184,7 @@
             "Binh Le",
             "Sadaf Mirnia"
           ],
-          "follow_on": "Same year (2016): team also won 2nd place + $5,000 at the UCI Business Plan Competition Life Sciences/Clean Tech track and participated in the UCI BioAccel Solutions Challenge med-tech start-up program. CeleriBio itself did not commercialize. Team lead Louai Labanieh went on to a Stanford PhD (Crystal Mackall Lab + Parker Scholar) in synthetic biology and protein engineering for CAR-T cells (drug-regulated switches and logic-gated protein circuits). In 2021 he co-founded CARGO Therapeutics with Crystal Mackall, Nancy Goodman, and Robbie Majzner; his technologies were licensed to CARGO and supported a Phase I clinical trial of the SNIP CAR platform in relapsed/refractory solid cancers at Stanford. CARGO Therapeutics agreed to be acquired by Concentra Biosciences on July 8, 2025 at $4.379/share cash + CVR (~$170.7M total); acquisition completed August 18, 2025; delisted from Nasdaq. This is the FIRST DOCUMENTED BBComp-traceable M&A exit. Labanieh is now Assistant Professor at the Icahn School of Medicine at Mount Sinai. Other team members: Sadaf Mirnia is now Senior Supplier Quality Engineer at Medtronic."
+          "follow_on": "Same year (2016): team also won 2nd place + $5,000 at the UCI Business Plan Competition Life Sciences/Clean Tech track and participated in the UCI BioAccel Solutions Challenge med-tech start-up program. CeleriBio itself did not commercialize. Team lead Louai Labanieh went on to a Stanford PhD (Crystal Mackall Lab + Parker Scholar) in synthetic biology and protein engineering for CAR-T cells (drug-regulated switches and logic-gated protein circuits). In 2021 he co-founded CARGO Therapeutics with Crystal Mackall, Nancy Goodman, and Robbie Majzner; his technologies were licensed to CARGO and supported a Phase I clinical trial of the SNIP CAR platform in relapsed/refractory solid cancers at Stanford. CARGO Therapeutics agreed to be acquired by Concentra Biosciences on July 8, 2025 at $4.379/share cash + CVR (~$170.7M total); acquisition tender offer closed August 18, 2025; merger completed August 19, 2025; delisted from Nasdaq. This is the FIRST DOCUMENTED BBComp-traceable M&A exit. Labanieh is now Assistant Professor at the Icahn School of Medicine at Mount Sinai. Other team members: Sadaf Mirnia is now Senior Supplier Quality Engineer at Medtronic."
         }
       ],
       "source_urls": [
@@ -2405,11 +2405,11 @@
       },
       {
         "year": 2025,
-        "event": "Makani Science (Khine-co-founded follow-on of multiple BBComp BME teams) receives FDA 510(k) clearance for the Makani Respiratory Monitor (April 2, 2025); $1.1M NIH Catalyze grant"
+        "event": "Makani Science (Khine-co-founded follow-on of multiple BBComp BME teams) receives FDA 510(k) clearance for the Makani Respiratory Monitor (April 2, 2025); $1.1M NIH grant (NHLBI program)"
       },
       {
         "year": 2025,
-        "event": "First documented BBComp-traceable M&A exit: CARGO Therapeutics (co-founded by 2016 CeleriBio Beall 3rd lead Louai Labanieh) acquired by Concentra Biosciences for $4.379/share + CVR (~$170.7M total). Signed July 8, 2025; completed August 18, 2025; delisted from Nasdaq."
+        "event": "First documented BBComp-traceable M&A exit: CARGO Therapeutics (co-founded by 2016 CeleriBio Beall 3rd lead Louai Labanieh) acquired by Concentra Biosciences for $4.379/share + CVR (~$170.7M total). Signed July 8, 2025; tender offer closed August 18, 2025; merger completed August 19, 2025; delisted from Nasdaq."
       },
       {
         "year": 2026,

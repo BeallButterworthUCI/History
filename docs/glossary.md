@@ -123,4 +123,4 @@ When a piece of information cannot be sourced, this archive uses fixed sentinel 
 
 **Roseman Bioventures** - 120,000-square-foot life-science incubator on the Roseman University of Nevada Summerlin campus. **Vena Vitals** (2019 Beall 1st Qardiac follow-on) opened a new R&D lab there in March 2026 with ~60 jobs forecast.
 
-**Concentra Biosciences** - serial-acquirer biotech that **acquired CARGO Therapeutics** on August 18, 2025 at $4.379/share + CVR (~$170.7M total) - the first documented BBComp-traceable M&A exit (CARGO co-founded by 2016 CeleriBio Beall 3rd lead Louai Labanieh).
+**Concentra Biosciences** - serial-acquirer biotech that **acquired CARGO Therapeutics** on August 19, 2025 at $4.379/share + CVR (~$170.7M total) - the first documented BBComp-traceable M&A exit (CARGO co-founded by 2016 CeleriBio Beall 3rd lead Louai Labanieh).

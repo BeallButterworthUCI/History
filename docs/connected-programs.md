@@ -103,9 +103,9 @@ UC Berkeley's startup accelerator. Confirmed BBComp pipeline:
 - **Wing AI Technologies / Wing Assistant** (founded by 2017 Pippy team Karan Kanwar + Martin Gomez) - **Spring 2020 cohort**.
 - **CenSyn Inc.** (2019 Beall 2nd) - **$105K Berkeley SkyDeck Seed (September 28, 2021)**.
 
-## NIH Catalyze Grant (external follow-on)
+## NIH Grant (NHLBI) (external follow-on)
 
-NIH commercialization-focused grant program. **Makani Science** (Khine-co-founded follow-on) won a **$1.1M NIH Catalyze grant** alongside its FDA 510(k) clearance in spring 2025.
+NIH commercialization-focused grant program. **Makani Science** (Khine-co-founded follow-on) won a **$1.1M NIH grant (NHLBI program)** alongside its FDA 510(k) clearance in spring 2025.
 
 ## James Dyson Award (external follow-on)
 
