@@ -68,7 +68,7 @@ A handful of UCI faculty members have mentored multiple BBComp teams - some acro
 - **Position:** Associate Professor of Teaching, Biomedical Engineering, Henry Samueli School of Engineering, UCI.
 - **Education:** BS and MS in Mechanical Engineering from Manhattan College; PhD in Biomedical Engineering from UCI (developed brain-computer interface systems for neurorehabilitation).
 - **Research areas:** engineering and STEM education, active learning, wireless health systems, rehabilitation, brain-computer interfaces, robotics, and **women's health medical devices**.
-- **Honors:** Inducted into the **2025 Class of AIMBE Fellows** (March 2025) for **"pioneering and impactful contributions in biomedical engineering education and engineering design for women's health"**; **2024 honorable mention for Dr. De Gallow Professor of the Year**; selected for the **UCI Faculty Academy for Teaching Excellence (FATE)**.
+- **Honors:** Inducted into the **2025 Class of AIMBE Fellows** (March 2025) for **"pioneering and impactful contributions in biomedical engineering education and engineering design for women's health, and leadership in these areas"**; **2024 honorable mention for Dr. De Gallow Professor of the Year**; selected for the **UCI Faculty Academy for Teaching Excellence (FATE)**.
 - **BBComp mentees:**
   - 2024 Beall 1st - **NeoMold** (3D-printable customizable ear mold for neonates with congenital ear deformities)
   - 2025 Beall 2nd - **VeinGuard** (non-compressive cervical collar; co-medical-advisor with Dr. Yama Akbari)

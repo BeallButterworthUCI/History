@@ -21,7 +21,7 @@ The UCI Beall Butterworth Competition exists because two families chose to fund 
 | ~2003-~2005 | Oracle | Architect |
 | 2005-2010 | AmberPoint | Co-founder and CTO; SOA governance products; acquired by Oracle in 2010 |
 | 2010-~2014 | Emotive | Co-founder and CTO; cloud platform for enterprise mobile |
-| ~2014-present | VANTIQ Inc. (Walnut Creek, CA) | Co-founder and CTO; total funding **$92.3M** cumulative across rounds; Series B closed Dec 18, 2020 (~$27.8M, led by SoftBank); ~80 staff (ZoomInfo, Feb 2026); reported **$7.2M revenue** Sept 2025 (Latka) trending toward **~$12.6M in 2026** per CB Insights; core product is the **Real-Time AI Orchestration Platform**; launched **Wound AI** (GenAI clinical decision support for wound care) in 2025 - **2025 CODiE finalist (Best AI Solution for Healthcare)** + **2025 IoT Infrastructure Innovation Award** |
+| ~2014-present | VANTIQ Inc. (Walnut Creek, CA) | Co-founder and CTO; total funding **$92.3M** cumulative across rounds; **Series B announced July 17, 2019 with SoftBank as lead** ([GlobeNewswire](https://www.globenewswire.com/news-release/2019/07/17/1883993/0/en/SoftBank-Corp-Leads-VANTIQ-Series-B-Investment-Round.html)) and **recorded as closed at $27.8M on Dec 18, 2020** per Tracxn/PitchBook; ~80 staff (ZoomInfo, Feb 2026); reported **$7.2M revenue** Sept 2025 (Latka) trending toward **~$12.6M in 2026** per CB Insights; core product is the **Real-Time AI Orchestration Platform**; launched **Wound AI** (GenAI clinical decision support for wound care) in 2025 - **2025 CODiE finalist (Best AI Solution for Healthcare)** + **2025 IoT Infrastructure Innovation Award** |
 
 ### UCI service & honors
 
