@@ -25,7 +25,7 @@ Most BBComp teams are senior-design or capstone projects whose lifespan ends wit
 
 ### Vena Vitals - 2019 Beall 1st place (Qardiac)
 
-- **Status:** **active Y Combinator-backed company**, 14 employees, FDA clearance anticipated 2026.
+- **Status:** **active Y Combinator-backed company (Summer 2020 batch / S20)**, 14 employees, FDA clearance anticipated within 2026.
 - **Site:** [Y Combinator profile](https://www.ycombinator.com/companies/vena-vitals); [University Lab Partners profile](https://sites.uci.edu/mengprojects/vena-vitals/).
 - **Co-founders (2019):**
   - **Ray Liu** (CEO) - experienced medtech executive; met Khine 20+ years ago as UC Berkeley grad-school lab mates. **Education: Harvard MBA + MS UC Berkeley + BS UIUC.** **20+ years experience in digital health and medical devices.** Previously head of product for two healthtech startups with successful **acquisitions by Vizient and Cigna**; built digital health platforms reaching **8M+ Cigna subscribers**; deep medical device experience at **Siemens and GE Healthcare** (patient monitoring, healthcare diagnostics, ultrasound). Also developed large-scale digital challenge platforms used by Disney
@@ -288,7 +288,7 @@ These are individual-level signals, not company outcomes - but they help future 
 | Ting-Wei Lin | ZOOT 2018 Butterworth 1st | UX Designer at Cathay Financial Holding (Taiwan) |
 | Sanghyun Byun | FoodPool 2022 Butterworth 2nd | **AI Researcher at LG Electronics North America** (Visual Learning Representation, Efficient AI, Adaptive Networks); UCI BS Computer Science and Engineering + USC MS Computer Science (AI); was **Co-founder and Technical CFO of Foodpool Inc** (Nov 2021 - Jul 2022); at UCI worked with Prof. Aditi Majumder on medical AI |
 | Sophia Lin | A Hundred Tiny Hands, 2014 Beall 2nd | **Clinical Affairs and Project Manager at Vena Vitals** (Khine's later startup); UCI PhD in **Chemical Engineering and Materials Science** (Khine Lab); **BS in Chemical and Biomolecular Engineering from UCLA**; **invented "SuperHydro-Tension"** kit on surface tension while a doctoral student |
-| Eugene Lee | A Hundred Tiny Hands, 2014 Beall 2nd | **Khine Lab PhD alumnus** per published lab alumni page; UCI BME doctoral student who **invented the "Polytropolis" kit** (electricity & circuits fundamentals for kids) as part of A Hundred Tiny Hands |
+| Eugene Lee | A Hundred Tiny Hands, 2014 Beall 2nd | **Khine Lab PhD alumnus** (UCI BME PhD); now at **Vena Vitals** (Khine's Y Combinator follow-on); **invented the "Polytropolis" kit** (electricity & circuits fundamentals for kids) as part of A Hundred Tiny Hands |
 | Brandt Bucher | CounterAttack, 2018 Beall finalist | **Python core developer at Microsoft**, working on improving the CPython interpreter's speed; **helped design and lead the implementation of structural pattern matching in Python 3.10**; eligible voter and core team member in multiple Python Steering Council elections |
 | Karan Sekhri | Blueberry / Sparky, 2014 Butterworth 1st (lead) | **Member of Technical Staff at OpenAI** |
 | Yocelyn Recinos | Memorlane, 2017 Butterworth 1st | **Patent Agent at Clark+Elbing (Boston)**; Columbia University PhD in Systems Biology as **NSF Graduate Research Fellow**; UCI BS Biological Sciences |
