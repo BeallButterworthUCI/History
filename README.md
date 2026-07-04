@@ -11,7 +11,7 @@ This repository exists because the institutional memory for student competitions
 - [About the Competition](#about-the-competition)
 - [How to Read This Archive](#how-to-read-this-archive)
 - [Cross-Year Analytics](#cross-year-analytics)
-- [2026 Competition (Upcoming)](#2026-competition-upcoming)
+- [2026 Competition](#2026-competition)
 - [2025 Competition](#2025-competition)
 - [2024 Competition](#2024-competition)
 - [2023 Competition](#2023-competition)
@@ -57,7 +57,7 @@ This repository exists because the institutional memory for student competitions
 
 | Year | Status | Notes |
 |------|--------|-------|
-| 2026 | Upcoming | 22nd Butterworth, 13th Beall - Demo Day scheduled for May 2026 |
+| 2026 | Complete | 22nd Butterworth, 13th Beall; Demo Day May 15, 2026; Butterworth 1st BillBack, Beall 1st Neovi Medical (NeoFusion), International UNI |
 | 2025 | Complete | First year branded with the standalone "International Collaboration Prize" framing |
 | 2024 | Complete | Brazilian Collaboration Prize (Cartello); 56 concepts → 33 Demo Day teams |
 | 2023 | Complete | First year of the UCI / PUCRS Brazil partnership; Brazilian Collaboration Prize debuts |
@@ -79,6 +79,7 @@ This repository exists because the institutional memory for student competitions
 
 | Year | Theme as recorded in this archive |
 |------|-----------------------------------|
+| 2026 | Agentic AI, Embodied Robotics, and Maternal-Neonatal Devices |
 | 2025 | AI-Native Healthcare and Specialized Medical Devices |
 | 2024 | AI Safety, Additive Manufacturing, and B2B Marketplaces |
 | 2023 | Wearable Health Sensors and Maternal-Health AI |
@@ -95,6 +96,7 @@ This repository exists because the institutional memory for student competitions
 
 | Year | Disclosed Total | Notes |
 |------|----------------|-------|
+| 2026 | $10,000 / $6,500 / $3,500 per track | current tier; International Collaboration Prize (UNI) amount Not Listed |
 | 2025 | Not Listed | bbcomp page lists placements but not dollars |
 | 2024 | Not Listed | engineering.uci.edu confirmed prizes were awarded but did not enumerate |
 | 2023 | $10,000 (Beall 1st) | other amounts Not Listed |
@@ -162,21 +164,23 @@ This repository exists because the institutional memory for student competitions
 | 2026 | Stacey Nicholas Dean Magnus Egerstedt departs UCI to become Provost / EVC at UNC Chapel Hill (effective March 2, 2026); **Prof. Faryar Jabbari (MAE)** becomes interim Dean of Henry Samueli School of Engineering effective March 1, 2026; a search committee chaired by Distinguished Prof. Lee Swindlehurst is announced May 4, 2026 |
 | 2026 | UCI launches the **Engineering+ Sustainability Institute** (March 5, 2026), focused on **critical materials** (rare-earth extraction/recovery, sustainable ammonia, sustainable cement); **$2.5M seed funding over 5 years ($500K/year), part of the $50M Samueli gift for three Engineering+ institutes**. Source: [news.uci.edu, March 5, 2026](https://news.uci.edu/2026/03/05/uc-irvine-launches-engineering-sustainability-institute-to-focus-on-critical-materials/) |
 
-## 2026 Competition (Upcoming)
+## 2026 Competition
 
+**Theme:** Agentic AI, Embodied Robotics, and Maternal-Neonatal Devices.
 **Edition:** 22nd annual Butterworth, 13th annual Beall.
-**Demo Day & Awards:** **May 15, 2026, 10:00 AM - 3:00 PM PT.**
-**Venue:** The Cove @ UCI Beall Applied Innovation, 5270 California Ave, Irvine, CA 92617.
-**Submissions closed:** May 6, 2026.
+**Demo Day & Awards:** **May 15, 2026, 10:00 AM - 3:00 PM PT** at The Cove @ UCI Beall Applied Innovation (5270 California Ave, Irvine, CA 92617). Results announced May 29, 2026.
 
-### Confirmed structure (2026)
+| Track | Place | Team | Prize | Project Details | Team Members |
+|-------|-------|------|-------|-----------------|--------------|
+| Butterworth | 1st | BillBack | $10,000 | An AI-powered medical billing audit platform that helps self-insured employers find billing errors in their medical claims and recover overcharges - auto-detecting errors, predicting which are most likely to be recoverable, and generating ERISA-compliant dispute letters, cutting the audit-and-dispute workflow from nearly an hour to under 60 seconds. | Anup Kumar, Anusha Reddy Amula, Benjamin Ogboye, Karan Jain, Richa Rao, Shri Prasanna |
+| Butterworth | 2nd | Auréa | $6,500 | A B2B SaaS platform that turns generative AI video "from a slot machine into a production tool" for filmmakers, with layered editing, persistent character/location memory, and professional color-pipeline compatibility. | Farrin Marouf Sofian, Kushagra Pandey |
+| Butterworth | 3rd | Socratic OC | $3,500 | An all-in-one academic support app that consolidates tutoring, scheduling, and communication tools (Canvas, calendars, email, messaging) for educators and students. | Bruhati Aarushi Kuchi, Daniyal Rauf, Jamal Alardah, Rutu Aarabhi Kuchi, Tanvi Badadare |
+| Beall | 1st | Neovi Medical (NeoFusion) | $10,000 | NeoFusion - a fully mechanical neonatal syringe pump that delivers fluids and medications with neonatal-grade precision without electricity, batteries, or complex electronics, using a spring-powered, pendulum-regulated mechanical system for low-resource settings where electric pumps fail. | Aditi Ranabhor, Christopher Tan, Keerthana Anand, Kevin Gurney, Sarah Liu |
+| Beall | 2nd | Natavue | $6,500 | An ultrasound-compatible urinary catheter that provides continuous, objective measurements of cervical dilation and fetal vitals during labor while reducing infection risk. | An Tran, Anthony Istaphanous, Dathan Nguyen, Isaac Torosian, Joshua Varela, Lucas Jones |
+| Beall | 3rd | Atmadyne | $3,500 | Plug-and-play robotic actuators and integrated motion systems for embodied AI and advanced robotics - affordable, high-performance smart actuators and reference robotics platforms that work together out of the box. | Churui Deng, Hriday Ram, Jonathan Lin |
+| International Collaboration | 1st | UNI | Not Listed | An AI agent "friend" system that helps users turn ideas into clear plans and real action, combining a productivity tool, emotional support, and an AI agent in one product. | UCI: Jeremy Li, Runcheng Gao, Shixin Huang, Ziran Ge. PUCRS: Rafael Barbosa Asmuz |
 
-- Two competitive tracks: **Butterworth Product Development** (ICS) and **Beall Student Design** (Engineering).
-- An **International Collaboration Prize** continuing the partnership with Pontifical Catholic University of Rio Grande do Sul (PUCRS), Brazil.
-- Standard placement prizes: $10,000 (1st) / $6,500 (2nd) / $3,500 (3rd) per track.
-- Workshop facilitators (winter-spring 2026): Jeff Kunzelman, Kurt Busch, Justin Sanders, Cynthia Kirkeby, Tony Crisp, plus Emma Bardin's "Science to Stories" bonus session.
-
-> Full results will be added after the May 15, 2026 Grand Finale. See [years/2026.md](years/2026.md) for the complete 2026 cycle calendar.
+Awards were presented by BBComp director David Ochi alongside interim Engineering Dean Faryar Jabbari and ICS Dean Marios Papaefthymiou. The International Collaboration Prize (UNI) is listed on the official bbcomp winners page without a disclosed dollar amount, consistent with prior years. See [years/2026.md](years/2026.md) for the full 2026 cycle calendar, workshop facilitators, and notes.
 
 ## 2025 Competition
 
@@ -411,10 +415,10 @@ These files extend the README with material that doesn't fit cleanly into the pe
 - [docs/connected-programs.md](docs/connected-programs.md) - the broader UCI student-innovation graph (Wayfinder, Blackstone LaunchPad at UCI, ANTrepreneur Center, the Stella Zhang New Venture Competition, the PUCRS partnership, and external follow-on competitions).
 - [docs/where-are-they-now.md](docs/where-are-they-now.md) - verified post-competition outcomes for BBComp teams and individual founders, with explicit gaps for teams whose status we couldn't confirm.
 - [docs/glossary.md](docs/glossary.md) - definitions of terms, sentinel values, prize-tier history, and acronyms used throughout this archive, written for readers new to UCI or BBComp.
-- [docs/statistics.md](docs/statistics.md) - aggregated numbers computed from the JSON: track distribution, total documented people (350 unique members), 134 founders profiled, 13 verified active companies (including NxRaise, the 2025 AINGELX commercial rebrand), **first BBComp-traceable M&A exit (CARGO Therapeutics → Concentra Biosciences ~$170.7M, August 2025)**, **2 FDA-cleared products (Makani Science April 2025; Syntr Health)**, repeat appearances, theme evolution, and Stella Zhang NVC cross-competition performance.
+- [docs/statistics.md](docs/statistics.md) - aggregated numbers computed from the JSON: track distribution, total documented people (382 unique members), 134 founders profiled, 13 verified active companies (including NxRaise, the 2025 AINGELX commercial rebrand), **first BBComp-traceable M&A exit (CARGO Therapeutics → Concentra Biosciences ~$170.7M, August 2025)**, **2 FDA-cleared products (Makani Science April 2025; Syntr Health)**, repeat appearances, theme evolution, and Stella Zhang NVC cross-competition performance.
 - [docs/cross-with-stella-zhang.md](docs/cross-with-stella-zhang.md) - systematic cross-reference with the [StellaZhangUCI/History](https://github.com/StellaZhangUCI/History) sister repo: 33 founders and 10 team names appearing in both archives, plus same-year double winners and trajectory founders (Zarina Bahadur ZOOT 2018 -> 123 Baby Box NVC 2020 Grand Prize; Pippy 2017 -> Wing NVC 2018; etc.).
 
-The structured machine-readable mirror of all per-year data lives in [data/bbcomp.json](data/bbcomp.json), with a flat-row spreadsheet export at [data/winners.csv](data/winners.csv) (91 rows covering all winners, finalists, and cancelled / no-record years).
+The structured machine-readable mirror of all per-year data lives in [data/bbcomp.json](data/bbcomp.json), with a flat-row spreadsheet export at [data/winners.csv](data/winners.csv) (98 rows covering all winners, finalists, and cancelled / no-record years).
 
 ## Sources & Notes
 
