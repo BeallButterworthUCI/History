@@ -9,28 +9,28 @@ Aggregated statistics computed from [data/bbcomp.json](../data/bbcomp.json) (las
 | Metric | Value |
 |--------|-------|
 | First documented year | 2012 (9th annual Butterworth) |
-| Most recent complete year | 2025 |
-| Joint-era complete years | 11 (2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025) |
+| Most recent complete year | 2026 |
+| Joint-era complete years | 12 (2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025, 2026) |
 | Cancelled years | 1 (2020, COVID-19) |
-| In-progress years | 1 (2026, Demo Day May 15) |
+| In-progress years | 0 |
 | Pre-joint editions documented | 4 (2010, 2011, 2012, 2013) |
 | Of which no public placement record | 2 (2010, 2011) |
-| Total award rows in archive | 75 (joint-era) + 6 (pre-joint placements) = 81 |
+| Total award rows in archive | 82 (joint-era) + 6 (pre-joint placements) = 88 |
 | Pre-joint finalist rows documented | 13 (across 2012, 2013) |
 
-## Track Distribution (Joint Era 2014-2025)
+## Track Distribution (Joint Era 2014-2026)
 
 | Track | Award rows |
 |-------|------------|
-| Butterworth (ICS / software) | 39 |
-| Beall (Engineering / hardware) | 33 |
-| International / Brazilian Collaboration | 3 |
+| Butterworth (ICS / software) | 42 |
+| Beall (Engineering / hardware) | 36 |
+| International / Brazilian Collaboration | 4 |
 
 ## People
 
 | Metric | Value |
 |--------|-------|
-| Unique team members named in BBComp | 350 |
+| Unique team members named in BBComp | 382 |
 | Unique team members named in NVC (sister archive) | 187 |
 | Exact-name shared founders BBComp / NVC | 33 (34 with normalization) |
 | Founders profiled in [where-are-they-now.md](where-are-they-now.md) industry-roles table | **134** |
@@ -46,7 +46,7 @@ Aggregated statistics computed from [data/bbcomp.json](../data/bbcomp.json) (las
 
 | Metric | Value |
 |--------|-------|
-| Total disclosed prize money (sum of `prize_amount_usd` across all years) | **$350,000** |
+| Total disclosed prize money (sum of `prize_amount_usd` across all years) | **$390,000** |
 | Annual cycle purse 2018-present | $40,000+ per year (3 placements x 2 tracks at $10K/$6.5K/$3.5K) |
 | Largest single placement | $10,000 (every 1st place since 2018) |
 | Cumulative prize estimate including unspecified years (2021, 2023+, 2024+, 2025+) | Approximately $400K-$500K cash awarded across the full joint era |
@@ -110,6 +110,7 @@ Two more teams have documented partial commercialization or possible commerciali
 | Pandemic disruption | 2020-2022 | Cancelled 2020; at-home diagnostics, youth fintech, marketplaces, assistive hardware |
 | Brazil / international | 2023+ | Maternal-health AI, wearable health sensors, real-time translation hardware |
 | Deep tech | 2024-2025 | AI safety in trucking, autonomous bioinformatics, additive manufacturing, AI-native medicine, specialized medical devices |
+| Agentic AI / embodied hardware | 2026 | Agentic AI (billing audit, generative-AI video, AI-agent companions), embodied robotics/actuators, maternal-neonatal health devices |
 
 ## Cross-Competition Performance (Stella Zhang NVC)
 
