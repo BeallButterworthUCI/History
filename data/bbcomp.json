@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-05-09",
+  "last_updated": "2026-07-04",
   "competition": {
     "name": "UCI Beall Butterworth Competition",
     "short_name": "BBComp",
@@ -78,7 +78,8 @@
   "years": [
     {
       "year": 2026,
-      "status": "in_progress",
+      "status": "complete",
+      "theme": "Agentic AI, Embodied Robotics, and Maternal-Neonatal Devices",
       "edition": "22nd annual Butterworth, 13th annual Beall",
       "demo_day_planned": "2026-05-15",
       "demo_day_time": "10:00 AM - 3:00 PM PT",
@@ -161,7 +162,112 @@
           "event": "Final Product & Business Case Presentations & Awards Ceremony at The Cove"
         }
       ],
-      "awards": [],
+      "awards": [
+        {
+          "track": "Butterworth",
+          "place": "1st",
+          "team": "BillBack",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "An AI-powered medical billing audit platform that helps self-insured employers identify billing errors in their medical claims and recover detected overcharges. Uses AI/ML to automatically detect billing errors, predict which flagged errors are most likely to result in a successful recovery, and generate fully drafted, ERISA-compliant dispute letters ready to file - reducing the audit-and-dispute workflow from nearly an hour to under 60 seconds.",
+          "members": [
+            "Anup Kumar",
+            "Anusha Reddy Amula",
+            "Benjamin Ogboye",
+            "Karan Jain",
+            "Richa Rao",
+            "Shri Prasanna"
+          ]
+        },
+        {
+          "track": "Butterworth",
+          "place": "2nd",
+          "team": "Auréa",
+          "prize_text": "$6,500",
+          "prize_amount_usd": 6500,
+          "project": "A B2B SaaS platform that turns generative AI video 'from a slot machine into a production tool' for filmmakers, with layered editing, persistent character / location memory, and professional color-pipeline compatibility.",
+          "members": [
+            "Farrin Marouf Sofian",
+            "Kushagra Pandey"
+          ]
+        },
+        {
+          "track": "Butterworth",
+          "place": "3rd",
+          "team": "Socratic OC",
+          "prize_text": "$3,500",
+          "prize_amount_usd": 3500,
+          "project": "An all-in-one academic support app that consolidates tutoring, scheduling, and communication tools for educators and students - bringing the most important academic tools (Canvas, calendars, email, messaging) into one place instead of switching between apps.",
+          "members": [
+            "Bruhati Aarushi Kuchi",
+            "Daniyal Rauf",
+            "Jamal Alardah",
+            "Rutu Aarabhi Kuchi",
+            "Tanvi Badadare"
+          ]
+        },
+        {
+          "track": "Beall",
+          "place": "1st",
+          "team": "Neovi Medical (NeoFusion)",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "NeoFusion - a fully mechanical neonatal syringe pump that delivers life-saving fluids and medications with neonatal-grade precision without electricity, batteries, or complex electronics. A spring-powered, pendulum-regulated mechanical system enables accurate infusions in low-resource healthcare settings where traditional electric pumps fail.",
+          "members": [
+            "Aditi Ranabhor",
+            "Christopher Tan",
+            "Keerthana Anand",
+            "Kevin Gurney",
+            "Sarah Liu"
+          ]
+        },
+        {
+          "track": "Beall",
+          "place": "2nd",
+          "team": "Natavue",
+          "prize_text": "$6,500",
+          "prize_amount_usd": 6500,
+          "project": "An ultrasound-compatible urinary catheter that provides continuous, objective measurements of cervical dilation and fetal vitals during labor while reducing infection risk, fitting into existing labor-and-delivery care.",
+          "members": [
+            "An Tran",
+            "Anthony Istaphanous",
+            "Dathan Nguyen",
+            "Isaac Torosian",
+            "Joshua Varela",
+            "Lucas Jones"
+          ]
+        },
+        {
+          "track": "Beall",
+          "place": "3rd",
+          "team": "Atmadyne",
+          "prize_text": "$3,500",
+          "prize_amount_usd": 3500,
+          "project": "Plug-and-play robotic actuators and integrated motion systems for embodied AI and advanced robotics - affordable, high-performance smart actuators and reference robotics platforms that combine BLDC-class performance, modular hardware, integrated electronics, and developer-friendly software to work together out of the box.",
+          "members": [
+            "Churui Deng",
+            "Hriday Ram",
+            "Jonathan Lin"
+          ]
+        },
+        {
+          "track": "International Collaboration",
+          "place": "1st",
+          "team": "UNI",
+          "prize_text": "Not Listed",
+          "prize_amount_usd": null,
+          "project": "An AI agent 'friend' system that helps users turn ideas into clear plans and real action, combining three roles in one product: a productivity tool, emotional support, and an AI agent.",
+          "members_uci": [
+            "Jeremy Li",
+            "Runcheng Gao",
+            "Shixin Huang",
+            "Ziran Ge"
+          ],
+          "members_pucrs": [
+            "Rafael Barbosa Asmuz"
+          ]
+        }
+      ],
       "related_events": [
         {
           "date": "2026-05-21",
@@ -189,8 +295,9 @@
         }
       ],
       "source_urls": [
-        "https://bbcomp.tech.uci.edu/schedule/",
+        "https://ics.uci.edu/2026/05/29/students-showcase-innovation-at-2026-beall-butterworth-competition/",
         "https://bbcomp.tech.uci.edu/",
+        "https://bbcomp.tech.uci.edu/schedule/",
         "https://merage.uci.edu/events/2025/10/stella-zhang-nvc-kickoff-2026-102225.html"
       ]
     },
